@@ -1,0 +1,131 @@
+openai.Completion.create(engine="text-davinci-002", temperature=0, prompt=prompt, max_tokens=128, stop="R",)
+
+R: ["∃z':M(s,h,z')", '¬M(s,h,k)', '¬M(s,h,r)']
+A: M(s,h,c)
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748777,
+  "id": "cmpl-5LGBNzn51xA4R4sxQlEJZZzflPFos",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748780,
+  "id": "cmpl-5LGBQQGrqRVizytbsoNKXhKKGjmIQ",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748782,
+  "id": "cmpl-5LGBSLd9cIi8VwVdiWRuQZW3jDmaC",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748784,
+  "id": "cmpl-5LGBU4KikOngk9LrADBjfqFKjnwAm",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748786,
+  "id": "cmpl-5LGBWWx4Ll44a6tesBuC5gA260JHc",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748788,
+  "id": "cmpl-5LGBYdZueKsTj7ZUKzIZl0DvQRUVB",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748790,
+  "id": "cmpl-5LGBaDyiMkVlsEoh24wsH4YT5FdK5",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748792,
+  "id": "cmpl-5LGBcL6XgebQdpPy6xKgvJAuxstRL",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \u2203z': z'\u2260k \u2227 z'\u2260r \u2227 M(s,h,z')\n\n"
+    }
+  ],
+  "created": 1655748793,
+  "id": "cmpl-5LGBdLPjnLFJIfb36Cr36UQywKvwt",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}

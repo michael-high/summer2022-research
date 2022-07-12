@@ -1,0 +1,105 @@
+R:"Duncan the dog did not go in the swamp" ; "Every dog that did not go in the swamp is not muddy"
+A:"Duncan the dog is not muddy"
+
+R:"Duncan the dog is not wet" ; "Dogs that are not wet did not go in the pond or swamp"
+A:"Duncan the dog did not go in the swamp"
+
+R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"Every dog that did not go in the swamp is not muddy"
+
+R:"Cardie the dog and Biscuit the dog are wet" ; "At least one of the three dogs, Duncan the dog, Cardie the dog or Biscuit the dog, is not wet"
+A:"Duncan the dog is not wet"
+
+R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"Dogs that are not wet did not go in the pond or swamp"
+
+R:"Not all of the three dogs are wet"
+A:"At least one of the three dogs, Duncan the dog, Cardie the dog or Biscuit the dog, is not wet"
+
+R:"Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy"
+A:"If Biscuit the dog is not muddy, then Cardie the dog is muddy"
+
+R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Cardie the dog went in the pond, then Cardie the dog is not muddy"
+
+R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Cardie the dog went in the pond, then Cardie the dog is wet"
+
+R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Cardie the dog went in the swamp, then Cardie the dog is wet"
+
+R:"If Cardie the dog went in the pond, then Cardie the dog is not muddy" ; "Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy"
+A:"If Cardie the dog went in the pond, then Biscuit the dog is muddy"
+
+R:"If Cardie the dog went in the pond, then Biscuit the dog is muddy" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Cardie the dog went in the pond, then Biscuit the dog went in the swamp"
+
+R:"If Cardie the dog went in the pond, then Biscuit the dog went in the swamp" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Cardie the dog went in the pond, then Biscuit the dog is wet"
+
+R:"If Cardie the dog went in the pond, then Biscuit the dog is wet" ; "If Cardie the dog went in the pond, then Cardie the dog is wet"
+A:"If Cardie the dog went in the pond, then Cardie the dog and Biscuit the dog are wet"
+
+R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Biscuit the dog went in the pond, then Biscuit the dog is not muddy"
+
+R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Biscuit the dog went in the pond, then Biscuit the dog is wet"
+
+R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Biscuit the dog went in the swamp, then Biscuit the dog is wet"
+
+R:"If Biscuit the dog went in the pond, then Biscuit the dog is not muddy" ; "If Biscuit the dog is not muddy, then Cardie the dog is muddy"
+A:"If Biscuit the dog went in the pond, then Cardie the dog is muddy"
+
+R:"If Biscuit the dog went in the pond, then Cardie the dog is muddy" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Biscuit the dog went in the pond, then Cardie the dog went in the swamp"
+
+R:"If Biscuit the dog went in the pond, then Cardie the dog went in the swamp" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Biscuit the dog went in the pond, then Cardie the dog is wet"
+
+R:"If Biscuit the dog went in the pond, then Cardie the dog is wet" ; "If Biscuit the dog went in the pond, then Biscuit the dog is wet"
+A:"If Biscuit the dog went in the pond, then Cardie the dog and Biscuit the dog are wet"
+
+R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Duncan the dog went in the pond, then Duncan the dog is not muddy"
+
+R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Duncan the dog went in the pond, then Duncan the dog is wet"
+
+R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Duncan the dog went in the swamp, then Duncan the dog is wet"
+
+R:"If Cardie the dog went in the pond, then Cardie the dog and Biscuit the dog are wet" ; "If Biscuit the dog went in the pond, then Cardie the dog and Biscuit the dog are wet" ; "Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy"
+A:"Cardie the dog and Biscuit the dog are wet"
+
+R:"Cardie the dog and Biscuit the dog are wet"
+A:"Cardie the dog or Duncan the dog is wet"
+
+R:"Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy" ; "If Cardie the dog went in the pond, then Cardie the dog is not muddy" ; "If Biscuit the dog went in the pond, then Biscuit the dog is not muddy"
+A:"Cardie the dog or Biscuit the dog is not muddy"
+
+R:"Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy"
+A:"Cardie the dog or Biscuit the dog is muddy"
+
+R:"Cardie the dog and Biscuit the dog are wet"
+A:"Duncan the dog or Biscuit the dog is wet"
+
+R:"Duncan the dog is not wet" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"Duncan the dog did not go in the pond"
+
+R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"Every dog that is muddy did not go in the pond"
+
+R:"Every dog that is muddy did not go in the pond"
+A:"If Biscuit the dog is muddy, then Biscuit the dog did not go in the pond"
+
+R:"Every dog that is muddy did not go in the pond"
+A:"If Cardie the dog is muddy, then Cardie the dog did not go in the pond"
+
+R:"Every dog that is muddy did not go in the pond" ; "Cardie the dog or Biscuit the dog is muddy"
+A:"Cardie the dog or Biscuit the dog did not go in the pond"
+
+R:"If Biscuit the dog is not muddy, then Cardie the dog is muddy" ; "Every dog that is muddy did not go in the pond"
+A:"If Biscuit the dog is not muddy, then Cardie the dog did not go in the pond"
+

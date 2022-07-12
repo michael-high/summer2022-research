@@ -1,0 +1,20 @@
+openai.Completion.create(engine="text-davinci-002", temperature=0, prompt=prompt, max_tokens=128, stop="R",)
+Text: 5 + Q
+
+R: ['"If Cardie went in the pond, then Biscuit is muddy"', '"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "If Cardie went in the pond, then Biscuit went in the swamp"
+
+R: ['"If Cardie went in the pond, then Biscuit went in the swamp"', '"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Cardie went in the pond, then Biscuit is wet"
+
+R: ['"If Cardie went in the pond, then Biscuit is wet"', '"If Cardie went in the pond, then Cardie is wet"']
+A: "If Cardie went in the pond, then Cardie and Biscuit are wet"
+
+R: ['"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "If Biscuit went in the pond, then Biscuit is not muddy"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Biscuit went in the pond, then Biscuit is wet"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Biscuit went in the swamp, then Biscuit is wet"

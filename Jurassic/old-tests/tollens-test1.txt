@@ -1,0 +1,62 @@
+R:"If Joe likes ice cream, then he is fat" : "Joe is not fat"
+A:"Joe does not like ice cream"
+
+R:"If Rob can fly, Rob has wings" ; "Rob doesn't have wings"
+A:"Rob can't fly"
+
+R:"If you are rich, you can find a date" ; "You can't find a date"
+A:"You aren't rich"
+
+R:"If you eat bagels, you are cool" ; "You aren't cool"
+A:"You don't eat bagels"
+
+R:"If thinking is a crime, you would go free" ; "You aren't free"
+A:"Thinking isn't a crime"
+
+R:"Power outages are caused by storms" ; "No power outages"
+A:"No storms"
+
+R:"Tinnitis is caused by loud music" ; "Susy doesn't have tinnitis"
+A:"Susy didn't listen to loud music"
+
+R:"Smoke implies a fire" ; "No fire"
+A:"No smoke"
+
+R:"Warnings imply danger" ; "No danger"
+A:"No warnings"
+
+R:"If Daisy breathes, Daisy is alive" ; "Daisy is dead"
+A:"Daisy isn't breathing"
+
+----------------Tollens-Test-Jumbo1-----------------
+R:"If Joe likes ice cream, then he is fat" : "Joe is not fat"
+A:"Joe does not like ice cream"
+
+R:"If Rob can fly, Rob has wings" ; "Rob doesn't have wings"
+A:"Rob can't fly"
+
+R:"If you are rich, you can find a date" ; "You can't find a date"
+A:"You aren't rich"
+
+R:"If you eat bagels, you are cool" ; "You aren't cool"
+A:"You don't eat bagels"
+
+R:"If thinking is a crime, you would go free" ; "You aren't free"
+A:"Thinking isn't a crime"
+
+R:"Power outages are caused by storms" ; "No power outages"
+A:"No storms"
+
+R:"Tinnitis is caused by loud music" ; "Susy doesn't have tinnitis"
+A:"Susy didn't listen to loud music"
+
+R:"Smoke implies a fire" ; "No fire"
+A:"No smoke"
+
+R:"Warnings imply danger" ; "No danger"
+A:"No warnings"
+
+R:"If Daisy breathes, Daisy is alive" ; "Daisy is dead"
+
+A:"Daisy isn't breathing"
+

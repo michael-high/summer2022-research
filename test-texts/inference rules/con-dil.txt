@@ -1,0 +1,254 @@
+{[(p->q)&&(r->s)]&&(p||r)} ->(q||s)
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: If you like ice cream you are fat.
+Assumption3: Duncan the dog did not go in the swamp or I like ice cream.
+Proof: Duncan the dog is not muddy or I am fat
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+
+
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###
+Assumption1:
+Assumption2:
+Assumption3:
+Proof:
+###

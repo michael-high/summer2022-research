@@ -1,0 +1,3050 @@
+
+-------------0-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+
+Proof: Every dog that did not go in the swamp is not muddy
+         ---------EVALUATE--------
+
+-------------1-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+
+Proof: If you are rich, you can find a date
+         ---------EVALUATE--------
+
+-------------2-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+
+Proof: If Joe likes ice cream, then he is fat
+         ---------EVALUATE--------
+
+-------------3-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+
+Proof: If thinking is a crime, you would go free
+         ---------EVALUATE--------
+
+-------------4-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+
+Proof: Power outages are caused by storms
+         ---------EVALUATE--------
+
+-------------5-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+
+Proof:  Tinnitis is caused by loud music
+         ---------EVALUATE--------
+
+-------------6-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+
+Proof: Candy implies sugar
+         ---------EVALUATE--------
+
+-------------7-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+
+Proof: Assassination implies murder
+         ---------EVALUATE--------
+
+-------------8-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+
+Proof: Sinking occurs if and only if there isn't adequate buoyancy
+         ---------EVALUATE--------
+
+-------------9-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+
+Proof: There will be mistrust if there is lying
+         ---------EVALUATE--------
+___________________________________________________________________________________________________
+___________________________________________________________________________________________________
+-------------0-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+
+Proof: Every dog that did not go in the swamp is not muddy
+ Every dog that did not go in the swamp is not muddy
+
+         ---------EVALUATE--------
+
+-------------1-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+
+Proof: If you are rich, you can find a date
+ If you are rich, you can find a date
+
+         ---------EVALUATE--------
+
+-------------2-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+
+Proof: If Rob can fly, Rob has wings
+ If Rob can fly, Rob has wings
+
+         ---------EVALUATE--------
+
+-------------3-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+
+Proof: If thinking is a crime, you would go free
+ If thinking is a crime, you would go free
+
+         ---------EVALUATE--------
+
+-------------4-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+
+Proof: If you eat bagels, you are cool
+  Power outages are caused by storms
+
+         ---------EVALUATE--------
+
+-------------5-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+
+Proof: Tinnitis is caused by loud music
+ Tinnitis is caused by loud music
+
+         ---------EVALUATE--------
+
+-------------6-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+
+Proof: Candy implies sugar
+ If you eat bagels, you are cool
+
+         ---------EVALUATE--------
+
+-------------7-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+
+Proof: Assassination implies murder
+ Assassination implies murder
+
+         ---------EVALUATE--------
+
+-------------8-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+
+Proof:  Sinking occurs if and only if there isn't adequate buoyancy
+ Power outages are caused by storms
+
+         ---------EVALUATE--------
+
+-------------9-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: Power outages are caused by storms
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+
+Proof: Breakfast occurs if and only if there is food
+ There will be mistrust if there is lying
+
+         ---------EVALUATE--------
+
+
+
+
+
+
+
+
+THESE ARE ALL TRANSPOSITION
+    forgot to change label whoops
+
+
+
+
+-------------0-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+
+Proof: If Catherine's pizza has cheese, then Catherine's pizza has pepperoni
+ If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+
+         ---------EVALUATE--------
+
+-------------1-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+
+Proof: If Susy's pizza does not have cheese, then Susy is lactose intolerant
+ If someone's pizza has cheese, then they are not lactose intolerant
+
+         ---------EVALUATE--------
+
+-------------2-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+
+Proof: If a dog didn't go in the pond or didn't go in the swamp, it is not wet       #wrong negation of or is and
+ If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+
+         ---------EVALUATE--------
+
+-------------3-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+
+Proof: If Joe isn't fat, then Joe doesn't like ice cream
+ If Joe is not fat, he doesn't like ice cream.
+
+         ---------EVALUATE--------
+
+-------------4-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If Rob can fly, Rob has wings.
+
+Proof: If Rob doesn't have wings, Rob can't fly
+ If Rob doesn't have wings, Rob can't fly.
+
+         ---------EVALUATE--------
+
+-------------5-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If you are rich, you can find a date.
+
+Proof: If you are not rich, you can't find a date        wrong flip flop       #caused by is second to last
+ If you can't find a date you aren't rich.              
+
+         ---------EVALUATE--------
+
+-------------6-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If you eat bagels, you are cool.
+
+Proof: If you aren't cool, you don't eat bagels
+ If you aren't cool, you don't eat bagels
+
+         ---------EVALUATE--------
+
+-------------7-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If thinking is a crime, you would go free.
+
+Proof: If thinking is not a crime, you would go free    WRONG flip flop 3rd back
+ If you aren't free, thinking isn't a crime
+
+         ---------EVALUATE--------              5/8
+
+-------------8-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Power outages are caused by storms.                                                 p->q
+
+Proof: If storms don't cause power outages, then power outages aren't caused by storms           if !(p->q) then !(p->q)
+ If there are no power outages, then there are no storms                                         blame it on the training data
+
+         ---------EVALUATE--------      5/9
+
+-------------9-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Tinnitis is caused by loud music.
+
+Proof: If Tinnitis is not caused by loud music, then Tinnitis is not caused by loud music       WRONG see above
+ If Susy doesn't have tinnitis, Susy didn't listen to loud music
+
+         ---------EVALUATE-------- 5/10
+
+-------------10-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Smoke implies a fire.
+
+Proof: If there is no fire, there is no smoke
+ If there is no fire, there is no smoke
+
+         ---------EVALUATE--------  6/11
+
+-------------11-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Warnings imply danger.
+
+Proof: If there is no danger, there are no warnings
+ If there is no danger. there are no warnings
+
+         ---------EVALUATE--------  7/12
+
+-------------12-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Trees imply leaves.
+
+Proof: If there are no leaves, there are no trees
+ If there are no leaves, there are no trees.
+
+         ---------EVALUATE--------  8/13
+
+-------------13-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Assassination implies murder.
+
+Proof: If there is no murder, there is no assassination
+ If there is no murder, there is no assassination
+
+         ---------EVALUATE--------  9/14
+
+-------------14-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Threats imply tension.
+
+Proof: If there is no tension, there are no threats
+ If there is no tension there are no threats
+
+         ---------EVALUATE--------   10/15
+
+-------------15-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Candy implies sugar.
+
+Proof: If there is no sugar, there is no candy
+ No sugar, no candy
+
+         ---------EVALUATE--------      11/16
+
+-------------16-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+
+Proof: If sinking occurs, there is adequate buoyancy       WRONG     q->!p
+ If there isn't sinking, there is adequate buoyancy
+
+         ---------EVALUATE--------  11/17
+
+-------------17-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+
+Proof: If there isn't sinking, there is adequate buoyancy               RIGHT
+ There is adequate buoyancy; therefore, sinking does not occur
+
+         ---------EVALUATE-------- 12/18
+
+-------------18-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Breakfast occurs if and only if there is food.
+
+Proof: If there isn't breakfast, there isn't food                       RIGHT
+ No food, no breakfast
+
+         ---------EVALUATE-------- 13/19
+
+-------------19-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+
+Proof: If there is no food, there is no breakfast              RIGHT (heavily influenced by the example in the sample)
+ If there isn't breakfast, there isn't food
+
+         ---------EVALUATE-------- 14/20
+
+-------------20-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: There will be mistrust if there is lying.
+
+Proof: If there is no lying, there will be no mistrust                  WRONG
+ If there is trust, there is no lying
+
+         ---------EVALUATE-------- 15/21
+
+-------------21-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: There are clouds if and only if there is moisture.
+
+Proof: If there aren't clouds, there is no moisture             RIGHT
+ If there isn't moisture there are no clouds
+
+         ---------EVALUATE--------  16/22
+
+-------------22-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: There are clouds if and only if there is moisture.
+
+Proof: If there isn't moisture there are no clouds                      Further proof of influence of example assumption in sample
+ If there aren't clouds, there is no moisture           
+
+         ---------EVALUATE--------    17/23
+
+-------------23-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+
+Proof: If Daisy isn't alive, Daisy doesn't breathe
+ If Daisy is dead then Daisy is not breathing
+
+         ---------EVALUATE--------  18/24
+
+-------------24-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If the food is hot, it is ready to eat.
+
+Proof: If the food is not ready to eat, then it is not hot
+ If the food is not ready to eat then is cold
+
+         ---------EVALUATE--------  19/25
+
+-------------25-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: If Rob doesn't have wings, Rob can't fly.
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If Susy doesn't have tinnitis, Susy didn't listen to loud music
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: If the lamp is off, it is dark.
+
+Proof: If the lamp is on, it is light.             Wrong !p->!q
+ If it is light then the lamp is on             
+
+         ---------EVALUATE--------          19/26
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+
+Proof: If Catherine's pizza has cheese, then Catherine's pizza has pepperoni.                   q->p
+ If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+
+         ---------EVALUATE--------
+
+-------------1-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+
+Proof: If someone's pizza does not have cheese, then they are not lactose intolerant            q->!p
+ If someone's pizza has cheese, then they are not lactose intolerant
+
+         ---------EVALUATE--------
+
+-------------2-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+
+Proof: If a dog went in the swamp, then it is not wet.
+ If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+
+         ---------EVALUATE--------
+
+-------------3-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+
+Proof: If Joe is not fat, then Joe doesn't like ice cream
+ If Joe is not fat, he doesn't like ice cream.
+
+         ---------EVALUATE--------
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+Syntax error
+
+    
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+
+Proof: If Catherine's pizza has cheese, then Catherine's pizza has pepperoni.
+ If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+
+         ---------EVALUATE--------
+
+-------------1-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+
+Proof: If someone's pizza does not have cheese, then they are not lactose intolerant
+ If someone's pizza has cheese, then they are not lactose intolerant
+
+         ---------EVALUATE--------
+
+-------------2-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: If Joe is not fat, he doesn't like ice cream.
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+
+Proof: If a dog went in the swamp, then it is not wet.
+ If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+
+         ---------EVALUATE--------
+
+-------------3-Comp-Simpl-Jumbo1---------2022-07-08--------
+
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+
+Proof: If Joe is not fat, then Joe does not like ice cream
+ If Joe is not fat, he doesn't like ice cream.
+
+         ---------EVALUATE--------

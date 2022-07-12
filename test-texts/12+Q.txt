@@ -1,0 +1,17 @@
+"""R:"Duncan is a dog" ; "Duncan did not go in the swamp" ; "Every dog that did not go in the swamp is not muddy"
+A:"Duncan is not muddy"
+
+R:"Either Catherine's pizza or Emily's pizza, or both, has pepperoni." ; "Catherine's pizza does not have pepperoni."
+A:"Emily's pizza has pepperoni."
+
+R:"Mark is a good computer scientist." ; "All good computer scientists have a degree in computer science."
+A:"Mark has a degree in computer science."
+
+R:"Catherine's pizza has cheese." ; "Catherine's pizza has pepperoni."
+A:"Catherine's pizza has pepperoni and cheese."
+
+R:"Biscuit is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Biscuit went in the swamp, then Biscuit is wet"
+
+R:"Mark passed all required classes for the computer science major." ; "Algorithms is a required class for the computer science major."
+A:"Mark passed an algorithms class."

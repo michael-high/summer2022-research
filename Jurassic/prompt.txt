@@ -1,0 +1,40 @@
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy

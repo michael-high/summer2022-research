@@ -1,0 +1,123 @@
+Assumption1: Duncan the dog did not go in the swamp.
+Assumption2: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: Duncan the dog is not wet.
+Assumption2: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog did not go in the swamp
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: Cardie the dog and Biscuit the dog are wet.
+Assumption2: At least one of the three dogs, Duncan the dog, Cardie the dog or Biscuit the dog, is not wet.
+Proof: Duncan the dog is not wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: Dogs that are not wet did not go in the pond or swamp
+###
+Assumption1: Not all of the three dogs are wet.
+Proof: At least one of the three dogs, Duncan the dog, Cardie the dog or Biscuit the dog, is not wet
+###
+Assumption1: Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy.
+Proof: If Biscuit the dog is not muddy, then Cardie the dog is muddy
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Cardie the dog went in the pond, then Cardie the dog is not muddy
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Cardie the dog went in the pond, then Cardie the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Cardie the dog went in the swamp, then Cardie the dog is wet
+###
+Assumption1: If Cardie the dog went in the pond, then Cardie the dog is not muddy.
+Assumption2: Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy.
+Proof: If Cardie the dog went in the pond, then Biscuit the dog is muddy
+###
+Assumption1: If Cardie the dog went in the pond, then Biscuit the dog is muddy.
+Assumption2: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Cardie the dog went in the pond, then Biscuit the dog went in the swamp
+###
+Assumption1: If Cardie the dog went in the pond, then Biscuit the dog went in the swamp.
+Assumption2: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Cardie the dog went in the pond, then Biscuit the dog is wet
+###
+Assumption1: If Cardie the dog went in the pond, then Biscuit the dog is wet.
+Assumption2: If Cardie the dog went in the pond, then Cardie the dog is wet.
+Proof: If Cardie the dog went in the pond, then Cardie the dog and Biscuit the dog are wet
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Biscuit the dog went in the pond, then Biscuit the dog is not muddy
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Biscuit the dog went in the pond, then Biscuit the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Biscuit the dog went in the swamp, then Biscuit the dog is wet
+###
+Assumption1: If Biscuit the dog went in the pond, then Biscuit the dog is not muddy.
+Assumption2: If Biscuit the dog is not muddy, then Cardie the dog is muddy.
+Proof: If Biscuit the dog went in the pond, then Cardie the dog is muddy
+###
+Assumption1: If Biscuit the dog went in the pond, then Cardie the dog is muddy.
+Assumption2: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Biscuit the dog went in the pond, then Cardie the dog went in the swamp
+###
+Assumption1: If Biscuit the dog went in the pond, then Cardie the dog went in the swamp.
+Assumption2: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Biscuit the dog went in the pond, then Cardie the dog is wet
+###
+Assumption1: If Biscuit the dog went in the pond, then Cardie the dog is wet.
+Assumption2: If Biscuit the dog went in the pond, then Biscuit the dog is wet.
+Proof: If Biscuit the dog went in the pond, then Cardie the dog and Biscuit the dog are wet
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Duncan the dog went in the pond, then Duncan the dog is not muddy
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Duncan the dog went in the pond, then Duncan the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Duncan the dog went in the swamp, then Duncan the dog is wet
+###
+Assumption1: If Cardie the dog went in the pond, then Cardie the dog and Biscuit the dog are wet.
+Assumption2: If Biscuit the dog went in the pond, then Cardie the dog and Biscuit the dog are wet.
+Assumption3: Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy.
+Proof: Cardie the dog and Biscuit the dog are wet
+###
+Assumption1: Cardie the dog and Biscuit the dog are wet.
+Proof: Cardie the dog or Duncan the dog is wet
+###
+Assumption1: Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy.
+Assumption2: If Cardie the dog went in the pond, then Cardie the dog is not muddy.
+Assumption3: If Biscuit the dog went in the pond, then Biscuit the dog is not muddy.
+Proof: Cardie the dog or Biscuit the dog is not muddy
+###
+Assumption1: Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy.
+Proof: Cardie the dog or Biscuit the dog is muddy
+###
+Assumption1: Cardie the dog and Biscuit the dog are wet.
+Proof: Duncan the dog or Biscuit the dog is wet
+###
+Assumption1: Duncan the dog is not wet.
+Assumption2: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: Duncan the dog did not go in the pond
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: Every dog that is muddy did not go in the pond
+###
+Assumption1: Every dog that is muddy did not go in the pond.
+Proof: If Biscuit the dog is muddy, then Biscuit the dog did not go in the pond
+###
+Assumption1: Every dog that is muddy did not go in the pond.
+Proof: If Cardie the dog is muddy, then Cardie the dog did not go in the pond
+###
+Assumption1: Every dog that is muddy did not go in the pond.
+Assumption2: Cardie the dog or Biscuit the dog is muddy.
+Proof: Cardie the dog or Biscuit the dog did not go in the pond
+###
+Assumption1: If Biscuit the dog is not muddy, then Cardie the dog is muddy.
+Assumption2: Every dog that is muddy did not go in the pond.
+Proof: If Biscuit the dog is not muddy, then Cardie the dog did not go in the pond
+###

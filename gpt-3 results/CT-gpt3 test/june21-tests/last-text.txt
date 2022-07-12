@@ -1,0 +1,223 @@
+Prompt:R:"If you passed a class in X then you know X." ; "Mark passed an algorithms class."
+A:"Mark knows algorithms"
+
+R:"Mark is a good computer scientist." ; "All good computer scientists have a degree in computer science."
+A:"Mark has a degree in computer science."
+
+R:"Mark has a degree in computer science." ; "If you have a degree in X then you passed all required classes for the X major."
+A:"Mark passed all required classes for the computer science major."
+
+R:"Mark passed all required classes for the computer science major." ; "Algorithms is a required class for the computer science major."
+A:"Mark passed an algorithms class."
+
+R:"If fdkjhgdkgjh is a oeiruwiurwi, then fdkjhgdkgjh is sdfksjfhsk" ; "fdkjhgdkgjh is a oeiruwiurwi"
+"""
+
+"text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+
+settings:out+= str(openai.Completion.create(engine="text-davinci-002", temperature=0, prompt=prompt, max_tokens=128, stop="R",))
+
+
+
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917933,
+  "id": "cmpl-5LyBhNIGS1MYplHu2dTrdSB82NUeA",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917935,
+  "id": "cmpl-5LyBj8D1l0JzBZ8wiZc3gMJBdJfUw",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917936,
+  "id": "cmpl-5LyBkHOEBJ2XB70Bwzohvv5Fymfoe",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917938,
+  "id": "cmpl-5LyBmn728a9RPf7xkAAuTdmDPDMyK",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917939,
+  "id": "cmpl-5LyBnaqnKyGaoedEJkVMqvYRC132x",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917940,
+  "id": "cmpl-5LyBosk70dJk9TxnEDnQoXI7NH0kU",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917942,
+  "id": "cmpl-5LyBq46dTJVSi4WVbaEaGWSXUOAkg",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917944,
+  "id": "cmpl-5LyBsS1wFNxIWVVjFKf3jKZ8YWM6X",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917945,
+  "id": "cmpl-5LyBtidlgoQDhVIyJ8zUB3aeV2hV0",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655917946,
+  "id": "cmpl-5LyBulymaouqnqtOGvMLg88G8KmW9",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""

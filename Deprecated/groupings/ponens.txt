@@ -1,0 +1,173 @@
+#Use examples with made up x/y so that contextual reasoning doesn't apply
+#Add Pizza Problems
+
+Modus Ponens: [(p->q)&&p] -> q
+
+R:"Duncan is a dog" ; "Duncan did not go in the swamp" ; "Every dog that did not go in the swamp is not muddy"
+A:"Duncan is not muddy"
+
+R:"Duncan is a dog" ; "Duncan is not wet" ; "Dogs that are not wet did not go in the pond or swamp"
+A:"Duncan did not go in the swamp"
+
+R: "I like ice cream" ; "People who like ice cream are fat"
+A: "I am fat"
+
+R: "I like ice cream" ; "If you like ice cream you are fat"
+A: "I am fat"
+
+R:"If Joe likes ice cream, then he is fat" ; "Joe likes ice cream" 
+A:"Joe is fat"
+
+R:"If Rob can fly, Rob has wings" ; "Rob can fly"
+A:"Rob has wings"
+
+R:"If you are rich, you can find a date" ; "You are rich"
+A:"You can find a date"
+
+R:"If you eat bagels, you are cool" ; "You are cool"
+A: "You eat bagels" 
+
+R:"If thinking is a crime, you would go free" ; "Thinking is a crime""
+A:You are free"
+
+R:"Power outages are caused by storms" ; "There are power outages"
+A:"There are storms"
+
+R:"Tinnitis is caused by loud music" ; "Susy listens to loud music"
+A:"Susy has tinnitis"
+
+R:"Smoke implies a fire" ; "There is smoke"
+A:"There is fire"
+
+R:"Warnings imply danger" ; "There are warnings"
+A:"There is danger"
+
+R:"Trees imply leaves" ; "Trees"
+A:"Leaves"
+
+R:"Assassination implies murder" ; "Assassination"
+A:"Murder"
+
+R:"Threats imply tension" ; "Threats"
+A:"Tension"
+
+R:"Candy implies sugar" ; "Candy"
+A:"Sugar"
+
+R:"Sinking occurs if and only if there isn't adequate bouyancy" ; "There is sinking"
+A:"There isn't adequate buoyancy"
+
+R:"Sinking occurs if and only if there isn't adequate bouyancy" ; "There isn't adequate buoyancy"
+A:"Sinking occurs"
+
+R:"Breakfast occurs if and only if there is food" ; "There is food"
+A:"There is breakfast"
+
+R:"Breakfast occurs if and only if there is food" ; "Breakfast occurs"
+A:"There is food"
+
+R:"There will be mistrust if there is lying" ; "There is lying"
+A:"There is mistrust"
+
+R:"There are clouds if and only if there is moisture" ; "There is moisture"
+A:"There are clouds"
+
+R:"There are clouds if and only if there is moisture" ; "There are clouds"
+A:"There is moisture"
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+

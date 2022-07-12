@@ -1,0 +1,13 @@
+temp:0,dv2,max len=256, 
+
+    "Cardie went in the pond"
+
+    "Cardie went in the pond"
+
+    "Cardie went in the pond"
+
+temp:0,dv2,max len=256, stop seq =\n, enter
+    The model predicted a completion that begins with a stop sequence, resulting in no output. Consider adjusting your prompt or stop sequences
+
+temp:0,dv2,max len=256, stop seq =R
+    A: "Cardie went in the pond"

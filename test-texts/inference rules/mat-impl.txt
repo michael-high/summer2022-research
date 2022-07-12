@@ -1,0 +1,158 @@
+(p->q)<->(!p||q)
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: People who like ice cream are fat.
+Proof: I don't like ice cream or I am fat
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: Power outages are caused by storms.
+Proof: There are not power outages or there are storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: Susy doesn't listen to loud music or Susy has tinnitis
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: Assassination implies murder.
+Proof: There isn't assassination or there is murder
+###
+Assumption1: Threats imply tension.
+Proof: There aren't threats or there is tension
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+###
+Assumption1: Sinking occurs if and only if there isn't adequate bouyancy.
+Proof: There isn't sinking or there is inadequate bouyancy.
+###
+Assumption1: Sinking occurs if and only if there isn't adequate bouyancy.
+Proof: There is adequate buoyancy or there is sinking
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: There isn't food or there is breakfast
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: Breakfast doesn't occur or there is food
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: There isn't lying or there is mistrust
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: The sky is clear or there is moisture
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: There is no moisture or there are clouds
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###
+Assumption1:
+Proof:
+###

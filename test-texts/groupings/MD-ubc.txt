@@ -1,0 +1,200 @@
+Modus Ponens: [(p->q)&&p] -> q
+    [(p)&&(p->q)] ->q
+        R:"Duncan is a dog" ; "Duncan did not go in the swamp" ; "Every dog that did not go in the swamp is not muddy"
+        A:"Duncan is not muddy"
+    
+    p->q implicit: l->m
+    [(l->m) && l] -> m
+        R:"Duncan is a dog" ; "Duncan is not wet" ; "Dogs that are not wet did not go in the pond or swamp"
+        A:"Duncan did not go in the swamp"
+
+
+Modus Tollens: [(p->q)&&!q] -> !p
+    [q<->(p||r)] implicit: [n<->(l||m)]
+    {[n<->(l||m)] && !l} -> !n
+        R:"Duncan is a dog" ; "Duncan is not wet" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"Duncan did not go in the pond"
+
+
+Hypothetical Syllogism: [(p->q)&&(q->r)] -> (p->r)
+
+        (If a dog is muddy, it went in the swamp)&&(If a dog went in the pond, the dog is not muddy)
+    [(p->q)&&(r->!p)]  implicit: [(a->b)&&(c->!a)]&&[(x->y)&&(z->!x)]
+    {[(a->b)&&(c->!a)]&&[(x->y)&&(z->!x)] && (z->a)}  ->  (z->b)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Biscuit went in the pond, then Cardie is muddy" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+        A:"If Biscuit went in the pond, then Cardie went in the swamp"
+    
+    [q<->(p||r)]  implicit: [c<->(a||b)] && [z<->(x||y)]
+    {[c<->(a||b)]&&[z<->(x||y)] && (a->y)}  -> a->z 
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Cardie went in the pond, then Biscuit went in the swamp" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Cardie went in the pond, then Biscuit is wet"
+
+    [q<->(p||r)]  implicit: [c<->(a||b)] && [z<->(x||y)]
+    {[c<->(a||b)]&&[z<->(x||y)] && (x->b)}  -> x->c 
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Biscuit went in the pond, then Cardie went in the swamp" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Biscuit went in the pond, then Cardie is wet"
+
+    [p->q] implicit: (a->b)&&(x->y) 
+    [(a->b)&&(x->y) && (!x->a)}  ->  (!x->b)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Biscuit is not muddy, then Cardie is muddy" ; "Every dog that is muddy did not go in the pond"
+        A:"If Biscuit is not muddy, then Cardie did not go in the pond"
+
+    [(x->y)&&(y->a)]->(x->a)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Biscuit went in the pond, then Biscuit is not muddy" ; "If Biscuit is not muddy, then Cardie is muddy"
+        A:"If Biscuit went in the pond, then Cardie is muddy"
+
+    [(p->q)&&(r->!p)]  implicit: [(a->b)&&(c->!a)]&&[(x->y)&&(z->!x)]
+    {[(a->b)&&(c->!a)]&&[(x->y)&&(z->!x)] && (c->a)}  -> c->b
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Cardie went in the pond, then Biscuit is muddy" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+        A:"If Cardie went in the pond, then Biscuit went in the swamp"
+
+        (If Cardie went in the pond, Biscuit did not)&&(If Biscuit went in the pond, Cardie did not) (p->q)&&(!q->!p)
+    [(p->q)&&(!q->!p)&&(r->s) && (p->r)] -> (p->s)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Cardie went in the pond, then Cardie is not muddy" ; "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"
+        A:"If Cardie went in the pond, then Biscuit is muddy"
+
+
+
+Destructive Syllogism: [(p||q)&&!p] -> q
+
+
+sudo-constructive Dilemma:{[(p->q)&&(r->q)]&&(p||r)} ->q
+
+    (If Cardie went in the pond, Biscuit did not)&&(If Biscuit went in the pond, Cardie did not)&&(if Cardie is not muddy then Biscuit is muddy) = (p->q)&&(!q->!p)&&(r->s)
+    [(p->q)&&(!q->!p)&&(r->s) && (p->w) && (!q->w)]  -> w
+
+    [(a->c)&&(b->c)&&(a||b)]  ->  c
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Cardie went in the pond, then Cardie and Biscuit are wet" ; "If Biscuit went in the pond, then Cardie and Biscuit are wet" ;
+             "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"
+        A:"Cardie and Biscuit are wet"
+
+
+
+Constructive Dilemma: {[(p->q)&&(r->s)]&&(p||r)} ->(q||s)
+    [p->q] implicit: (a->b)&&(x->y) 
+    [(a->b)&&(x->y) && (a||x)] -> (b||y)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "Every dog that is muddy did not go in the pond" ; "Cardie or Biscuit is muddy"
+        A:"Cardie or Biscuit did not go in the pond"
+
+    (If Cardie went in the pond, Biscuit did not)&&(If Biscuit went in the pond, Cardie did not)&&(if Cardie is not muddy then Biscuit is muddy) = (p->q)&&(!q->!p)&&(r->s)
+    [(p->q)&&(!q->!p)&&(r->s) && (p->g) && (!q->h)]  ->  g||h
+    
+    [(a->c)&&(b->d)&&(a||b)] -> c||d
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy" ; "If Cardie went in the pond, then Cardie is not muddy" ; "If Biscuit went in the pond, then Biscuit is not muddy"
+        A:"Cardie or Biscuit is not muddy"
+
+Destructive Dilemma: {[(p->q)&&(r->s)]&&(!q||!s)} -> (!p||!r)
+
+
+
+Simplification: (p&&q)-> p
+        (If a dog is muddy, it went in the swamp)&&(If a dog went in the pond, the dog is not muddy)
+    [(p->q)&&(r->!p)] -> (r->!p)
+        R:"Cardie is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+        A:"If Cardie went in the pond, then Cardie is not muddy"
+    
+    [(p->q)&&(r->!p)] -> (r->!p)
+        R:"Biscuit is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+        A:"If Biscuit went in the pond, then Biscuit is not muddy"
+
+    [(p->q)&&(r->!p)] -> (r->!p)
+        R:"Duncan is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+        A:"If Duncan went in the pond, then Duncan is not muddy"
+    
+    Bijection:
+    [(p||r) <-> q] ->    p->q
+        R:"Cardie is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Cardie went in the pond, then Cardie is wet"
+
+        R:"Cardie is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Cardie went in the swamp, then Cardie is wet"
+
+        R:"Biscuit is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Biscuit went in the pond, then Biscuit is wet"
+
+        R:"Biscuit is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Biscuit went in the swamp, then Biscuit is wet"
+
+        R:"Duncan is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Duncan went in the pond, then Duncan is wet"
+
+        R:"Duncan is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"If Duncan went in the swamp, then Duncan is wet"
+
+
+    Contrapositive:
+        (If a dog is muddy, it went in the swamp)&&(If a dog went in the pond, the dog is not muddy)->(If a dog did not go in the swamp, it is not muddy)
+    [(p->q)&&(r->!p)] -> (!q->!p)
+        R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+        A:"Every dog that did not go in the swamp is not muddy"
+    
+        (If a dog is muddy, it went in the swamp)&&(If a dog went in the pond, the dog is not muddy)->(If a dog is muddy, it did not go in the pond)
+    [(p->q)&&(r->!p)] -> (p->!r)                        
+        R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+        A:"Every dog that is muddy did not go in the pond"
+        
+        (If Cardie went in the pond, Biscuit did not)&&(If Biscuit went in the pond, Cardie did not)&&(If Cardie is not muddy then Biscuit is muddy)
+    [(p->q)&&(!q->!p)&&(r->s)]->(!s->!r)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"
+        A:"If Biscuit is not muddy, then Cardie is muddy"
+
+Conjunction: (p)&&(q) -> p&&q
+
+    [(a->x)&&(a->b)]  ->  (a->x&&b)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Cardie went in the pond, then Biscuit is wet" ; "If Cardie went in the pond, then Cardie is wet"
+        A:"If Cardie went in the pond, then Cardie and Biscuit are wet"
+      
+    [(x->a)&&(x->y)]  ->  (x -> a&&y)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "If Biscuit went in the pond, then Cardie is wet" ; "If Biscuit went in the pond, then Biscuit is wet"
+        A:"If Biscuit went in the pond, then Cardie and Biscuit are wet"  
+
+
+Addition: p -> p||q 
+
+    add-simpl
+    (p&&q) -> (p||r)  
+        R:"Cardie is a dog" ; "Duncan is a dog" ; "Cardie and Biscuit are wet"
+        A:"Cardie or Duncan is wet"
+    (p&&q) -> (q||r)
+        R:"Biscuit is a dog" ; "Duncan is a dog" ; "Cardie and Biscuit are wet"
+        A:"Duncan or Biscuit is wet"
+
+
+
+
+
+
+Negation
+    [q <-> (p||r)] -> (!q<->(!p&&!r))
+    [(q->p)||(q->r)] -> (!q<->(!p&&!r))
+        R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+        A:"Dogs that are not wet did not go in the pond or swamp"
+
+    !(a&&b&&c) -> (!a || !b || !c)
+        R:"Biscuit is a dog" ; "Cardie is a dog" ; "Duncan is a dog" ; "Not all of the three dogs are wet"
+        A:"At least one of the three dogs, Duncan, Cardie or Biscuit, is not wet"
+ 
+Universal Elimination:
+
+    (p->q) -> (p->q)                                         / (including implicit) [(p=r)&&(r->s)] -> (p->s)
+        R:"Biscuit is a dog" ; "Every dog that is muddy did not go in the pond"
+        A:"If Biscuit is muddy, then Biscuit did not go in the pond"
+
+        R:"Cardie is a dog" ; "Every dog that is muddy did not go in the pond"
+        A:"If Cardie is muddy, then Cardie did not go in the pond"
+
+
+Material Implication:
+
+    #Also Simplification 
+ (If Cardie went in the pond, Biscuit did not)&&(If Biscuit went in the pond, Cardie did not) (p->q)&&(!q->!p)
+    [(p->q)&&(!q->!p)&&(r->s)]->(!r||s)
+        R: "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy" "Biscuit is a dog" ; "Cardie is a dog" ;
+        A:"Cardie or Biscuit is muddy"
+
+Pigeonhole:
+
+    
+    [(!a || !l || !x) && (a&&x)] ->!l
+    R:"Duncan is a dog" ; "Cardie and Biscuit are wet" ; "At least one of the three dogs, Duncan, Cardie or Biscuit, is not wet"
+    A:"Duncan is not wet"

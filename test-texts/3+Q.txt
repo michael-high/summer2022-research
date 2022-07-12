@@ -1,0 +1,10 @@
+"""R:"Duncan is a dog" ; "Duncan did not go in the swamp" ; "Every dog that did not go in the swamp is not muddy"
+A:"Duncan is not muddy"
+
+R:"Either Catherine's pizza or Emily's pizza, or both, has pepperoni." ; "Catherine's pizza does not have pepperoni."
+A:"Emily's pizza has pepperoni."
+
+R:"Mark is a good computer scientist." ; "All good computer scientists have a degree in computer science."
+A:"Mark has a degree in computer science."
+
+R: <QUESTION HERE>"""

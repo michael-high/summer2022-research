@@ -1,0 +1,56 @@
+Simplification: (p&&q)-> p    
+
+R:"Cardie is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Cardie went in the pond, then Cardie is not muddy"
+    
+R:"Biscuit is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Biscuit went in the pond, then Biscuit is not muddy"
+    
+R:"Duncan is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"If Duncan went in the pond, then Duncan is not muddy"
+
+R:"Cardie is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Cardie went in the pond, then Cardie is wet"
+
+R:"Cardie is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Cardie went in the swamp, then Cardie is wet"
+
+R:"Biscuit is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Biscuit went in the pond, then Biscuit is wet"
+
+R:"Biscuit is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Biscuit went in the swamp, then Biscuit is wet"
+
+R:"Duncan is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Duncan went in the pond, then Duncan is wet"
+
+R:"Duncan is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"If Duncan went in the swamp, then Duncan is wet"
+
+R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"Every dog that did not go in the swamp is not muddy"                 
+    
+R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+A:"Every dog that is muddy did not go in the pond"
+
+R:"Biscuit is a dog" ; "Cardie is a dog" ; "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"
+A:"If Biscuit is not muddy, then Cardie is muddy"
+    
+
+
+
+
+    R:"[(p->q)&&(!q->!p)&&(r->s)]"
+    A:"(!s->!r)"
+
+    R:"[(p->q)&&(r->!p)]"
+    A:"(p->!r)"
+    
+    R:"[(p->q)&&(r->!p)]"
+    A:"(!q->!p)"  
+
+    R:"[(p||r) <-> q]"
+    A:"(p->q)"
+
+    R:"[(p->q)&&(r->!p)]"
+    A:"(r->!p)"

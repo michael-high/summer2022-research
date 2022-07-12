@@ -1,0 +1,2 @@
+openai.Completion.create(engine="text-davinci-002", temperature=1, prompt=prompt, max_tokens=128, stop="R",)
+Text: 5 + Q

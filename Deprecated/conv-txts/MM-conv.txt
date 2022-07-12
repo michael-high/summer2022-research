@@ -1,0 +1,111 @@
+R: None
+A: ∀x:∀y: [(∃x':∃z': M(x',y,z')) ∧ L(x,y)] → [∃z': M(x,y,z')]
+
+R: None
+A: ∀x:∀y:∀y': y=y' ∨ ¬L(x,y) ∨ ¬L(x,y')
+
+R: None
+A: ∀x:∀y: Q(x) → [T(x,y) → L(x,y)]
+
+R: None
+A: ∀y: [∃x:∃z: M(x,y,z)] → [∀x:∀x': x=x' ∨ ¬L(x,y) ∨ ¬L(x',y)]
+
+R: None
+A: ∀x:∀y:∀z: M(x,y,z) → ¬O(x,z)
+
+R: None
+A: Only one suspect did not tell the truth.
+
+R: None
+A: Plum testified he was in the Hall during the murder.
+
+R: None
+A: Scarlett testified she was in the Hall during the murder.
+
+R: None
+A: Green testified he was in the Dining Room during the murder.
+
+R: None
+A: Mustard owns the Knife.
+
+R: None
+A: Scarlett owns the Rope.
+
+R: None
+A: Plum owns the Candlestick.
+
+R: None
+A: The murder was done in the Hall.
+
+R: ['The murder was done in the Hall.']
+A: ∃x:∃z: M(x,h,z)
+
+R: None
+A: The murder was not done with the Knife.
+
+R: ['The murder was not done with the Knife.']
+A: ∀x:∀y: ¬M(x,y,k)
+
+R: None
+A: During the murder, Mustard was in the same location as Plum.
+
+R: ['During the murder, Mustard was in the same location as Plum.']
+A: ∃y: L(m,y) ∧ L(p,y)
+
+R: ["∀y: [∃x:∃z: M(x,y,z)] → [∀x:∀x': x=x' ∨ ¬L(x,y) ∨ ¬L(x',y)]"]
+A: [∃x:∃z: M(x,h,z)] → [∀x:∀x': x=x' ∨ ¬L(x,h) ∨ ¬L(x',h)]
+
+R: ["[∃x:∃z: M(x,h,z)] → [∀x:∀x': x=x' ∨ ¬L(x,h) ∨ ¬L(x',h)]", '∃x:∃z: M(x,h,z)']
+A: ∀x:∀x': x=x' ∨ ¬L(x,h) ∨ ¬L(x',h)
+
+R: ["∀x:∀x': x=x' ∨ ¬L(x,h) ∨ ¬L(x',h)"]
+A: ¬L(m,h) ∨ ¬L(p,h)
+
+R: ['¬L(m,h) ∨ ¬L(p,h)', '∃y: L(m,y) ∧ L(p,y)']
+A: ∃y: y≠h ∧ L(m,y) ∧ L(p,y)
+
+R: ["∀x:∀y:∀y': y=y' ∨ ¬L(x,y) ∨ ¬L(x,y')"]
+A: ∀y: y=h ∨ ¬L(p,y) ∨ ¬L(p,h)
+
+R: ['∀y: y=h ∨ ¬L(p,y) ∨ ¬L(p,h)', '∃y: y�\xa0h ∧ L(m,y) ∧ L(p,y)']
+A: ¬L(p,h)
+
+R: ['∀x:∀y: Q(x) → [T(x,y) → L(x,y)]']
+A: ∀x:∀y: [T(x,y) ∧ ¬L(x,y)] → ¬Q(x)
+
+R: ['∀x:∀y: [T(x,y) ∧ ¬L(x,y)] → ¬Q(x)']
+A: [T(p,h) ∧ ¬L(p,h)] → ¬Q(p)
+
+R: ['¬L(p,h)', 'Plum testified he was in the Hall during the murder.', '[T(p,h) ∧ ¬L(p,h)] → ¬Q(p)']
+A: ¬Q(p)
+
+R: ['¬Q(p)', 'Only one suspect did not tell the truth.']
+A: Q(s)
+
+R: ['∀x:∀y: Q(x) → [T(x,y) → L(x,y)]']
+A: Q(s) → [T(s,h) → L(s,h)]
+
+R: ['Q(s) → [T(s,h) → L(s,h)]', 'Q(s)', 'Scarlett testified she was in the Hall during the murder.']
+A: L(s,h)
+
+R: ["∀x:∀y: [(∃x':∃z': M(x',y,z')) ∧ L(x,y)] → [∃z': M(x,y,z')]"]
+A: [(∃x':∃z': M(x',h,z')) ∧ L(s,h)] → [∃z': M(s,h,z')]
+
+R: ["[(∃x':∃z': M(x',h,z')) ∧ L(s,h)] → [∃z': M(s,h,z')]", '∃x:∃z: M(x,h,z)', 'L(s,h)']
+A: ∃z':M(s,h,z')
+
+R: ['∀x:∀y:∀z: M(x,y,z) → ¬O(x,z)']
+A: ∀x:∀y:∀z: O(x,z) → ¬M(x,y,z)
+
+R: ['∀x:∀y:∀z: O(x,z) → ¬M(x,y,z)']
+A: O(s,r) → ¬M(s,h,r)
+
+R: ['O(s,r) → ¬M(s,h,r)', 'Scarlett owns the Rope.']
+A: ¬M(s,h,r)
+
+R: ['∀x:∀y: ¬M(x,y,k)']
+A: ¬M(s,h,k)
+
+R: ["∃z':M(s,h,z')", '¬M(s,h,k)', '¬M(s,h,r)']
+A: M(s,h,c)
+

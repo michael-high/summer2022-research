@@ -1,0 +1,12 @@
+R:"If you passed a class in X then you know X" ; "Mark passed an algorithms class"
+A:"Mark knows algorithms"
+
+R:"Mark is a good computer scientist" ; "All good computer scientists have a degree in computer science"
+A:"Mark has a degree in computer science"
+
+R:"Mark has a degree in computer science" ; "If you have a degree in X then you passed all required classes for the X major"
+A:"Mark passed all required classes for the computer science major"
+
+R:"Mark passed all required classes for the computer science major" ; "Algorithms is a required class for the computer science major"
+A:"Mark passed an algorithms class"
+

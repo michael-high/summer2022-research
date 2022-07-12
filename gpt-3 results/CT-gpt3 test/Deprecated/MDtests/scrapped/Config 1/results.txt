@@ -1,0 +1,133 @@
+openai.Completion.create(engine="text-davinci-002", temperature=1, prompt=prompt, max_tokens=8)
+
+Prompt: ['"If Biscuit is not muddy, then Cardie is muddy"', '"Every dog that is muddy did not go in the pond"']
+Answer:  "If Biscuit is not muddy, then Cardie did not go in the pond"
+
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie went in the pond\"\n\nR: ['\"Every dog that is muddy did not go in the pond\"']\nA: \"If Biscuit is not muddy, then Biscuit did go in the pond\"\n\nR: ['\"Cardie went in the pond\"', '\"If Biscuit is not muddy, then Biscuit did go in the pond\"', '\"Not all of the three dogs are wet\"']\nA: \"Cardie and Biscuit are wet\"\n\nR: ['\"Cardie and Biscuit are wet\"']\nA:"
+    }
+  ],
+  "created": 1655740846,
+  "id": "cmpl-5LE7SgCDT5fDPLdEHIyR8PEO9LiYs",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie did not go in the pond\"\n\nR: ['\"Every dog that did not go in the swamp is not muddy\"', '\"If Biscuit is not muddy, then Cardie is muddy\"', '\"Every dog that is muddy did not go in the pond\"']\nA: \"Biscuit 
+did not go in the swamp\"\n\nR: ['\"A dog is wet if and only if it went in the pond or it went in the swamp\"']\nA: \"Biscuit is wet\""
+    }
+  ],
+  "created": 1655740854,
+  "id": "cmpl-5LE7ajktQuPCHflgqiDuDo0425j2e",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit went in the pond\"\n\nR: ['\"If Cardie went in the pond, then Biscuit is muddy\"', '\"Every dog that is muddy did not go in the pond\"']\nA: \"Cardie went in the pond\"\n\nR: ['\" duncan is not muddy\"', '\"Cardie and Biscuit are wet\"']\nA: \"Duncan is wet\"\n\nR: ['\"Not all of the three dogs are wet\"']\nA: \"At least one of Duncan, Cardie, or Biscuit is not wet\""
+    }
+  ],
+  "created": 1655740858,
+  "id": "cmpl-5LE7e6NY7Kiuj9DR95f1kP9aSw34T",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit is not muddy and Cardie went in the pond\"\n\nR: ['\"If Biscuit is not muddy, then Cardie is muddy\"']\nA: \"Cardie is muddy\"\n\nR: ['\"Biscuit is not muddy and Cardie went in the pond\"', '\"A dog is wet if and only if it went in the pond or it went in the swamp\"']\nA: \"Biscuit went in the swamp\"\n\nR: ['\"Every dog that did not go in the swamp is not muddy\"', '\"Every dog that did not"
+    }
+  ],
+  "created": 1655740864,
+  "id": "cmpl-5LE7kSX2hwC0wDSKqLsp8IK6DDCgr",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie went in the pond\"\n\nR: ['\"Cardie went in the pond\"', '\"A dog is wet if and only if it went in the pond or it went in the swamp\"']\nA: \"Cardie is wet\"\n\nR: ['\"Cardie went in the pond\"', '\"Cardie is wet\"', '\"If Cardie went in the pond, then Cardie is wet\"']\nA: \"Biscuit did not go in the pond\"\n\nR: ['\"Cardie went in the pond\"', '\"Cardie is wet\""
+    }
+  ],
+  "created": 1655740867,
+  "id": "cmpl-5LE7nxv6qBPPEIkOs6k2WBWZPTNyP",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie did not go in the pond\"\n\nR: ['\"Every dog that is muddy did not go in the pond\"', '\"Cardie did not go in the pond\"']\nA: \"Biscuit went in the pond\"\n\nR: ['\"Biscuit went in the pond\"', '\"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy\"']\nA: \"Biscuit went in the swamp\"\n\nR: ['\"A dog is wet if and only if it went in the pond or it went in the swamp"
+    }
+  ],
+  "created": 1655740873,
+  "id": "cmpl-5LE7te3PkdFy5yIvt8s9zhNnlFpDl",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit went in the pond\"\n\nR: ['\"Biscuit went in the pond\"', '\"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy\"']\nA: \"Biscuit went in the swamp\"\n\nR: ['\"If Biscuit went in 
+the swamp, then Biscuit is wet\"', '\"Biscuit went in the pond\"', '\"A dog is wet if and only if it went in the pond or it went in the swamp\"']\nA: \"Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655740878,
+  "id": "cmpl-5LE7ynt4s4UxPwVZEPAFRqClzvmCm",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie did not go in the pond\"\n\nR: ['\"Cardie did not go in the pond\"', '\"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy\"']\nA: \"Cardie went in the swamp\"\n\nR: ['\"Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy\"']\nA: \"Biscuit went in the pond\"\n\nR: ['\"If Biscuit went in the pond, then Bisc"
+    }
+  ],
+  "created": 1655740882,
+  "id": "cmpl-5LE8206kGB8jH1iQ0Ip90Pms4Mx9S",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit did not go in the pond\"\n\nR: ['\"Duncan did not go in the pond\"']\nA: \"Cardie went in the pond\"\n\nR: ['\"A dog is wet if and only if it went in the pond or it went in the swamp\"', '\"Cardie went in the pond\"']\nA: \"Cardie is wet\"\n\nR: ['\"Every dog that is muddy did not go in the pond\"\"]\nA: \"Cardie or Duncan is muddy or one of them went in the swamp\"\n\nR: ['\""
+    }
+  ],
+  "created": 1655740888,
+  "id": "cmpl-5LE884MUJT5s9JIFrHBg1vA6tUjXm",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}

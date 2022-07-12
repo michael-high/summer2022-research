@@ -1,0 +1,204 @@
+#Make negation examples where it doesn't use no/not: dead vs alive
+
+Modus Tollens: [(p->q)&&!q] -> !p
+
+Assumption1: Duncan the dog is not wet.
+Assumption2: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: Duncan the dog did not go in the pond
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: You aren't free.
+Proof: Thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: No power outages.
+Proof: No storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: Susy doesn't have tinnitis.
+Proof: Susy didn't listen to loud music
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption2: No sinking.
+Proof: there is adequate buoyancy
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption2: there is adequate buoyancy.
+Proof: Sinking does not occur
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There isn't food.
+Proof: No breakfast
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: Breakfast doesn't occur.
+Proof: There isn't food
+###
+Assumption1: There will be mistrust if there is lying.
+Assumption2: There is no mistrust.
+Proof: There is no lying
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: There is no moisture.
+Proof: There are no clouds
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: There aren't clouds.
+Proof: There is no moisture
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###
+Assumption1: .
+Assumption2: .
+Proof: 
+###

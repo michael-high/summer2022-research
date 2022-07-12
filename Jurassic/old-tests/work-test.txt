@@ -1,0 +1,82 @@
+settings:
+temp 0, stopseq: R
+
+---------------------J1-Jumbo work-test 1---------------
+R:"Duncan is a dog" ; "Duncan did not go in the swamp" ; "Every dog that did not go in the swamp is not muddy"
+A:"Duncan is not muddy"
+
+R:"Either Catherine's pizza or Emily's pizza, or both, has pepperoni." ; "Catherine's pizza does not have pepperoni."
+A:"Emily's pizza has pepperoni."
+
+R:"Mark is a good computer scientist." ; "All good computer scientists have a degree in computer science."
+A:"Mark has a degree in computer science."
+
+R: "I like ice cream." ; "People who like ice cream are fat"
+
+A: "I like ice cream."
+
+
+---------------------J1-Jumbo work-test 2---------------
+R:"Duncan is a dog" ; "Duncan did not go in the swamp" ; "Every dog that did not go in the swamp is not muddy"
+A:"Duncan is not muddy"
+
+R:"Either Catherine's pizza or Emily's pizza, or both, has pepperoni." ; "Catherine's pizza does not have pepperoni."
+A:"Emily's pizza has pepperoni."
+
+R:"Mark is a good computer scientist." ; "All good computer scientists have a degree in computer science."
+A:"Mark has a degree in computer science."
+
+R: "I like ice cream" ; "If you like ice cream you are fat"
+
+A: "I am not fat"
+
+
+---------------------J1-Jumbo work-test 3---------------
+    R:"Cardie is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+    A:"If Cardie went in the pond, then Cardie is not muddy"
+
+    R:"Biscuit is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+    A:"If Biscuit went in the pond, then Biscuit is not muddy"
+
+    R:"Duncan is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+    A:"If Duncan went in the pond, then Duncan is not muddy"
+
+    R:"Cardie is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+    A:"If Cardie went in the pond, then Cardie is wet"
+
+    R:"Cardie is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+    A:"If Cardie went in the swamp, then Cardie is wet"
+
+    R:"Biscuit is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+    A:"If Biscuit went in the pond, then Biscuit is wet"
+
+    R:"Biscuit is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+    A:"If Biscuit went in the swamp, then Biscuit is wet"
+
+    R:"Duncan is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+    A:"If Duncan went in the pond, then Duncan is wet"
+
+    R:"Duncan is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+    A:"If Duncan went in the swamp, then Duncan is wet"
+
+    R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+    A:"Every dog that did not go in the swamp is not muddy"
+
+    R:"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+    A:"Every dog that is muddy did not go in the pond"
+
+    R:"Biscuit is a dog" ; "Cardie is a dog" ; "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"
+ 
+    A:"If Cardie is not muddy, then Biscuit is muddy"
+
+    expected: (A:"If Biscuit is not muddy, then Cardie is muddy")
+    
+    ---------------------J1-Jumbo work-test 4---------------
+    ---------------------J1-Jumbo work-test 5---------------
+    ---------------------J1-Jumbo work-test 6---------------
+    ---------------------J1-Jumbo work-test 7---------------
+    ---------------------J1-Jumbo work-test 8---------------
+    ---------------------J1-Jumbo work-test 9---------------
+    ---------------------J1-Jumbo work-test 10---------------
+    ---------------------J1-Jumbo work-test 11---------------
+    ---------------------J1-Jumbo work-test 12---------------

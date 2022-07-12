@@ -1,0 +1,131 @@
+openai.Completion.create(engine="text-davinci-002", temperature=1, prompt=prompt, max_tokens=128, stop="R",)
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Biscuit went in the swamp, then Biscuit is wet"
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655747435,
+  "id": "cmpl-5LFpjWXkPYwmrfGxHSaHclXHkXzpj",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655747437,
+  "id": "cmpl-5LFplrS2xcTHmVvBPgLZ8CNBxpvSi",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655747438,
+  "id": "cmpl-5LFpmUyNOEkSXZwlkUFCr2St2PbOo",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\""
+    }
+  ],
+  "created": 1655747440,
+  "id": "cmpl-5LFpowLQ9J92mHO8cXTyf4L3oG8cC",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\""
+    }
+  ],
+  "created": 1655747441,
+  "id": "cmpl-5LFppt5NaUEmi1shdCHDvTwZGyCxy",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655747442,
+  "id": "cmpl-5LFpqyk84ERK4bRBITNH1RUgN4bRY",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655747444,
+  "id": "cmpl-5LFpsS8WHCR35GBsAm5I4qhLm2cp3",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655747445,
+  "id": "cmpl-5LFptbwHFwL76ZdUgpn8gCO5RWQQz",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A: \"If Biscuit went in the swamp, then Biscuit is wet\"\n\n"
+    }
+  ],
+  "created": 1655747446,
+  "id": "cmpl-5LFpuH9I2MUyuBIjzMEfcuy79vhNG",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}

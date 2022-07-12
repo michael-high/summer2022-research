@@ -1,0 +1,165 @@
+#Make negation examples where it doesn't use no/not: dead vs alive
+
+Modus Tollens: [(p->q)&&!q] -> !p
+    [q<->(p||r)] implicit: [n<->(l||m)]
+    {[n<->(l||m)] && !l} -> !n
+
+
+R:"Duncan is a dog" ; "Duncan is not wet" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
+A:"Duncan did not go in the pond"
+
+R:"If Joe likes ice cream, then he is fat" ; "Joe is not fat"
+A:"Joe does not like ice cream"
+
+R:"If Rob can fly, Rob has wings" ; "Rob doesn't have wings"
+A:"Rob can't fly"
+
+R:"If you are rich, you can find a date" ; "You can't find a date"
+A:"You aren't rich"
+
+R:"If you eat bagels, you are cool" ; "You aren't cool"
+A:"You don't eat bagels"
+
+R:"If thinking is a crime, you would go free" ; "You aren't free"
+A:"Thinking isn't a crime"
+
+R:"Power outages are caused by storms" ; "No power outages"
+A:"No storms"
+
+R:"Tinnitis is caused by loud music" ; "Susy doesn't have tinnitis"
+A:"Susy didn't listen to loud music"
+
+R:"Smoke implies a fire" ; "No fire"
+A:"No smoke"
+
+R:"Warnings imply danger" ; "No danger"
+A:"No warnings"
+
+R:"Trees imply leaves" ; "No leaves"
+A:"No trees"
+
+R:"Assassination implies murder" ; "No murder"
+A:"No assassination"
+
+R:"Threats imply tension" ; "No tension"
+A:"No threats"
+
+R:"Candy implies sugar" ; "No sugar"
+A:"No candy"
+
+R:"Sinking occurs if and only if there isn't adequate bouyancy" ; "No sinking"
+A:"there is adequate buoyancy"
+
+R:"Sinking occurs if and only if there isn't adequate bouyancy" ; "there is adequate buoyancy"
+A:"Sinking does not occur"
+
+R:"Breakfast occurs if and only if there is food" ; "There isn't food"
+A:"No breakfast"
+
+R:"Breakfast occurs if and only if there is food" ; "Breakfast doesn't occur"
+A:"There isn't food"
+
+R:"There will be mistrust if there is lying" ; "There is no mistrust"
+A:"There is no lying"
+
+R:"There are clouds if and only if there is moisture" ; "There is no moisture"
+A:"There are no clouds"
+
+R:"There are clouds if and only if there is moisture" ; ""
+A:"There is no moisture"
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""
+
+R:"" ; ""
+A:""

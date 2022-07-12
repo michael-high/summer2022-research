@@ -1,0 +1,98 @@
+x: Duncan is not muddy
+y: Duncan is not wet
+
+x: A dog is wet if and only if it went in the pond or it went in the swamp
+y: Dogs that are not wet did not go in the pond or swamp
+
+x: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: Every dog that did not go in the swamp is not muddy
+
+x: Not all of the three dogs are wet
+y: At least one of the three dogs, Duncan, Cardie or Biscuit, is not wet
+
+x: Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy
+y: If Biscuit is not muddy, then Cardie is muddy
+
+x: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: If Cardie went in the pond, then Cardie is not muddy
+
+x: A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Cardie went in the pond, then Cardie is wet
+
+x: A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Cardie went in the swamp, then Cardie is wet
+
+x: If Cardie went in the pond, then Cardie is not muddy // Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy
+y: If Cardie went in the pond, then Biscuit is muddy
+
+x: If Cardie went in the pond, then Biscuit is muddy // Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: If Cardie went in the pond, then Biscuit went in the swamp
+
+x: If Cardie went in the pond, then Biscuit went in the swamp // A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Cardie went in the pond, then Biscuit is wet
+
+x: If Cardie went in the pond, then Biscuit is wet // If Cardie went in the pond, then Cardie is wet
+y: If Cardie went in the pond, then Cardie and Biscuit are wet
+
+x: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: If Biscuit went in the pond, then Biscuit is not muddy
+
+x: A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Biscuit went in the pond, then Biscuit is wet
+
+x: A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Biscuit went in the swamp, then Biscuit is wet
+
+x: If Biscuit went in the pond, then Biscuit is not muddy // If Biscuit is not muddy, then Cardie is muddy
+y: If Biscuit went in the pond, then Cardie is muddy
+
+x: If Biscuit went in the pond, then Cardie is muddy // Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: If Biscuit went in the pond, then Cardie went in the swamp
+
+x: If Biscuit went in the pond, then Cardie went in the swamp // Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: If Biscuit went in the pond, then Cardie is wet
+
+x: If Biscuit went in the pond, then Cardie is wet // A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Biscuit went in the pond, then Cardie and Biscuit are wet
+
+x: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: If Duncan went in the pond, then Duncan is not muddy
+
+x: A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Duncan went in the pond, then Duncan is wet
+
+x: A dog is wet if and only if it went in the pond or it went in the swamp
+y: If Duncan went in the swamp, then Duncan is wet
+
+x: If Cardie went in the pond, then Cardie and Biscuit are wet // If Biscuit went in the pond, then Cardie and Biscuit are wet // Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy
+y: Cardie and Biscuit are wet
+
+x: Cardie and Biscuit are wet
+y: Cardie or Duncan is wet
+
+x: Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy // If Cardie went in the pond, then Cardie is not muddy // If Biscuit went in the pond, then Biscuit is not muddy
+y: Cardie or Biscuit is not muddy
+
+x: Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy
+y: Cardie or Biscuit is muddy
+
+x: Cardie and Biscuit are wet
+y: Duncan or Biscuit is wet
+
+x: Duncan is not wet // A dog is wet if and only if it went in the pond or it went in the swamp
+y: Duncan did not go in the pond
+
+x: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy
+y: Every dog that is muddy did not go in the pond
+
+x: Every dog that is muddy did not go in the pond
+y: If Biscuit is muddy, then Biscuit did not go in the pond
+
+x: Every dog that is muddy did not go in the pond
+y: If Cardie is muddy, then Cardie did not go in the pond
+
+x: Every dog that is muddy did not go in the pond // Cardie or Biscuit is muddy
+y: Cardie or Biscuit did not go in the pond
+
+x: If Biscuit is not muddy, then Cardie is muddy // Every dog that is muddy did not go in the pond
+y: If Biscuit is not muddy, then Cardie did not go in the pond

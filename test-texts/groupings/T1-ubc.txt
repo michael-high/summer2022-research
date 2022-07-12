@@ -1,0 +1,22 @@
+ponens:
+    Assumption1: If you passed a class in X then you know X.
+    Assumption2: Mark passed an algorithms class.
+    Proof: Mark knows algorithms
+    ###
+
+    Assumption1: Mark is a good computer scientist.
+    Assumption2: All good computer scientists have a degree in computer science.
+    Proof: Mark has a degree in computer science
+    ###
+
+    Assumption1: Mark has a degree in computer science.
+    Assumption2: If you have a degree in X then you passed all required classes for the X major.
+    Proof: Mark passed all required classes for the computer science major
+    ###
+
+
+???
+    Assumption1: Mark passed all required classes for the computer science major.
+    Assumption2: Algorithms is a required class for the computer science major.
+    Proof: Mark passed an algorithms class
+    ###

@@ -1,0 +1,56 @@
+
+Transposition: (p->q)<->(!q->!p)
+    
+    Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+    Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+    ###
+    Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+    Proof: If someone's pizza has cheese, then they are not lactose intolerant
+    ###
+
+Ponens:    [(p->q)&&p] -> q
+    Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+    Assumption2: Emily's pizza has cheese.
+    Proof: Emily is not lactose intolerant
+    ###
+
+    Assumption1: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni.
+    Assumption2: Catherine's pizza does not have cheese.
+    Proof: Catherine's pizza does not have pepperoni
+    ###
+
+    Assumption1: Emily's pizza has pepperoni.
+    Assumption2: If Emily's pizza has pepperoni, then Emily's pizza also has cheese.
+    Proof: Emily's pizza has cheese
+    ###
+
+
+Simplification: (p&&q)-> p
+    
+    Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni, but Catherine's pizza does not have cheese.
+    Proof: Catherine's pizza does not have cheese
+    ###
+    Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni, but Catherine's pizza does not have cheese.
+    Proof: Either Catherine's pizza or Emily's pizza, or both, has pepperoni
+    ###
+
+Pigeonhole: [(p||q)&&!p] -> q
+    Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni.
+    Assumption2: Catherine's pizza does not have pepperoni.
+    Proof: Emily's pizza has pepperoni
+    ###
+
+Conjunction: (p)&&(q) -> (p&&q)
+    Assumption1: Catherine's pizza has cheese.
+    Assumption2: Catherine's pizza has pepperoni.
+    Proof: Catherine's pizza has pepperoni and cheese
+    ###
+
+Restatement-
+    Assumption1: Any pizza that has pepperoni also has cheese.
+    Proof: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese
+    ###
+
+    Assumption1: Any pizza that has pepperoni also has cheese.
+    Proof: If Emily's pizza has pepperoni, then Emily's pizza also has cheese
+    ###

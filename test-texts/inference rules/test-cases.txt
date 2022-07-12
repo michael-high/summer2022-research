@@ -1,0 +1,115 @@
+tollens:
+Assumption1: If Daisy breathes, Daisy is alive.
+Assumption2: Daisy is dead.
+Proof: Daisy isn't breathing
+###
+Assumption1: If the food is hot, it is ready to eat.
+Assumption2: The food is not ready to eat.
+Proof: The food is cold
+###
+Assumption1: If the food is ready to eat, it is hot.
+Assumption2: The food is cold.
+Proof: The food is not ready to eat
+###
+Assumption1: If the lamp is off, it is dark.
+Assumption2: It is light.
+Proof: The lamp is on.
+###
+
+ponens:
+Assumption1: If Daisy breathes, Daisy is alive.
+Assumption2: Daisy breathes.
+Proof: Daisy is alive
+###
+Assumption1: If the food is hot, it is ready to eat.
+Assumption2: The food is hot.
+Proof: The food is ready to eat
+###
+Assumption1: If the lamp is off, it is dark.
+Assumption2: The lamp is off.
+Proof: It is dark
+###
+
+con-dil:
+Assumption1: If Daisy breathes, Daisy is alive.
+Assumption2: If the food is hot, it is ready to eat.
+Assumption3: Daisy breathes or the food is hot.
+Proof: Daisy is alive or the food is ready to eat
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is lying.
+Proof: There is food or there is mistrust
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+
+destr-dil:
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+
+sudo-con-dil:
+Assumption1: Assassination implies murder.
+Assumption2: If you are watching British TV, there is murder.
+Assumption3: There is an assassination or you are watching British TV.
+Proof: There is murder
+###
+Assumption1: Threats imply tension.
+Assumption2: There is a tension if a rock hangs from a ceiling.
+Assumption3: There are threats or a rock hangs from the ceiling.
+Proof: There is tension
+###
+Assumption1: Candy implies sugar.
+Assumption2: Chocolate cake has sugar in it.
+Assumption3: There is candy or chocolate cake.
+Proof: There is sugar
+###
+
+mat-impl:
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+###
+
+transpo:
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: If Daisy is dead then Daisy is not breathing
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###
+
+comp-simpl:
+Assumption1: If Daisy breathes then Daisy is alive, and if the food is hot, it is ready to eat.
+Proof: If the food is hot, it is ready to eat.
+###
+Assumption1: Every muddy dog went in the swamp, and if Karen is mad she calls the manager.
+Proof: If Karen is mad she calls the manager
+###
+Assumption1: Every dog who went in the pond is not muddy, and if Sharon has cookies she is happy.
+Proof: Every dog who went in the pond is not muddy
+###

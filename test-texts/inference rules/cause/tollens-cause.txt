@@ -1,0 +1,40 @@
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe doesn't have hallucinations.
+Proof: Joe didn't eat mushrooms
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob is not old.
+Proof: Rob doesn't have hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2:  There isn't excess water.
+Proof: There aren't floods
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't smoke.
+Proof: Sam doesn't have lung cancer
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't greedy.
+Proof: Cole isn't callous
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There isn't beauty.
+Proof: There isn't attraction
+###

@@ -1,0 +1,122 @@
+openai.Completion.create(engine="text-davinci-002", temperature=1, prompt=prompt, max_tokens=8)
+
+TEXT: all
+
+
+R: ['"Duncan did not go in the swamp"', '"Every dog that did not go in the swamp is not muddy"']
+A: "Duncan is not muddy"
+
+R: None
+A: "Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"
+
+R: None
+A: "A dog is wet if and only if it went in the pond or it went in the swamp"
+
+R: None
+A: "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
+
+R: None
+A: "Not all of the three dogs are wet"
+
+R: ['"Duncan is not wet"', '"Dogs that are not wet did not go in the pond or swamp"']
+A: "Duncan did not go in the swamp"
+
+R: ['"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "Every dog that did not go in the swamp is not muddy"
+
+R: ['"Cardie and Biscuit are wet"', '"At least one of the three dogs, Duncan, Cardie or Biscuit, is not wet"']
+A: "Duncan is not wet"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "Dogs that are not wet did not go in the pond or swamp"
+
+R: ['"Not all of the three dogs are wet"']
+A: "At least one of the three dogs, Duncan, Cardie or Biscuit, is not wet"
+
+R: ['"Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"']
+A: "If Biscuit is not muddy, then Cardie is muddy"
+
+R: ['"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "If Cardie went in the pond, then Cardie is not muddy"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Cardie went in the pond, then Cardie is wet"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Cardie went in the swamp, then Cardie is wet"
+
+R: ['"If Cardie went in the pond, then Cardie is not muddy"', '"Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"']
+A: "If Cardie went in the pond, then Biscuit is muddy"
+
+R: ['"If Cardie went in the pond, then Biscuit is muddy"', '"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "If Cardie went in the pond, then Biscuit went in the swamp"
+
+R: ['"If Cardie went in the pond, then Biscuit went in the swamp"', '"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Cardie went in the pond, then Biscuit is wet"
+
+R: ['"If Cardie went in the pond, then Biscuit is wet"', '"If Cardie went in the pond, then Cardie is wet"']
+A: "If Cardie went in the pond, then Cardie and Biscuit are wet"
+
+R: ['"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "If Biscuit went in the pond, then Biscuit is not muddy"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Biscuit went in the pond, then Biscuit is wet"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Biscuit went in the swamp, then Biscuit is wet"
+
+R: ['"If Biscuit went in the pond, then Biscuit is not muddy"', '"If Biscuit is not muddy, then Cardie is muddy"']
+A: "If Biscuit went in the pond, then Cardie is muddy"
+
+R: ['"If Biscuit went in the pond, then Cardie is muddy"', '"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "If Biscuit went in the pond, then Cardie went in the swamp"
+
+R: ['"If Biscuit went in the pond, then Cardie went in the swamp"', '"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Biscuit went in the pond, then Cardie is wet"
+
+R: ['"If Biscuit went in the pond, then Cardie is wet"', '"If Biscuit went in the pond, then Biscuit is wet"']
+A: "If Biscuit went in the pond, then Cardie and Biscuit are wet"
+
+R: ['"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "If Duncan went in the pond, then Duncan is not muddy"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Duncan went in the pond, then Duncan is wet"
+
+R: ['"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "If Duncan went in the swamp, then Duncan is wet"
+
+R: ['"If Cardie went in the pond, then Cardie and Biscuit are wet"', '"If Biscuit went in the pond, then Cardie and Biscuit are wet"', '"Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"']
+A: "Cardie and Biscuit are wet"
+
+R: ['"Cardie and Biscuit are wet"']
+A: "Cardie or Duncan is wet"
+
+R: ['"Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"', '"If Cardie went in the pond, then Cardie is not muddy"', '"If Biscuit went in the pond, then Biscuit is not muddy"']
+A: "Cardie or Biscuit is not muddy"
+
+R: ['"Either Cardie or Biscuit, but not both, went in the pond, and if Cardie is not muddy then Biscuit is muddy"']
+A: "Cardie or Biscuit is muddy"
+
+R: ['"Cardie and Biscuit are wet"']
+A: "Duncan or Biscuit is wet"
+
+R: ['"Duncan is not wet"', '"A dog is wet if and only if it went in the pond or it went in the swamp"']
+A: "Duncan did not go in the pond"
+
+R: ['"Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"']
+A: "Every dog that is muddy did not go in the pond"
+
+R: ['"Every dog that is muddy did not go in the pond"']
+A: "If Biscuit is muddy, then Biscuit did not go in the pond"
+
+R: ['"Every dog that is muddy did not go in the pond"']
+A: "If Cardie is muddy, then Cardie did not go in the pond"
+
+R: ['"Every dog that is muddy did not go in the pond"', '"Cardie or Biscuit is muddy"']
+A: "Cardie or Biscuit did not go in the pond"
+
+R: ['"If Biscuit is not muddy, then Cardie is muddy"', '"Every dog that is muddy did not go in the pond"']
+A:
+

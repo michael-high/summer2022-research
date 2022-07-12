@@ -1,0 +1,54 @@
+R: ['"If someone\'s pizza has cheese, then they are not lactose intolerant."', '"Emily\'s pizza has cheese."']
+A: "Emily is not lactose intolerant."
+
+R: None
+A: "Any pizza that has pepperoni also has cheese."
+
+R: None
+A: "Either Catherine's pizza or Emily's pizza, or both, has pepperoni, but Catherine's pizza does not have cheese."
+
+R: None
+A: "If someone is lactose intolerant, then their pizza does not have cheese."
+
+R: ['"Any pizza that has pepperoni also has cheese."']
+A: "If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese."
+
+R: ['"If Catherine\'s pizza has pepperoni, then Catherine\'s pizza also has cheese."']
+A: "If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni."
+
+R: ['"Any pizza that has pepperoni also has cheese."']
+A: "If Emily's pizza has pepperoni, then Emily's pizza also has cheese."
+
+R: ['"Either Catherine\'s pizza or Emily\'s pizza, or both, has pepperoni, but Catherine\'s pizza does not have cheese."']
+A: "Catherine's pizza does not have cheese."
+
+A: "Catherine is lactose intolerant."
+
+A: "Catherine's pizza has cheese."
+
+R: ['"Either Catherine\'s pizza or Emily\'s pizza, or both, has pepperoni, but Catherine\'s pizza does not have cheese."']
+A: "Either Catherine's pizza or Emily's pizza, or both, has pepperoni."
+
+R: ['"If Catherine\'s pizza does not have cheese, then Catherine\'s pizza does not have pepperoni."', '"Catherine\'s pizza does not have cheese."']
+A: "Catherine's pizza does not have pepperoni."
+
+A: "Catherine's pizza has pepperoni."
+
+R: ['"Either Catherine\'s pizza or Emily\'s pizza, or both, has pepperoni."', '"Catherine\'s pizza does not have pepperoni."']
+A: "Emily's pizza has pepperoni."
+
+A: "Emily's pizza does not have pepperoni."
+
+R: ['"Emily\'s pizza has pepperoni."', '"If Emily\'s pizza has pepperoni, then Emily\'s pizza also has cheese."']
+A: "Emily's pizza has cheese."
+
+A: "Emily's pizza doe not have cheese."
+
+R: ['"If someone is lactose intolerant, then their pizza does not have cheese."']
+A: "If someone's pizza has cheese, then they are not lactose intolerant."
+
+A: "If someone's pizza does not have cheese, then they are lactose intolerant."
+
+R: ['"Catherine\'s pizza has cheese."', '"Catherine\'s pizza has pepperoni."']
+A: "Catherine's pizza has pepperoni and cheese."
+

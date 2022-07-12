@@ -1,0 +1,37 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655913663,
+  "id": "cmpl-5Lx4pUsWO7F9csdCYRRUVUcwQv9sK",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": "A:\"fdkjhgdkgjh is sdfksjfhsk\""
+    }
+  ],
+  "created": 1655913665,
+  "id": "cmpl-5Lx4rV9wpMKCoblyDheGiKeLYfJzJ",
+  "model": "text-davinci-002",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 208,
+    "total_tokens": 232
+  }
+}

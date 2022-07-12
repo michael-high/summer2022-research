@@ -1,0 +1,131 @@
+openai.Completion.create(engine="text-davinci-002", temperature=0.5, prompt=prompt, max_tokens=128, stop="R",)
+
+Prompt: ['"If Biscuit is not muddy, then Cardie is muddy"', '"Every dog that is muddy did not go in the pond"']
+Answer:  "If Biscuit is not muddy, then Cardie did not go in the pond"
+
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit did not go in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746767,
+  "id": "cmpl-5LFexGBY2OieesaRfK4noGjoIQkKt",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"If Biscuit did not go in the pond, then Cardie is muddy\"\n\n"
+    }
+  ],
+  "created": 1655746769,
+  "id": "cmpl-5LFez0skh934DkGa3s3wjbgaAZaVE",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit did not go in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746770,
+  "id": "cmpl-5LFf0oVgUW30tZcvgV48vUjCHV2Xm",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"If Biscuit did not go in the pond, then Cardie went in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746771,
+  "id": "cmpl-5LFf10X1i5NaIiPHfdFkyi3tKA3CG",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit did not go in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746773,
+  "id": "cmpl-5LFf3f8qIEBBr50dD6XrCBqGonXIR",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie did not go in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746774,
+  "id": "cmpl-5LFf4okshkISGeLFsYhWMFpkw2rGw",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie went in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746775,
+  "id": "cmpl-5LFf5fb1w34lwP41D0tupdn3XMV74",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Biscuit did not go in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746776,
+  "id": "cmpl-5LFf6yb7o4Ahd3vhhrQZqSS4zVhtP",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "text": " \"Cardie went in the pond\"\n\n"
+    }
+  ],
+  "created": 1655746777,
+  "id": "cmpl-5LFf7KmxHUdmIUauVeVakUbQYMwDE",
+  "model": "text-davinci-002",
+  "object": "text_completion"
+}

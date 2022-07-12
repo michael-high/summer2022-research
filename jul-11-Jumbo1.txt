@@ -1,0 +1,4139 @@
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+######
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+
+Proof: You are cool or you can find a date
+ You are cool or you can find a date
+
+         ---------EVALUATE--------      1/1
+
+-------------1-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+######
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+
+Proof: Rob has wings or Joe is fat
+ Joe is fat or Rob has wings
+
+         ---------EVALUATE--------              2/2
+
+-------------2-con-dil-Jumbo1---------2022-07-11--------
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+
+Proof: Rob has wings or you would go free
+ Rob has wings or you are free
+
+         ---------EVALUATE--------      3/3
+
+-------------3-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+######
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+
+Proof: There are storms or you are cool
+ There are storms or you are cool
+
+         ---------EVALUATE--------      4/4
+
+-------------4-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+######
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+
+Proof: Susy has tinnitis or you are rich
+ Susy has tinnitis or you can find a date
+
+         ---------EVALUATE--------              4/5
+
+-------------5-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+######
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+
+Proof: There is sugar or you eat bagels
+ There is sugar or you are cool
+
+         ---------EVALUATE--------              4/6
+
+-------------6-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+######Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+
+Proof: There are storms or there is murder
+ There is murder or there are storms
+
+         ---------EVALUATE--------      5/7
+
+-------------7-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+######Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+
+Proof: There is adequate buoyancy or there isn't storms
+ There are storms or there is inadequate buoyancy
+                                                        *****interesting negation here
+         ---------EVALUATE--------              5/8
+
+-------------8-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+######
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+
+Proof: There is food or there is lying
+ There is food or there is lying
+
+         ---------EVALUATE--------              6/9
+
+-------------9-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+######
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+
+Proof: There is moisture or there is tension
+ There is moisture or there is tension
+
+         ---------EVALUATE--------      7/10
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+
+Proof: You are cool or you can find a date
+ You are cool or you can find a date
+
+         ---------EVALUATE--------      1/1
+
+-------------1-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+
+Proof: Joe is fat or Rob has wings
+ Joe is fat or Rob has wings
+
+         ---------EVALUATE--------      2/2
+
+-------------2-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+
+Proof: Rob has wings or you would go free
+ Rob has wings or you are free
+
+         ---------EVALUATE--------      3/3
+
+-------------3-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+
+Proof: You are cool or you eat bagels
+ There are storms or you are cool
+
+         ---------EVALUATE--------      3/4
+
+-------------4-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+
+Proof: Susy has tinnitis or you are rich
+ Susy has tinnitis or you can find a date
+
+         ---------EVALUATE--------              3/5
+
+-------------5-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+
+Proof: There is sugar or you are cool
+ There is sugar or you are cool
+
+         ---------EVALUATE--------              4/6
+
+-------------6-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+
+Proof: There is murder or there are storms
+ There is murder or there are storms
+
+         ---------EVALUATE--------              5/7
+
+-------------7-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+
+Proof: There is sinking or there isn't adequate buoyancy
+ There are storms or there is inadequate buoyancy
+
+         ---------EVALUATE--------              5/8
+
+-------------8-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+Proof: There is moisture or there is tension
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+
+Proof: There is food or there is lying
+ There is food or there is lying
+
+         ---------EVALUATE--------      6/9
+
+-------------9-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe likes ice cream or Rob can fly.
+Proof: Joe is fat or Rob has wings
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob can fly or thinking is a crime.
+Proof: Rob has wings or you are free
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: Breakfast occurs or there is mistrust.
+Proof: There is food or there is lying
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy listens to loud music or you are rich.
+Proof: Susy has tinnitis or you can find a date
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There are clouds or there are threats.
+
+Proof: There is moisture or there is tension
+ There is moisture or there is tension
+
+         ---------EVALUATE--------              7/10
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+
+Proof: You don't eat bagels or you aren't rich          1/1
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+
+Proof: You don't eat bagels or you aren't rich          1/1
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+
+Proof: You aren't rich or you don't eat bagels
+Proof: You don't eat bagels or you aren't rich
+
+         ---------EVALUATE--------              1/1
+
+-------------1-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+
+Proof: Joe doesn't like ice cream or Rob can't fly
+Proof: Joe dislikes ice cream or Rob can't fly.
+
+         ---------EVALUATE--------              2/2
+
+-------------2-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+
+Proof: Rob can't fly or you aren't free
+Proof: Rob can't fly or thinking isn't a crime
+
+         ---------EVALUATE--------      2/3
+
+-------------3-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+
+Proof: There aren't power outages or you don't eat bagels
+Proof: There aren't power outages or you don't eat bagels.
+
+         ---------EVALUATE--------      3/4
+
+-------------4-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+
+Proof: Susy isn't rich or Susy doesn't have tinnitis
+Proof: Susy doesn't listen to loud music or you aren't rich
+
+         ---------EVALUATE--------              3/5
+
+-------------5-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+
+Proof: There isn't candy or you don't eat bagels.
+Proof: There isn't candy or you don't eat bagels
+
+         ---------EVALUATE--------      4/6
+
+-------------6-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+
+Proof: There aren't assassinations or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+
+         ---------EVALUATE--------      4/7
+
+-------------7-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+
+Proof: There are power outages or there is sinking
+Proof: There are storms or there is inadequate buoyancy
+
+         ---------EVALUATE--------      4/8
+
+-------------8-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+
+Proof: There isn't breakfast or there is truthfulness
+Proof: Breakfast doesn't occur or there is trust
+
+         ---------EVALUATE--------      4/9
+
+-------------9-destr-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: Rob doesn't wings or you aren't free.
+Proof: Rob can't fly or thinking isn't a crime
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: If Rob can fly, Rob has wings.
+Assumption3: Joe isn't fat or Rob doesnt have wings.
+Proof: Joe dislikes ice cream or Rob can't fly.
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+
+Proof: There aren't clouds or threats aren't made.
+Proof: There aren't clouds or there aren't threats
+
+         ---------EVALUATE--------      5/10
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+
+Proof: Duncan the dog did not go in the swamp or Duncan is not muddy
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+
+         ---------EVALUATE--------              0/1         
+
+-------------1-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+
+Proof: Duncan the dog did not go in the pond or swamp or Duncan the dog is not wet
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+
+         ---------EVALUATE--------      1/2
+
+-------------2-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+
+Proof: Joe doesn't like ice cream or he is fat
+Proof: Joe doesn't like ice cream or Joe is fat.
+
+         ---------EVALUATE--------              2/3
+
+-------------3-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If Rob can fly, Rob has wings.
+
+Proof: Rob can fly or Rob has wings
+Proof: Rob can't fly or Rob has wings
+
+         ---------EVALUATE--------      3/4
+
+-------------4-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: If you are rich, you can find a date.
+
+Proof: You are not rich or you can't find a date
+Proof:You aren't rich or you can find a date
+
+         ---------EVALUATE--------      3/5
+
+-------------5-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: If you eat bagels, you are cool.
+
+Proof: You don't eat bagels or you are cool
+Proof: You don't eat bagels or you are cool.
+
+         ---------EVALUATE--------      4/6
+
+-------------6-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: If thinking is a crime, you would go free.
+
+Proof: You aren't thinking or you would go free
+Proof: Thinking is not a crime or you are free
+
+         ---------EVALUATE--------      4/7
+
+-------------7-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Smoke implies a fire.
+
+Proof: There aren't smoke or there is a fire
+Proof: There isn't smoke or there is a fire
+
+         ---------EVALUATE--------      5/8
+
+-------------8-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Warnings imply danger.
+
+Proof: There are no warnings or there is no danger
+Proof: There aren't warnings or there is danger
+
+         ---------EVALUATE--------      5/9
+
+-------------9-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Dogs that are not wet did not go in the pond or swamp.
+Proof: Duncan the dog is wet or Duncan the dog did not go in the swamp
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Proof: Joe doesn't like ice cream or Joe is fat.
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Proof: Duncan the dog went in the swamp or Duncan the dog is not muddy
+###
+Assumption1: Trees imply leaves.
+
+Proof: There aren't trees or there are leaves
+Proof: There aren't trees or there are leaves
+
+         ------WORD FOR WORD------              6/10
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+
+Assumption1: If Rob can fly, Rob has wings.
+
+Proof: Rob can't fly or Rob has wings
+Proof: Rob can't fly or Rob has wings
+
+         ------WORD FOR WORD------
+
+-------------1-mat-impl-Jumbo1---------2022-07-11--------
+
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+Assumption1: If you are rich, you can find a date.
+
+Proof: You are poor or you can find a date
+Proof:You aren't rich or you can find a date
+
+         ---------EVALUATE--------                      correct (bonus points lol)
+
+-------------2-mat-impl-Jumbo1---------2022-07-11--------
+
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: If you eat bagels, you are cool.
+
+Proof: You don't eat bagels or you are cool
+Proof: You don't eat bagels or you are cool.
+
+         ---------EVALUATE--------                      correct
+
+-------------3-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Smoke implies a fire.
+
+Proof: There isn't smoke or there is a fire
+Proof: There isn't smoke or there is a fire
+
+         ------WORD FOR WORD------
+
+-------------4-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Warnings imply danger.
+
+Proof: There isn't a warning or there is danger
+Proof: There aren't warnings or there is danger
+
+         ---------EVALUATE--------              correct
+
+-------------5-mat-impl-Jumbo1---------2022-07-11--------
+
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: Trees imply leaves.
+
+Proof: There aren't trees or there are leaves
+Proof: There aren't trees or there are leaves
+
+         ------WORD FOR WORD------
+
+-------------6-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: Candy implies sugar.
+
+Proof: Candy doesn't imply sugar or candy doesn't imply sugar
+Proof: There isn't candy or there is sugar
+
+         ---------EVALUATE--------              wrong
+
+-------------7-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+
+Proof: Daisy doesn't breathe or Daisy is alive
+Proof: Daisy is not breathing or Daisy is alive
+
+         ---------EVALUATE--------                      correct
+
+-------------8-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+
+###
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: If the food is hot, it is ready to eat.
+
+Proof: The food is not hot or it is ready to eat
+Proof: The food is cold or it is ready to eat
+
+         ---------EVALUATE--------                      correct
+
+-------------9-mat-impl-Jumbo1---------2022-07-11--------
+
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: If you are rich, you can find a date.
+Proof:You aren't rich or you can find a date
+###
+
+Assumption1: If Rob can fly, Rob has wings.
+Proof: Rob can't fly or Rob has wings
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: If Daisy breathes, Daisy is alive.
+Proof: Daisy is not breathing or Daisy is alive
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: If the lamp is off, it is dark.
+
+Proof: The lamp is on or it is dark
+Proof: The lamp is on or it is dark
+
+
+         ---------EVALUATE--------              correct
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+######
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+
+Proof: Emily is not lactose intolerant
+Proof: Emily is not lactose intolerant
+
+         ------WORD FOR WORD------
+
+-------------1-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+######
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+
+Proof: Joe is fat
+Proof: Joe is fat
+
+         ------WORD FOR WORD------
+
+-------------2-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+######
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+
+Proof: Rob has wings
+Proof: Rob has wings
+
+         ------WORD FOR WORD------
+
+-------------3-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+######
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+
+Proof: You can find a date
+Proof: You can find a date
+
+         ------WORD FOR WORD------
+
+-------------4-ponens-Jumbo1---------2022-07-11--------
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+
+Proof: You are cool
+Proof: You are cool
+
+         ------WORD FOR WORD------
+
+-------------5-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+######
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+
+Proof: There is a fire
+Proof: There is fire
+
+         ---------EVALUATE--------              correct
+
+-------------6-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+######
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+
+Proof: There is danger
+Proof: There is danger
+
+         ------WORD FOR WORD------
+
+-------------7-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+######
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+
+Proof: There are leaves
+Proof: THere are leaves
+
+         ---------EVALUATE--------      correct
+
+-------------8-ponens-Jumbo1---------2022-07-11--------
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+
+Proof: There is murder
+Proof: There is murder
+
+         ------WORD FOR WORD------
+
+-------------9-ponens-Jumbo1---------2022-07-11--------
+
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: THere are leaves
+###
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe likes ice cream.
+Proof: Joe is fat
+######
+
+Assumption1: If someone's pizza has cheese, then they are not lactose intolerant.
+Assumption2: Emily's pizza has cheese.
+Proof: Emily is not lactose intolerant
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob can fly.
+Proof: Rob has wings
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+
+Proof: There is tension
+Proof: There is tension
+
+         ------WORD FOR WORD------
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+
+Proof: Duncan the dog is not muddy
+Proof: Duncan the dog is not muddy
+
+         ------WORD FOR WORD------
+
+-------------1-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+
+Proof: I am fat
+Proof: I am fat
+
+         ------WORD FOR WORD------
+
+-------------2-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+
+Proof: Rob has wings
+Proof: Rob has wings
+
+         ------WORD FOR WORD------
+
+-------------3-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+
+Proof: You can find a date
+Proof: You can find a date
+
+         ------WORD FOR WORD------
+
+-------------4-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+
+Proof: You are cool
+Proof: You are cool
+
+         ------WORD FOR WORD------
+
+-------------5-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+
+Proof: You would go free
+Proof: You are free
+
+         ---------EVALUATE--------                      correct
+
+-------------6-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+
+Proof: There is climate change
+Proof: There are storms
+
+         ---------EVALUATE--------              wrong
+
+-------------7-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+
+Proof: Susy has tinnitis
+Proof: Susy has tinnitis
+
+         ------WORD FOR WORD------
+
+-------------8-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+
+Proof: There is a fire
+Proof: There is a fire
+
+         ------WORD FOR WORD------
+
+-------------9-sudo-con-dil-Jumbo1---------2022-07-11--------
+
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+
+Proof: There is a dangerous animal
+Proof: There is danger
+
+         ---------EVALUATE--------              ~~~~Bad example .5
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+
+Proof: Joe doesn't like ice cream
+Proof: Joe does not like ice cream
+
+         ---------EVALUATE--------
+
+___________________________________________________________________________________________________
+
+                -----------------   EXPERIMENT #     -------------------
+___________________________________________________________________________________________________
+    
+-------------0-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+
+Proof: Joe doesn't like ice cream
+Proof: Joe does not like ice cream
+
+         ---------EVALUATE-------- correct
+1/10
+-------------1-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+
+Proof: Rob can't fly
+Proof: Rob can't fly
+
+         ------WORD FOR WORD------
+2/10
+-------------2-tollens-Jumbo1---------2022-07-11--------
+
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+
+Proof: You are rich
+Proof: You aren't rich
+
+         ---------EVALUATE--------      wrong
+2/10
+-------------3-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+
+Proof: You don't eat bagels
+Proof: You don't eat bagels
+
+         ------WORD FOR WORD------
+3/10
+-------------4-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+
+Proof: No smoke
+Proof: No smoke
+
+         ------WORD FOR WORD------
+4/10
+-------------5-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+
+Proof: No warnings
+Proof: No warnings
+
+         ------WORD FOR WORD------
+5/10
+-------------6-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+
+Proof: No trees
+Proof: No trees
+
+         ------WORD FOR WORD------
+6/10
+-------------7-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+
+Proof: No assassination
+Proof: No assassination
+
+         ------WORD FOR WORD------
+7/10
+-------------8-tollens-Jumbo1---------2022-07-11--------
+
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+Proof: No candy
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+
+Proof: No threats
+Proof: No threats
+
+         ------WORD FOR WORD------
+8/10
+-------------9-tollens-Jumbo1---------2022-07-11--------
+
+
+Assumption1: If Joe likes ice cream, then he is fat.
+Assumption2: Joe is not fat.
+Proof: Joe does not like ice cream
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: Rob doesn't have wings.
+Proof: Rob can't fly
+###
+Assumption1: Warnings imply danger.
+Assumption2: No danger.
+Proof: No warnings
+###
+Assumption1: Smoke implies a fire.
+Assumption2: No fire.
+Proof: No smoke
+###
+Assumption1: Assassination implies murder.
+Assumption2: No murder.
+Proof: No assassination
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You can't find a date.
+Proof: You aren't rich
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You aren't cool.
+Proof: You don't eat bagels
+###
+Assumption1: Threats imply tension.
+Assumption2: No tension.
+Proof: No threats
+###
+Assumption1: Trees imply leaves.
+Assumption2: No leaves.
+Proof: No trees
+###
+Assumption1: Candy implies sugar.
+Assumption2: No sugar.
+
+Proof: No candy
+Proof: No candy
+
+         ------WORD FOR WORD------
+9/10
