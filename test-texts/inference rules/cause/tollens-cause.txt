@@ -7,34 +7,34 @@ Assumption 2: There is not irritation.
 Proof: There is not hunger
 ###
 Assumption 1: Mushrooms cause hallucinations.
-Assumption 2: Joe doesn't have hallucinations.
-Proof: Joe didn't eat mushrooms
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
 ###
-Assumption 1: Hair loss is cause by age.
-Assumption 2: Rob doesn't have hair loss.
-Proof: Rob is not old
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
 ###
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There aren't floods.
 Proof: There isn't excess water
 ###
 Assumption 1: Lung cancer is caused by smoking.
-Assumption 2: Sam doesn't have lung cancer.
-Proof: Sam doesn't smoke
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
 ###
 Assumption 1: Fire causes smoke.
 Assumption 2: There isn't smoke.
 Proof: There isn't fire
 ###
-Assumption 1: Time causes death.
+Assumption 1: The passage of time causes death.
 Assumption 2: There is no death.
 Proof: Time doesn't pass
 ###
 Assumption 1: Callousness is caused by greed.
-Assumption 2: Cole isn't callous.
-Proof: Cole isn't greedy
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
 ###
-Assumption 1: Attraction is caused by beauty.
-Assumption 2: There isn't attraction.
-Proof: There isn't beauty
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
 ###

@@ -1,0 +1,50 @@
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###

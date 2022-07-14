@@ -1,0 +1,50 @@
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###

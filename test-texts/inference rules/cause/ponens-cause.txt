@@ -11,8 +11,8 @@ Assumption 2: One ate mushrooms.
 Proof: One has hallucinations
 ###
 Assumption 1: Hair loss is caused by age.
-Assumption 2: Rob is old.
-Proof: Rob has hair loss
+Assumption 2: One is old.
+Proof: One has hair loss
 ###
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There is excess water.
@@ -26,7 +26,7 @@ Assumption 1: Fire causes smoke.
 Assumption 2: There is fire.
 Proof: There is smoke
 ###
-Assumption 1: Time causes death.
+Assumption 1: The passage of time causes death.
 Assumption 2: Time passes.
 Proof: Death occurs
 ###
@@ -34,7 +34,7 @@ Assumption 1: Callousness is caused by greed.
 Assumption 2: One is greedy.
 Proof: One is callous
 ###
-Assumption 1: Attraction is caused by beauty.
-Assumption 2: There is beauty.
-Proof: There is attraction
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
 ###

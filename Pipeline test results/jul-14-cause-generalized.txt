@@ -1,0 +1,2950 @@
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: The sun causes cancer.
+Proof: There isn't the sun or there is cancer                                       1/1
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Hunger causes irritation.
+Proof: One isn't hungry or there is irritation                                  2/2
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One doesn't hallucinate or there are mushrooms                   2/3
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or there is hair loss                              3/4
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there is flood                       4/5
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer                         5/6
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Fire causes smoke. 
+Proof: There is no fire or there is smoke                               6/7
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Time causes death.
+Proof: There isn't time or death                      (there is death)                      6/8
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: There isn't greed or there is callousness                                7/9
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: One isn't beautiful or one is attracted                              8/10
+###----------------IT: con-dil------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is hunger
+----------------IT: con-dil------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+----------------IT: con-dil------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There is lung cancer or there is flooding
+----------------IT: con-dil------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+----------------IT: con-dil------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is callousness or there is fermentation
+----------------IT: con-dil------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: There is anxiety or there is snow
+----------------IT: con-dil------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+----------------IT: con-dil------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkenness
+----------------IT: con-dil------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+----------------IT: con-dil------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't the sun or there isn't hunger
+Troof: There isn't sun or there isn't hunger
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One isn't eating mushrooms or one isn't old
+Troof: One didn't eat mushrooms or one isn't old
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+Troof: There isn't excess water or one doesn't smoke
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or there isn't time
+Troof: There isn't fire or time doesn't pass
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+Troof: One isn't greedy or there isn't kimchi
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+Troof: One isn't stressed or there isn't cold weather
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+Troof: There isn't rain or there aren't cows
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+Troof: There isn't music or there isn't alcohol
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there aren't bees
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+Troof: There isn't sleep or there isn't processed food
+----------------IT: destr-dil------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One isn't callous or there isn't fermentation.
+Proof: One isn't greedy or there isn't kimchi
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There aren't clouds or there isn't global warming.
+Proof: There isn't rain or there aren't cows
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There isn't rejuvenation or there isn't obesity.
+Proof: There isn't sleep or there isn't processed food
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
+Proof: One didn't eat mushrooms or one isn't old
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There isn't smoke or there isn't death.
+Proof: There isn't fire or time doesn't pass
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There isn't cancer or there isn't irritation.
+Proof: There isn't sun or there isn't hunger
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There isn't sound or there isn't drunkeness.
+Proof: There isn't music or there isn't alcohol
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There aren't floods or one doesn't have lung cancer.
+Proof: There isn't excess water or one doesn't smoke
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One doesn't have anxiety or there isn't snow.
+Proof: One isn't stressed or there isn't cold weather
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There isn't widespread poverty or there isn't pollination
+Proof: There isn't big business or there isn't bees
+Troof: There isn't big business or there aren't bees
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+Troof: There is cancer
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One hallucinates
+Troof: One has hallucinations
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There is flooding
+Troof: There are floods
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+Troof: There is death
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+Troof: There is fermentation
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: There is anxiety
+Troof: One has anxiety
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+Troof: There are clouds
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+Troof: There is sound
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+###
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+Troof: There is rejuvenation
+----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes cancer.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hallucinations are caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations
+###
+Assumption 1: Fire causes death. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is death
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Stress is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety
+###
+Assumption 1: Music causes sound.
+Assumption 2: Sound is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Rejuvenation is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Floods are caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods
+###
+Assumption 1: Fermentation is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Clouds are caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Widespread poverty is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty
+Troof: There is widespread poverty
+----------------IT: ponens------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+Troof: There is cancer                                                 /1
+----------------IT: ponens------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+Troof: There is irritation                                                 /2
+----------------IT: ponens------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+Troof: One has hallucinations                                                 /3
+----------------IT: ponens------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+Troof: One has hair loss                                                 /4
+----------------IT: ponens------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There is flooding
+Troof: There are floods                                                 /5
+----------------IT: ponens------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+Troof: One has lung cancer                                                 /6
+----------------IT: ponens------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+Troof: There is smoke                                                 /7
+----------------IT: ponens------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: There is death
+Troof: Death occurs                                                 /8
+----------------IT: ponens------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One has callousness
+Troof: One is callous                                                 /9
+----------------IT: ponens------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One is greedy.
+Proof: One is callous
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One smokes.
+Proof: One has lung cancer
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One is old.
+Proof: One has hair loss
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One ate mushrooms.
+Proof: One has hallucinations
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There is kimchi.
+Proof: There is fermentation
+Troof: There is fermentation                                                 /10
+----------------IT: tollens------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+Troof: The sun doesn't shine
+----------------IT: tollens------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: One isn't hungry
+Troof: There is not hunger
+----------------IT: tollens------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One doesn't eat mushrooms
+Troof: One didn't eat mushrooms
+----------------IT: tollens------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One isn't old
+Troof: One is not old
+----------------IT: tollens------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There is no excess water
+Troof: There isn't excess water
+----------------IT: tollens------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+Troof: One doesn't smoke
+----------------IT: tollens------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+Troof: There isn't fire
+----------------IT: tollens------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: There is no passage of time
+Troof: Time doesn't pass
+----------------IT: tollens------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+Troof: One isn't greedy
+----------------IT: tollens------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: One isn't callous.
+Proof: One isn't greedy
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: The passage of time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Hair loss is caused by age.
+Assumption 2: One doesn't have hair loss.
+Proof: One is not old
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: One doesn't have lung cancer.
+Proof: One doesn't smoke
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: One doesn't have hallucinations.
+Proof: One didn't eat mushrooms
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 2: There isn't fermentation.
+Proof: There isn't kimchi
+Troof: There isn't kimchi
+----------------IT: transpo------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: The sun causes cancer.
+Proof: If there isn't cancer, then the sun doesn't cause cancer
+Troof: If there is not cancer, then there is not sun
+----------------IT: transpo------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Hunger causes irritation.
+Proof: If one isn't hungry, then one isn't irritated
+Troof: If there is not irritation, then there is not hunger
+----------------IT: transpo------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If there isn't hallucinations, then there isn't mushrooms
+Troof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+----------------IT: transpo------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If there isn't hair loss, then there isn't age
+Troof: If one doesn't have hair loss, then one isn't old.
+----------------IT: transpo------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there is not excess water, then there is not floods
+Troof: If there aren't floods, then there isn't excess water 
+----------------IT: transpo------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If there isn't lung cancer, then smoking doesn't cause lung cancer
+Troof: If one doesn't have lung cancer, then one doesn't smoke 
+----------------IT: transpo------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Fire causes smoke. 
+Proof: If there isn't smoke, then there isn't fire
+Troof:  If there isn't smoke, then there isn't fire
+----------------IT: transpo------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then there isn't passage of time
+Troof: If there isn't death, then time doesn't pass 
+----------------IT: transpo------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If there is not callousness, then there is not greed
+Troof: If one isn't callous, then one isn't greedy 
+----------------IT: transpo------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+Troof: If there isn't fermentation, then there isn't kimchi

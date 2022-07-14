@@ -1,10 +1,26 @@
 Assumption 1: The sun causes cancer.
 Assumption 1: Hunger causes irritation.
 Assumption 1: Mushrooms cause hallucinations.
-Assumption 1: Hair loss is cause by age.
+Assumption 1: Hair loss is caused by age.
 Assumption 1: Floods are caused by excess water.
 Assumption 1: Lung cancer is caused by smoking.
 Assumption 1: Fire causes smoke. 
 Assumption 1: Time causes death.
 Assumption 1: Callousness is caused by greed.
+Assumption 1: Fermentation is caused by kimchi.
+Assumption 1: Stress causes anxiety.
+Assumption 1: Snow is caused by cold weather.
+Assumption 1: Rain causes clouds.
+Assumption 1: Global warming is caused by cows.
+Assumption 1: Music causes sound.
+Assumption 1: Drunkeness is caused by alcohol.
+Assumption 1: Sleep causes rejuvenation.
+Assumption 1: Obesity is caused by processed food.
+Assumption 1: Big business causes widespread poverty. 
+Assumption 1: Pollination is caused by bees.
+
+
+
+
+
 Assumption 1: Attraction is caused by beauty.

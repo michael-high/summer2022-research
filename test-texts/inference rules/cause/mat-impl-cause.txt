@@ -19,12 +19,12 @@ Proof: One doesn't smoke or one has lung cancer
 Assumption 1: Fire causes smoke. 
 Proof: There isn't fire or there is smoke
 ###
-Assumption 1: Time causes death.
+Assumption 1: The passage of time causes death.
 Proof: Time doesn't pass or there is death
 ###
 Assumption 1: Callousness is caused by greed.
 Proof: One isn't greedy or one is callous
 ###
-Assumption 1: Attraction is caused by beauty.
-Proof: There isn't beauty or there is attraction
+Assumption 1: Fermentation is caused by kimchi.
+Proof: There is fermentation or there isn't kimchi
 ###
