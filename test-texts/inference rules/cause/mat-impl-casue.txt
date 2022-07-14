@@ -1,10 +1,30 @@
 Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
 Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
 Assumption 1: Mushrooms cause hallucinations.
-Assumption 1: Hair loss is cause by age.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
 Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
 Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
 Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
 Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
 Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
 Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###

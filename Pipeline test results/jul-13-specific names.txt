@@ -1,0 +1,840 @@
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Proof: Josh isn't greedy or Josh is callous
+###
+Assumption 1: Hair loss is caused by age.
+Proof: Joe isn't old or Joe has hair loss
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't cause cancer or there is cancer                                                              0/1
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: Sam didn't eat mushrooms or Sam has hallucinations
+###
+Assumption 1: Hair loss is caused by age.
+Proof: Joe isn't old or Joe has hair loss
+###
+Assumption 1: Callousness is caused by greed.
+Proof: Josh isn't greedy or Josh is callous
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Hunger causes irritation.
+Proof: Sam isn't hungry or Sam is irritated                                                                         1/2
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Proof: Josh isn't greedy or Josh is callous
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: There are no mushrooms or there are hallucinations                                                           2/3
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: Sam didn't eat mushrooms or Sam has hallucinations
+###
+Assumption 1: Hair loss is caused by age.
+Proof: Sam is young or Sam has hair loss                                                                           3/4
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Proof: Rob doesn't smoke or Rob has lung cancer 
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Hair loss is caused by age.
+Proof: Joe isn't old or Joe has hair loss
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: Sam didn't eat mushrooms or Sam has hallucinations
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There is no excess water or there is flood                                                                  4/5
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Callousness is caused by greed.
+Proof: Josh isn't greedy or Josh is callous
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: Josh doesn't smoke or Josh has lung cancer                                                                 5/6
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Proof: Rob doesn't smoke or Rob has lung cancer 
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Hair loss is caused by age.
+Proof: Joe isn't old or Joe has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't smoke or there is fire                                                                         5/7
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Proof: Sam didn't eat mushrooms or Sam has hallucinations
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Hair loss is caused by age.
+Proof: Joe isn't old or Joe has hair loss
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: Rob doesn't smoke or Rob has lung cancer 
+###
+Assumption 1: Time causes death.
+Proof: There is no time or death                                                                                  5/8 (Maybe????)
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: Rob doesn't smoke or Rob has lung cancer 
+###
+Assumption 1: Time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There isn't beauty or there is attraction
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: Callousness is caused by greed.
+Proof: There isn't greed or there is callousness                                                                  6/9
+----------------IT: mat-impl------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Hair loss is caused by age.
+Proof: Joe isn't old or Joe has hair loss
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: Rob doesn't smoke or Rob has lung cancer 
+###
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There is no beauty or there is attraction                                                                7/10
+----------------IT: ponens------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob is old.
+Proof: Rob has hair loss
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe ate mushrooms.
+Proof: Joe has hallucinations
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: Cancer occurs                                                                                            1/1
+----------------IT: ponens------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe ate mushrooms.
+Proof: Joe has hallucinations
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob is old.
+Proof: Rob has hair loss
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation                                                                                      2/2
+----------------IT: ponens------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam smokes.
+Proof: Sam has lung cancer
+###
+Assumption 1: Time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe ate mushrooms.
+Proof: Joe hallucinated                                                                                         3/3
+----------------IT: ponens------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole is greedy.
+Proof: Cole is callous
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob is old.
+Proof: Rob has hair loss                                                                                        
+----------------IT: ponens------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe ate mushrooms.
+Proof: Joe has hallucinations
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob is old.
+Proof: Rob has hair loss
+###
+Assumption 1: Time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam smokes.
+Proof: Sam has lung cancer
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There is flooding
+----------------IT: ponens------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole is greedy.
+Proof: Cole is callous
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe ate mushrooms.
+Proof: Joe has hallucinations
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam smokes.
+Proof: Sam has lung cancer
+----------------IT: ponens------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe ate mushrooms.
+Proof: Joe has hallucinations
+###
+Assumption 1: Time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam smokes.
+Proof: Sam has lung cancer
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There is fire.
+Proof: There is smoke
+----------------IT: ponens------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole is greedy.
+Proof: Cole is callous
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Time causes death.
+Assumption 2: Time passes.
+Proof: There is death
+----------------IT: ponens------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob is old.
+Proof: Rob has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There is excess water.
+Proof: There are floods
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam smokes.
+Proof: Sam has lung cancer
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole is greedy.
+Proof: Cole is callous
+----------------IT: ponens------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Assumption 2: The sun shines.
+Proof: There is cancer
+###
+Assumption 1: Time causes death.
+Assumption 2: Time passes.
+Proof: Death occurs
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam smokes.
+Proof: Sam has lung cancer
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole is greedy.
+Proof: Cole is callous
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is hunger.
+Proof: There is irritation
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There is beauty.
+Proof: There is attraction
+----------------IT: tollens------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There isn't attraction.
+Proof: There isn't beauty
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob is not old
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe doesn't have hallucinations.
+Proof: Joe didn't eat mushrooms
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: There is no sun
+----------------IT: tollens------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob is not old
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is no hunger
+----------------IT: tollens------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There isn't attraction.
+Proof: There isn't beauty
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob is not old
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe doesn't have hallucinations.
+Proof: Joe doesn't eat mushrooms
+----------------IT: tollens------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There isn't attraction.
+Proof: There isn't beauty
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob isn't old
+----------------IT: tollens------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There isn't attraction.
+Proof: There isn't beauty
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe doesn't have hallucinations.
+Proof: Joe didn't eat mushrooms
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+----------------IT: tollens------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There isn't attraction.
+Proof: There isn't beauty
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob is not old
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+----------------IT: tollens------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob is not old
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+----------------IT: tollens------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe doesn't have hallucinations.
+Proof: Joe didn't eat mushrooms
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+###
+Assumption 1: Hair loss is cause by age.
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob is not old
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: There is no time
+----------------IT: tollens------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke.
+Assumption 2: There isn't smoke.
+Proof: There isn't fire
+###
+Assumption 1: Hunger causes irritation.
+Assumption 2: There is not irritation.
+Proof: There is not hunger
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Joe doesn't have hallucinations.
+Proof: Joe didn't eat mushrooms
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+----------------IT: tollens------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Lung cancer is caused by smoking.
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
+###
+Assumption 1: The sun causes cancer.
+Assumption 2: There is not cancer.
+Proof: The sun doesn't shine
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
+###
+Assumption 1: Time causes death.
+Assumption 2: There is no death.
+Proof: Time doesn't pass
+###
+Assumption 1: Attraction is caused by beauty.
+Assumption 2: There isn't attraction.
+Proof: There isn't beauty
+----------------IT: transpo------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Proof: If Josh isn't callous, then Josh isn't greedy 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If Joe doesn't have hair loss, then Joe isn't old.
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If Sam doesn't have hallucinations, the Sam didn't eat mushrooms.
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: The sun causes cancer.
+Proof: If the sun doesn't cause cancer, then the sun doesn't cause cancer.
+----------------IT: transpo------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If Josh isn't callous, then Josh isn't greedy 
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If Rob doesn't have lung cancer, then Rob doesn't smoke 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There is attraction, then there isn't beauty 
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there isn't irritation, then there isn't hunger 
+----------------IT: transpo------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption 1: Hair loss is caused by age.
+Proof: If Joe doesn't have hair loss, then Joe isn't old.
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There is attraction, then there isn't beauty 
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If Rob doesn't have lung cancer, then Rob doesn't smoke 
+###
+Assumption 1: Time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If there aren't any hallucinations, then there aren't any mushrooms
+----------------IT: transpo------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If Josh isn't callous, then Josh isn't greedy 
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If Rob doesn't have lung cancer, then Rob doesn't smoke 
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If Sam doesn't have hallucinations, the Sam didn't eat mushrooms.
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If Sam doesn't have hair loss, then Sam isn't old.
+----------------IT: transpo------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption 1: Attraction is caused by beauty.
+Proof: There is attraction, then there isn't beauty 
+###
+Assumption 1: Time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If Sam doesn't have hallucinations, the Sam didn't eat mushrooms.
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there isn't excess water, then there is no flood
+----------------IT: transpo------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption 1: Time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If Joe doesn't have hair loss, then Joe isn't old.
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: There is attraction, then there isn't beauty 
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If Joe doesn't have lung cancer, then Joe doesn't smoke.
+----------------IT: transpo------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If Josh isn't callous, then Josh isn't greedy 
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If Rob doesn't have lung cancer, then Rob doesn't smoke 
+###
+Assumption 1: Fire causes smoke. 
+Proof: If smoke doesn't cause fire, then fire doesn't cause smoke 
+----------------IT: transpo------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption 1: Callousness is caused by greed.
+Proof: If Josh isn't callous, then Josh isn't greedy 
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If Rob doesn't have lung cancer, then Rob doesn't smoke 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If Sam doesn't have hallucinations, the Sam didn't eat mushrooms.
+###
+Assumption 1: Time causes death.
+Proof: If Sam doesn't die, then Sam doesn't experience time.
+----------------IT: transpo------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If Rob doesn't have lung cancer, then Rob doesn't smoke 
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If Sam doesn't have hallucinations, the Sam didn't eat mushrooms.
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If Sam isn't callous, then Sam isn't greedy.
+----------------IT: transpo------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If Sam doesn't have hallucinations, the Sam didn't eat mushrooms.
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If Josh isn't callous, then Josh isn't greedy 
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If Joe doesn't have hair loss, then Joe isn't old.
+###
+Assumption 1: Attraction is caused by beauty.
+Proof: If Sam isn't attracted to Sam, then Sam isn't beautiful.

@@ -11,16 +11,16 @@ Assumption 2: Joe doesn't have hallucinations.
 Proof: Joe didn't eat mushrooms
 ###
 Assumption 1: Hair loss is cause by age.
-Assumption 2: Rob is not old.
-Proof: Rob doesn't have hair loss
+Assumption 2: Rob doesn't have hair loss.
+Proof: Rob is not old
 ###
 Assumption 1: Floods are caused by excess water.
-Assumption 2:  There isn't excess water.
-Proof: There aren't floods
+Assumption 2: There aren't floods.
+Proof: There isn't excess water
 ###
 Assumption 1: Lung cancer is caused by smoking.
-Assumption 2: Sam doesn't smoke.
-Proof: Sam doesn't have lung cancer
+Assumption 2: Sam doesn't have lung cancer.
+Proof: Sam doesn't smoke
 ###
 Assumption 1: Fire causes smoke.
 Assumption 2: There isn't smoke.
@@ -31,10 +31,10 @@ Assumption 2: There is no death.
 Proof: Time doesn't pass
 ###
 Assumption 1: Callousness is caused by greed.
-Assumption 2: Cole isn't greedy.
-Proof: Cole isn't callous
+Assumption 2: Cole isn't callous.
+Proof: Cole isn't greedy
 ###
 Assumption 1: Attraction is caused by beauty.
-Assumption 2: There isn't beauty.
-Proof: There isn't attraction
+Assumption 2: There isn't attraction.
+Proof: There isn't beauty
 ###

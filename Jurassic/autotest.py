@@ -5,7 +5,7 @@ import random
 today = date.today()
 
 prompt_pool="\n"
-with open("C:\CS\SUM2022\Jurassic\prompt.txt", "r") as k:
+with open("C:\CS\SUM2022\SUM2022-github\Jurassic\prompt.txt", "r") as k:
     for j in k:
         prompt_pool+=(j)
 #print(prompt_pool)
