@@ -1,0 +1,55 @@
+Assumption1: If clothes are washed, then clothes are clean
+Assumption2: If the season is summer, then the weather is hot.
+Assumption3: Clothes aren't clean or the weather isn't hot
+Proof: Clothes aren't washed or the season isn't summer
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You aren't cool or you can't find a date.
+Proof: You don't eat bagels or you aren't rich
+###
+Assumption1: If one likes ice cream, then he is fat.
+Assumption2: If one can fly, one has wings.
+Assumption3: one isn't fat or one doesnt have wings.
+Proof: One dislikes ice cream or one can't fly.
+###
+Assumption1: If one can fly, one has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: One doesn't have wings or you aren't free.
+Proof: One can't fly or thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There aren't storms or you aren't cool
+Proof: There aren't power outages or you don't eat bagels.
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: Susy doesn't have tinnitis or you can't find a date.
+Proof: Susy doesn't listen to loud music or you aren't rich
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There isn't sugar or you aren't cool.
+Proof: There isn't candy or you don't eat bagels
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There isn't murder or there aren't storms.
+Proof: There isn't assassination or there aren't power outages
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Sinking occurs if and only if there isn't adequate buoyancy.
+Assumption3: There are power outages or there is sinking.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Assumption2: There will be mistrust if there is lying.
+Assumption3: There isn't food or there is truthfulness.
+Proof: Breakfast doesn't occur or there is trust
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: Threats imply tension.
+Assumption3: There isn't moisture or there isn't tension.
+Proof: There aren't clouds or there aren't threats
+###

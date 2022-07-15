@@ -347,7 +347,7 @@ Proof: One has anxiety or there is snow
 Assumption 1: The sun causes cancer.
 Assumption 2: Hunger causes irritation.
 Assumption 3: There is sun or there is hunger.
-Proof: There is cancer or there is hunger
+Proof: There is cancer or there is hunger                                                   0/1
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption 1: Big business causes widespread poverty. 
 Assumption 2: Pollination is caused by bees.
@@ -397,7 +397,7 @@ Proof: There is sound or there is drunkeness
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: Hair loss is caused by age.
 Assumption 3: One ate mushrooms or one is old.
-Proof: One has hallucinations or one has hair loss
+Proof: One has hallucinations or one has hair loss                                  1/2
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption 1: Fire causes smoke. 
 Assumption 2: The passage of time causes death.
@@ -447,7 +447,7 @@ Proof: One has hallucinations or one has hair loss
 Assumption 1: Floods are caused by excess water.
 Assumption 2: Lung cancer is caused by smoking.
 Assumption 3: There is excess water or one smokes.
-Proof: There is lung cancer or there is flooding
+Proof: There is lung cancer or there is flooding                                            2/3
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption 1: Music causes sound.
 Assumption 2: Drunkeness is caused by alcohol.
@@ -497,7 +497,7 @@ Proof: One has hallucinations or one has hair loss
 Assumption 1: Fire causes smoke. 
 Assumption 2: The passage of time causes death.
 Assumption 3: There is fire or time passes.
-Proof: There is smoke or there is death
+Proof: There is smoke or there is death                                                     3/4
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: Hair loss is caused by age.
@@ -547,7 +547,7 @@ Proof: There are floods or one has lung cancer
 Assumption 1: Callousness is caused by greed.
 Assumption 2: Fermentation is caused by kimchi.
 Assumption 3: One is greedy or there is kimchi.
-Proof: There is callousness or there is fermentation
+Proof: There is callousness or there is fermentation                    4/5
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: Lung cancer is caused by smoking.
@@ -597,7 +597,7 @@ Proof: There are clouds or there is global warming
 Assumption 1: Stress causes anxiety.
 Assumption 2: Snow is caused by cold weather.
 Assumption 3: One is stressed or there is cold weather.
-Proof: There is anxiety or there is snow
+Proof: There is anxiety or there is snow                                        5/6
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: Hair loss is caused by age.
@@ -647,7 +647,7 @@ Proof: There is sound or there is drunkeness
 Assumption 1: Rain causes clouds.
 Assumption 2: Global warming is caused by cows.
 Assumption 3: There is rain or there are cows.
-Proof: There are clouds or there is global warming
+Proof: There are clouds or there is global warming                              6/7
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption 1: Stress causes anxiety.
 Assumption 2: Snow is caused by cold weather.
@@ -697,7 +697,7 @@ Proof: There is rejuvenation or there is obesity
 Assumption 1: Music causes sound.
 Assumption 2: Drunkeness is caused by alcohol.
 Assumption 3: There is music or there is alcohol.
-Proof: There is sound or there is drunkenness
+Proof: There is sound or there is drunkenness                              7/8
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: Lung cancer is caused by smoking.
@@ -747,7 +747,7 @@ Proof: There is smoke or there is death
 Assumption 1: Sleep causes rejuvenation.
 Assumption 2: Obesity is caused by processed food.
 Assumption 3: There is sleep or there is processed food.
-Proof: There is rejuvenation or there is obesity
+Proof: There is rejuvenation or there is obesity                              8/9
 ----------------IT: con-dil------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption 1: Fire causes smoke. 
 Assumption 2: The passage of time causes death.
@@ -797,7 +797,7 @@ Proof: One has hallucinations or one has hair loss
 Assumption 1: Big business causes widespread poverty. 
 Assumption 2: Pollination is caused by bees.
 Assumption 3: There is big business or there are bees.
-Proof: There is widespread poverty or there is pollination
+Proof: There is widespread poverty or there is pollination                                     9/10
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
 Assumption 1: Fire causes smoke. 
 Assumption 2: The passage of time causes death.
@@ -848,7 +848,7 @@ Assumption 1: The sun causes cancer.
 Assumption 2: Hunger causes irritation.
 Assumption 3: There isn't cancer or there isn't irritation.
 Proof: There isn't the sun or there isn't hunger
-Troof: There isn't sun or there isn't hunger
+Troof: There isn't sun or there isn't hunger                              1/1
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption 1: Music causes sound.
 Assumption 2: Drunkeness is caused by alcohol.
@@ -899,7 +899,7 @@ Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: Hair loss is caused by age.
 Assumption 3: One doesn't have hallucinations or one doesn't have hair loss.
 Proof: One isn't eating mushrooms or one isn't old
-Troof: One didn't eat mushrooms or one isn't old
+Troof: One didn't eat mushrooms or one isn't old                              2/2
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption 1: Big business causes widespread poverty. 
 Assumption 2: Pollination is caused by bees.
@@ -950,7 +950,7 @@ Assumption 1: Floods are caused by excess water.
 Assumption 2: Lung cancer is caused by smoking.
 Assumption 3: There aren't floods or one doesn't have lung cancer.
 Proof: There isn't excess water or one doesn't smoke
-Troof: There isn't excess water or one doesn't smoke
+Troof: There isn't excess water or one doesn't smoke                              3/3
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption 1: Sleep causes rejuvenation.
 Assumption 2: Obesity is caused by processed food.
@@ -1001,7 +1001,7 @@ Assumption 1: Fire causes smoke.
 Assumption 2: The passage of time causes death.
 Assumption 3: There isn't smoke or there isn't death.
 Proof: There isn't fire or there isn't time
-Troof: There isn't fire or time doesn't pass
+Troof: There isn't fire or time doesn't pass       **                       3.5/4
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: Lung cancer is caused by smoking.
@@ -1052,7 +1052,7 @@ Assumption 1: Callousness is caused by greed.
 Assumption 2: Fermentation is caused by kimchi.
 Assumption 3: One isn't callous or there isn't fermentation.
 Proof: One isn't greedy or there isn't kimchi
-Troof: One isn't greedy or there isn't kimchi
+Troof: One isn't greedy or there isn't kimchi                              4.5/5
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: Hair loss is caused by age.
@@ -1103,7 +1103,7 @@ Assumption 1: Stress causes anxiety.
 Assumption 2: Snow is caused by cold weather.
 Assumption 3: One doesn't have anxiety or there isn't snow.
 Proof: One isn't stressed or there isn't cold weather
-Troof: One isn't stressed or there isn't cold weather
+Troof: One isn't stressed or there isn't cold weather                              5.5/6
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: The sun causes cancer.
 Assumption 2: Hunger causes irritation.
@@ -1154,7 +1154,7 @@ Assumption 1: Rain causes clouds.
 Assumption 2: Global warming is caused by cows.
 Assumption 3: There aren't clouds or there isn't global warming.
 Proof: There isn't rain or there aren't cows
-Troof: There isn't rain or there aren't cows
+Troof: There isn't rain or there aren't cows                              6.5/7
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption 1: Sleep causes rejuvenation.
 Assumption 2: Obesity is caused by processed food.
@@ -1205,7 +1205,7 @@ Assumption 1: Music causes sound.
 Assumption 2: Drunkeness is caused by alcohol.
 Assumption 3: There isn't sound or there isn't drunkeness.
 Proof: There isn't music or there isn't alcohol
-Troof: There isn't music or there isn't alcohol
+Troof: There isn't music or there isn't alcohol                              7.5/8
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption 1: The sun causes cancer.
 Assumption 2: Hunger causes irritation.
@@ -1256,7 +1256,7 @@ Assumption 1: Sleep causes rejuvenation.
 Assumption 2: Obesity is caused by processed food.
 Assumption 3: There isn't rejuvenation or there isn't obesity.
 Proof: There isn't sleep or there isn't processed food
-Troof: There isn't sleep or there isn't processed food
+Troof: There isn't sleep or there isn't processed food                              8.5/9
 ----------------IT: destr-dil------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption 1: Callousness is caused by greed.
 Assumption 2: Fermentation is caused by kimchi.
@@ -1307,7 +1307,7 @@ Assumption 1: Big business causes widespread poverty.
 Assumption 2: Pollination is caused by bees.
 Assumption 3: There isn't widespread poverty or there isn't pollination
 Proof: There isn't big business or there isn't bees
-Troof: There isn't big business or there aren't bees
+Troof: There isn't big business or there aren't bees                              9.5/10
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
 Assumption 1: Music causes sound.
 Assumption 2: Sound is caused by alcohol.
@@ -1358,7 +1358,7 @@ Assumption 1: The sun causes cancer.
 Assumption 2: Hunger causes cancer.
 Assumption 3: There is sun or there is hunger.
 Proof: There is cancer
-Troof: There is cancer
+Troof: There is cancer                              1/1
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption 1: Music causes sound.
 Assumption 2: Sound is caused by alcohol.
@@ -1409,7 +1409,7 @@ Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: Hallucinations are caused by age.
 Assumption 3: One ate mushrooms or one is old.
 Proof: One hallucinates
-Troof: One has hallucinations
+Troof: One has hallucinations                                 2/2
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption 1: Big business causes widespread poverty. 
 Assumption 2: Widespread poverty is caused by bees.
@@ -1460,7 +1460,7 @@ Assumption 1: Floods are caused by excess water.
 Assumption 2: Floods are caused by smoking.
 Assumption 3: There is excess water or one smokes.
 Proof: There is flooding
-Troof: There are floods
+Troof: There are floods                              3/3
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by greed.
 Assumption 2: Fermentation is caused by kimchi.
@@ -1511,7 +1511,7 @@ Assumption 1: Fire causes death.
 Assumption 2: The passage of time causes death.
 Assumption 3: There is fire or time passes.
 Proof: There is death
-Troof: There is death
+Troof: There is death                              4/4
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: The sun causes cancer.
 Assumption 2: Hunger causes cancer.
@@ -1562,7 +1562,7 @@ Assumption 1: Fermentation is caused by greed.
 Assumption 2: Fermentation is caused by kimchi.
 Assumption 3: One is greedy or there is kimchi.
 Proof: There is fermentation
-Troof: There is fermentation
+Troof: There is fermentation                              5/5
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption 1: Fire causes death. 
 Assumption 2: The passage of time causes death.
@@ -1613,7 +1613,7 @@ Assumption 1: Stress causes anxiety.
 Assumption 2: Stress is caused by cold weather.
 Assumption 3: One is stressed or there is cold weather.
 Proof: There is anxiety
-Troof: One has anxiety
+Troof: One has anxiety                   **           5.5/6
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: Music causes sound.
 Assumption 2: Sound is caused by alcohol.
@@ -1664,7 +1664,7 @@ Assumption 1: Rain causes clouds.
 Assumption 2: Clouds are caused by cows.
 Assumption 3: There is rain or there are cows.
 Proof: There are clouds
-Troof: There are clouds
+Troof: There are clouds                              6.5/7
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by greed.
 Assumption 2: Fermentation is caused by kimchi.
@@ -1715,7 +1715,7 @@ Assumption 1: Music causes sound.
 Assumption 2: Sound is caused by alcohol.
 Assumption 3: There is music or there is alcohol.
 Proof: There is sound
-Troof: There is sound
+Troof: There is sound                              7.5/8
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption 1: Big business causes widespread poverty. 
 Assumption 2: Widespread poverty is caused by bees.
@@ -1766,7 +1766,7 @@ Assumption 1: Sleep causes rejuvenation.
 Assumption 2: Rejuvenation is caused by processed food.
 Assumption 3: There is sleep or there is processed food.
 Proof: There is rejuvenation
-Troof: There is rejuvenation
+Troof: There is rejuvenation                              8.5/9
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption 1: The sun causes cancer.
 Assumption 2: Hunger causes cancer.
@@ -1817,7 +1817,7 @@ Assumption 1: Big business causes widespread poverty.
 Assumption 2: Widespread poverty is caused by bees.
 Assumption 3: There is big business or there are bees.
 Proof: There is widespread poverty
-Troof: There is widespread poverty
+Troof: There is widespread poverty                              9.5/10
 ----------------IT: ponens------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There is excess water.
@@ -1858,7 +1858,7 @@ Proof: One is callous
 Assumption 1: The sun causes cancer.
 Assumption 2: The sun shines.
 Proof: There is cancer
-Troof: There is cancer                                                 /1
+Troof: There is cancer                                                 1/1
 ----------------IT: ponens------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption 1: Lung cancer is caused by smoking.
 Assumption 2: One smokes.
@@ -1899,7 +1899,7 @@ Proof: One has hair loss
 Assumption 1: Hunger causes irritation.
 Assumption 2: There is hunger.
 Proof: There is irritation
-Troof: There is irritation                                                 /2
+Troof: There is irritation                                                 2/2
 ----------------IT: ponens------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by kimchi.
 Assumption 2: There is kimchi.
@@ -1940,7 +1940,7 @@ Proof: There is irritation
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One ate mushrooms.
 Proof: One has hallucinations
-Troof: One has hallucinations                                                 /3
+Troof: One has hallucinations                                                 3/3
 ----------------IT: ponens------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption 1: The passage of time causes death.
 Assumption 2: Time passes.
@@ -1981,7 +1981,7 @@ Proof: There is fermentation
 Assumption 1: Hair loss is caused by age.
 Assumption 2: One is old.
 Proof: One has hair loss
-Troof: One has hair loss                                                 /4
+Troof: One has hair loss                                                 4/4
 ----------------IT: ponens------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: Hunger causes irritation.
 Assumption 2: There is hunger.
@@ -2022,7 +2022,7 @@ Proof: One has hair loss
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There is excess water.
 Proof: There is flooding
-Troof: There are floods                                                 /5
+Troof: There are floods                                                 5/5
 ----------------IT: ponens------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption 1: Hunger causes irritation.
 Assumption 2: There is hunger.
@@ -2063,7 +2063,7 @@ Proof: One has hallucinations
 Assumption 1: Lung cancer is caused by smoking.
 Assumption 2: One smokes.
 Proof: One has lung cancer
-Troof: One has lung cancer                                                 /6
+Troof: One has lung cancer                                                 6/6
 ----------------IT: ponens------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One ate mushrooms.
@@ -2104,7 +2104,7 @@ Proof: There is irritation
 Assumption 1: Fire causes smoke.
 Assumption 2: There is fire.
 Proof: There is smoke
-Troof: There is smoke                                                 /7
+Troof: There is smoke                                                 7/7
 ----------------IT: ponens------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One ate mushrooms.
@@ -2145,7 +2145,7 @@ Proof: There is fermentation
 Assumption 1: The passage of time causes death.
 Assumption 2: Time passes.
 Proof: There is death
-Troof: Death occurs                                                 /8
+Troof: Death occurs                                                 8/8
 ----------------IT: ponens------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There is excess water.
@@ -2186,7 +2186,7 @@ Proof: There is smoke
 Assumption 1: Callousness is caused by greed.
 Assumption 2: One is greedy.
 Proof: One has callousness
-Troof: One is callous                                                 /9
+Troof: One is callous                                        **         8.5/9
 ----------------IT: ponens------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption 1: The sun causes cancer.
 Assumption 2: The sun shines.
@@ -2227,7 +2227,7 @@ Proof: There is irritation
 Assumption 1: Fermentation is caused by kimchi.
 Assumption 2: There is kimchi.
 Proof: There is fermentation
-Troof: There is fermentation                                                 /10
+Troof: There is fermentation                                                 9.5/10
 ----------------IT: tollens------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
 Assumption 1: Lung cancer is caused by smoking.
 Assumption 2: One doesn't have lung cancer.
@@ -2268,7 +2268,7 @@ Proof: There isn't excess water
 Assumption 1: The sun causes cancer.
 Assumption 2: There is not cancer.
 Proof: The sun doesn't shine
-Troof: The sun doesn't shine
+Troof: The sun doesn't shine                              1/1
 ----------------IT: tollens------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One doesn't have hallucinations.
@@ -2309,7 +2309,7 @@ Proof: There isn't excess water
 Assumption 1: Hunger causes irritation.
 Assumption 2: There is not irritation.
 Proof: One isn't hungry
-Troof: There is not hunger
+Troof: There is not hunger                              **      1.5/2
 ----------------IT: tollens------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There aren't floods.
@@ -2350,7 +2350,7 @@ Proof: The sun doesn't shine
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One doesn't have hallucinations.
 Proof: One doesn't eat mushrooms
-Troof: One didn't eat mushrooms
+Troof: One didn't eat mushrooms                              2.5/3
 ----------------IT: tollens------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by kimchi.
 Assumption 2: There isn't fermentation.
@@ -2391,7 +2391,7 @@ Proof: Time doesn't pass
 Assumption 1: Hair loss is caused by age.
 Assumption 2: One doesn't have hair loss.
 Proof: One isn't old
-Troof: One is not old
+Troof: One is not old                              3.5/4
 ----------------IT: tollens------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: Lung cancer is caused by smoking.
 Assumption 2: One doesn't have lung cancer.
@@ -2432,7 +2432,7 @@ Proof: Time doesn't pass
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There aren't floods.
 Proof: There is no excess water
-Troof: There isn't excess water
+Troof: There isn't excess water                              4.5/5
 ----------------IT: tollens------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption 1: Hunger causes irritation.
 Assumption 2: There is not irritation.
@@ -2473,7 +2473,7 @@ Proof: One isn't greedy
 Assumption 1: Lung cancer is caused by smoking.
 Assumption 2: One doesn't have lung cancer.
 Proof: One doesn't smoke
-Troof: One doesn't smoke
+Troof: One doesn't smoke                              5.5/6
 ----------------IT: tollens------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: Hair loss is caused by age.
 Assumption 2: One doesn't have hair loss.
@@ -2514,7 +2514,7 @@ Proof: There is not hunger
 Assumption 1: Fire causes smoke.
 Assumption 2: There isn't smoke.
 Proof: There isn't fire
-Troof: There isn't fire
+Troof: There isn't fire                              6.5/7
 ----------------IT: tollens------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption 1: Fire causes smoke.
 Assumption 2: There isn't smoke.
@@ -2555,7 +2555,7 @@ Proof: There isn't kimchi
 Assumption 1: The passage of time causes death.
 Assumption 2: There is no death.
 Proof: There is no passage of time
-Troof: Time doesn't pass
+Troof: Time doesn't pass                              7.5/8
 ----------------IT: tollens------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One doesn't have hallucinations.
@@ -2596,7 +2596,7 @@ Proof: There isn't excess water
 Assumption 1: Callousness is caused by greed.
 Assumption 2: One isn't callous.
 Proof: One isn't greedy
-Troof: One isn't greedy
+Troof: One isn't greedy                              8.5/9
 ----------------IT: tollens------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There aren't floods.
@@ -2637,7 +2637,7 @@ Proof: There isn't fire
 Assumption 1: Fermentation is caused by kimchi.
 Assumption 2: There isn't fermentation.
 Proof: There isn't kimchi
-Troof: There isn't kimchi
+Troof: There isn't kimchi                              9.5/10
 ----------------IT: transpo------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
 Assumption 1: Callousness is caused by greed.
 Proof: If one isn't callous, then one isn't greedy 
@@ -2668,7 +2668,7 @@ Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
 ###
 Assumption 1: The sun causes cancer.
 Proof: If there isn't cancer, then the sun doesn't cause cancer
-Troof: If there is not cancer, then there is not sun
+Troof: If there is not cancer, then there is not sun                              0/1
 ----------------IT: transpo------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption 1: The passage of time causes death.
 Proof: If there isn't death, then time doesn't pass 
@@ -2699,7 +2699,7 @@ Proof: If there is not cancer, then there is not sun
 ###
 Assumption 1: Hunger causes irritation.
 Proof: If one isn't hungry, then one isn't irritated
-Troof: If there is not irritation, then there is not hunger
+Troof: If there is not irritation, then there is not hunger                              0/2
 ----------------IT: transpo------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Proof: If there aren't floods, then there isn't excess water 
@@ -2730,7 +2730,7 @@ Proof: If one isn't callous, then one isn't greedy
 ###
 Assumption 1: Mushrooms cause hallucinations.
 Proof: If there isn't hallucinations, then there isn't mushrooms
-Troof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+Troof: If one doesn't have hallucinations, the one didn't eat mushrooms.                              1/3
 ----------------IT: transpo------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption 1: The passage of time causes death.
 Proof: If there isn't death, then time doesn't pass 
@@ -2761,7 +2761,7 @@ Proof: If there isn't fermentation, then there isn't kimchi
 ###
 Assumption 1: Hair loss is caused by age.
 Proof: If there isn't hair loss, then there isn't age
-Troof: If one doesn't have hair loss, then one isn't old.
+Troof: If one doesn't have hair loss, then one isn't old.                              ** 2/4
 ----------------IT: transpo------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: Callousness is caused by greed.
 Proof: If one isn't callous, then one isn't greedy 
@@ -2792,7 +2792,7 @@ Proof: If one doesn't have lung cancer, then one doesn't smoke
 ###
 Assumption 1: Floods are caused by excess water.
 Proof: If there is not excess water, then there is not floods
-Troof: If there aren't floods, then there isn't excess water 
+Troof: If there aren't floods, then there isn't excess water                               2/5
 ----------------IT: transpo------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption 1: Hunger causes irritation.
 Proof: If there is not irritation, then there is not hunger
@@ -2823,7 +2823,7 @@ Proof: If there isn't fermentation, then there isn't kimchi
 ###
 Assumption 1: Lung cancer is caused by smoking.
 Proof: If there isn't lung cancer, then smoking doesn't cause lung cancer
-Troof: If one doesn't have lung cancer, then one doesn't smoke 
+Troof: If one doesn't have lung cancer, then one doesn't smoke                               2/6
 ----------------IT: transpo------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: Hunger causes irritation.
 Proof: If there is not irritation, then there is not hunger
@@ -2854,7 +2854,7 @@ Proof: If there is not cancer, then there is not sun
 ###
 Assumption 1: Fire causes smoke. 
 Proof: If there isn't smoke, then there isn't fire
-Troof:  If there isn't smoke, then there isn't fire
+Troof:  If there isn't smoke, then there isn't fire                              3/7
 ----------------IT: transpo------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption 1: Callousness is caused by greed.
 Proof: If one isn't callous, then one isn't greedy 
@@ -2885,7 +2885,7 @@ Proof: If one doesn't have lung cancer, then one doesn't smoke
 ###
 Assumption 1: The passage of time causes death.
 Proof: If there isn't death, then there isn't passage of time
-Troof: If there isn't death, then time doesn't pass 
+Troof: If there isn't death, then time doesn't pass                               4/8
 ----------------IT: transpo------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption 1: The sun causes cancer.
 Proof: If there is not cancer, then there is not sun
@@ -2916,7 +2916,7 @@ Proof: If there is not irritation, then there is not hunger
 ###
 Assumption 1: Callousness is caused by greed.
 Proof: If there is not callousness, then there is not greed
-Troof: If one isn't callous, then one isn't greedy 
+Troof: If one isn't callous, then one isn't greedy                               5/9
 ----------------IT: transpo------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
@@ -2947,4 +2947,4 @@ Proof: If there is not cancer, then there is not sun
 ###
 Assumption 1: Fermentation is caused by kimchi.
 Proof: If there isn't fermentation, then there isn't kimchi
-Troof: If there isn't fermentation, then there isn't kimchi
+Troof: If there isn't fermentation, then there isn't kimchi                              6/10

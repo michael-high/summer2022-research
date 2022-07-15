@@ -1,0 +1,78 @@
+Assumption 1: The sun causes cancer.
+Proof: The sun doesn't shine or there is cancer
+###
+Assumption 1: Hunger causes irritation.
+Proof: There is no hunger or there is irritation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: One didn't eat mushrooms or one has hallucinations
+###
+Assumption 1: Hair loss is caused by age.
+Proof: One isn't old or one has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Proof: There isn't excess water or there are floods
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: One doesn't smoke or one has lung cancer 
+###
+Assumption 1: Fire causes smoke. 
+Proof: There isn't fire or there is smoke
+###
+Assumption 1: The passage of time causes death.
+Proof: Time doesn't pass or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Proof: One isn't greedy or one is callous
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: There is fermentation or there isn't kimchi
+###
+Assumption1: If one likes ice cream, then he is fat.
+Proof: One doesn't like ice cream or one is fat.
+###
+Assumption1: If one can fly, one has wings.
+Proof: One can't fly or one has wings
+###
+Assumption1: If you are rich, you can find a date.
+Proof: You aren't rich or you can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: You don't eat bagels or you are cool.
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: Thinking is not a crime or you are free
+###
+Assumption1: Power outages are caused by storms.
+Proof: There are not power outages or there are storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: One doesn't listen to loud music or one has tinnitis
+###
+Assumption1: Smoke implies a fire.
+Proof: There isn't smoke or there is a fire
+###
+Assumption1: Warnings imply danger.
+Proof: There aren't warnings or there is danger
+###
+Assumption1: Trees imply leaves.
+Proof: There aren't trees or there are leaves
+###
+Assumption1: Assassination implies murder.
+Proof: There isn't assassination or there is murder
+###
+Assumption1: Threats imply tension.
+Proof: There aren't threats or there is tension
+###
+Assumption1: Candy implies sugar.
+Proof: There isn't candy or there is sugar
+###
+Assumption1: If one breathes, one is alive.
+Proof: One is not breathing or one is alive
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: The food is cold or it is ready to eat
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: The lamp is on or it is dark
+###

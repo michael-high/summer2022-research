@@ -1,0 +1,40 @@
+Assumption1: I love dogs.
+Assumption2: I love cats.
+Proof: I love dogs and cats.
+###
+Assumption1: I am a runner.
+Assumption2: I have a mathematics degree.
+Proof: I am a runner and I have a mathematics degree.
+###
+Assumption1: Joe is from the USA.
+Assumption2: Joe is from NY.
+Proof: Joe is from the NY, USA.
+###
+Assumption1: I go to Wabash.
+Assumption2: I love cats.
+Proof: I go to Wabash and I love cats.
+###
+Assumption1: Joe is the president.
+Assumption2: Joe is Biden.
+Proof: Joe is the president and is a Biden.
+###
+Assumption1: Dogs have two legs.
+Assumption2: Dogs have two hands.
+Proof: Dogs have two legs and two hands.
+###
+Assumption1: I am a human.
+Assumption2: I am a dog.
+Proof: I am a human and a dog.
+###
+Assumption1: It is raining.
+Assumption2: I am wet.
+Proof: It is raining and I am wet.
+###
+Assumption1: Jumping is hard.
+Assumption2: Sleeping is easy.
+Proof: Jumping is hard and Sleeping is easy.
+###
+Assumption1: ttttt is asdfg.
+Assumption2: bsdasd is qwerty.
+Proof: ttttt is asdfg and bsdasd is qwerty.
+###

@@ -1,0 +1,52 @@
+Assumption1: If one likes ice cream, then he is fat.
+Assumption2: One likes ice cream.
+Proof: One is fat
+###
+Assumption1: If one can fly, one has wings.
+Assumption2: One can fly.
+Proof: One has wings
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: Thinking is a crime.
+Proof: You are free
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: There are power outages.
+Proof: There are storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: One listens to loud music.
+Proof: One has tinnitis
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: There are leaves
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension
+###
+Assumption1: Candy implies sugar.
+Assumption2: There is candy.
+Proof: There is sugar
+###

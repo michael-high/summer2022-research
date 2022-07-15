@@ -1,0 +1,75 @@
+Assumption1: Every dog that did not go in the swamp is not muddy, and if you like ice cream you are fat.
+Proof: Every dog that did not go in the swamp is not muddy
+###
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: If Joe likes ice cream, then he is fat, and if Rob can fly, Rob has wings.
+Proof: If Rob can fly, Rob has wings
+###
+Assumption1: If Rob can fly, Rob has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: There are clouds if and only if there is moisture, and threats imply tension.
+Proof: There are clouds if and only if there is moisture
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Cardie the dog went in the pond, then Cardie the dog is not muddy
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Biscuit the dog went in the pond, then Biscuit the dog is not muddy
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: If Duncan the dog went in the pond, then Duncan the dog is not muddy
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Cardie the dog went in the pond, then Cardie the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Cardie the dog went in the swamp, then Cardie the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Biscuit the dog went in the pond, then Biscuit the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Biscuit the dog  went in the swamp, then Biscuit the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Duncan the dog went in the pond, then Duncan the dog is wet
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If Duncan the dog went in the swamp, then Duncan the dog is wet
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: Every dog that did not go in the swamp is not muddy                 
+###
+Assumption1: Every muddy dog went in the swamp, and every dog who went in the pond is not muddy.
+Proof: Every dog that is muddy did not go in the pond
+###
+Assumption1: Either Cardie the dog or Biscuit the dog, but not both, went in the pond, and if Cardie the dog is not muddy then Biscuit the dog is muddy.
+Proof: If Biscuit the dog is not muddy, then Cardie the dog is muddy
+###
+Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni, but Catherine's pizza does not have cheese.
+Proof: Catherine's pizza does not have cheese
+###
+Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni, but Catherine's pizza does not have cheese.
+Proof: Either Catherine's pizza or Emily's pizza, or both, has pepperoni
+###

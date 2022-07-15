@@ -1,0 +1,78 @@
+Assumption1: If Catherine's pizza has pepperoni, then Catherine's pizza also has cheese.
+Proof: If Catherine's pizza does not have cheese, then Catherine's pizza does not have pepperoni
+###
+Assumption1: If someone is lactose intolerant, then their pizza does not have cheese.
+Proof: If someone's pizza has cheese, then they are not lactose intolerant
+###
+Assumption1: A dog is wet if and only if it went in the pond or it went in the swamp.
+Proof: If a dog didn't go in the pond and didn't go in the swamp, then the dog isn't wet
+###
+Assumption1: If one likes ice cream, then one is fat.
+Proof: If one is not fat, one doesn't like ice cream.
+###
+Assumption1: If one can fly, one has wings.
+Proof: If one doesn't have wings, one can't fly.
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If one doesn't have tinnitis, one didn't listen to loud music
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: If there isn't sinking, there is adequate buoyancy
+###
+Assumption1: Sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There is adequate buoyancy; therefore, sinking does not occur
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: No food, no breakfast
+###
+Assumption1: Breakfast occurs if and only if there is food.
+Proof: If htere isn't breakfast, there isn't food
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there isn't moisture there are no clouds
+###
+Assumption1: There are clouds if and only if there is moisture.
+Proof: If there aren't clouds, there is no moisture
+###
+Assumption1: If one breathes, one is alive.
+Proof: If one is dead then one is not breathing
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###

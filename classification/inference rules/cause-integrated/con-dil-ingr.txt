@@ -1,0 +1,90 @@
+Assumption 1: The sun causes cancer.
+Assumption 2: Hunger causes irritation.
+Assumption 3: There is sun or there is hunger.
+Proof: There is cancer or there is irritation
+###
+Assumption 1: Mushrooms cause hallucinations.
+Assumption 2: Hair loss is caused by age.
+Assumption 3: One ate mushrooms or one is old.
+Proof: One has hallucinations or one has hair loss
+###
+Assumption 1: Floods are caused by excess water.
+Assumption 2: Lung cancer is caused by smoking.
+Assumption 3: There is excess water or one smokes.
+Proof: There are floods or one has lung cancer
+###
+Assumption 1: Fire causes smoke. 
+Assumption 2: The passage of time causes death.
+Assumption 3: There is fire or time passes.
+Proof: There is smoke or there is death
+###
+Assumption 1: Callousness is caused by greed.
+Assumption 2: Fermentation is caused by kimchi.
+Assumption 3: One is greedy or there is kimchi.
+Proof: One is callous or there is fermentation
+###
+Assumption 1: Stress causes anxiety.
+Assumption 2: Snow is caused by cold weather.
+Assumption 3: One is stressed or there is cold weather.
+Proof: One has anxiety or there is snow 
+###
+Assumption 1: Rain causes clouds.
+Assumption 2: Global warming is caused by cows.
+Assumption 3: There is rain or there are cows.
+Proof: There are clouds or there is global warming
+###
+Assumption 1: Music causes sound.
+Assumption 2: Drunkeness is caused by alcohol.
+Assumption 3: There is music or there is alcohol.
+Proof: There is sound or there is drunkeness
+###
+Assumption 1: Sleep causes rejuvenation.
+Assumption 2: Obesity is caused by processed food.
+Assumption 3: There is sleep or there is processed food.
+Proof: There is rejuvenation or there is obesity
+###
+Assumption 1: Big business causes widespread poverty. 
+Assumption 2: Pollination is caused by bees.
+Assumption 3: There is big business or there are bees.
+Proof: There is widespread poverty or there is pollination
+###
+Assumption1: If clothes are washed, then clothes are clean
+Assumption2: If the season is summer, then the weather is hot.
+Assumption3: Clothes are washed or the season is summer.
+Proof: Clothes are clean or the weather is hot
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: If one likes ice cream, then he is fat.
+Assumption2: If one can fly, one has wings.
+Assumption3: One likes ice cream or one can fly.
+Proof: One is fat or one has wings
+###
+Assumption1: If one can fly, one has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: One can fly or thinking is a crime.
+Proof: One has wings or you are free
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: One listens to loud music or you are rich.
+Proof: One has tinnitis or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###

@@ -1,0 +1,80 @@
+Assumption1: Every dog that did not go in the swamp is not muddy.
+Assumption2: Dogs who take baths are not muddy.
+Assumption3: Duncan the dog did not go in the swamp or Duncan the dog takes baths.
+Proof: Duncan the dog is not muddy
+###
+Assumption1: People who like ice cream are fat.
+Assumption2: If I don't exercise I am fat
+Assumption3: I like ice cream or I don't exercise.
+Proof: I am fat
+###
+Assumption1: If Rob can fly, Rob has wings.
+Assumption2: If Rob is a penguin, Rob has wings
+Assumption3: Rob can fly or Rob is a penguin.
+Proof: Rob has wings
+###
+Assumption1: If you are rich, you can find a date.
+Assumption2: Attractive people can find dates.
+Assumption3: You are rich or you are attractive.
+Proof: You can find a date
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: People who live in the antarctic are cool.
+Assumption3: You eat bagels are you live in the antarctic.
+Proof: You are cool
+###
+Assumption1: If thinking is a crime, you would go free.
+Assumption2: If you have paid off all your debt, you are free.
+Assumption3: Thinking is a crime or you have paid off all your debt.
+Proof: You are free
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: Climate change causes storms
+Assumption3: There are power outages or there is climate change.
+Proof: There are storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you stand at the stage of a concert you'll get tinnitis.
+Assumption3: Susy listens to loud music or Susy stands at the stage of a concert.
+Proof: Susy has tinnitis
+###
+Assumption1: Smoke implies a fire.
+Assumption2: If something is burning, there is a fire.
+Assumption3: There is smoke or something is burning.
+Proof: There is a fire
+###
+Assumption1: Warnings imply danger.
+Assumption2: If a caged animal gets loose, it is dangerous.
+Assumption3: There are warnings or a caged animal is loose.
+Proof: There is danger
+###
+Assumption1: Trees imply leaves.
+Assumption2: Bushes have leaves
+Assumption3: There is a tree or there is a bush.
+Proof: There are leaves.
+###
+Assumption1: There are clouds if and only if there is moisture.
+Assumption2: If Cloudcorp makes clouds then there are clouds.
+Assumption3: There is moisture or cloudcorp makes clouds
+Proof: There are clouds
+###
+Assumption1: There will be mistrust if there is lying.
+Assumption2: Failure destroys trust
+Assumption3: There is lying or there is failure.
+Proof: There is mistrust
+###
+Assumption1: Assassination implies murder.
+Assumption2: If you are watching British TV, there is murder.
+Assumption3: There is an assassination or you are watching British TV.
+Proof: There is murder
+###
+Assumption1: Threats imply tension.
+Assumption2: There is a tension if a rock hangs from a ceiling.
+Assumption3: There are threats or a rock hangs from the ceiling.
+Proof: There is tension
+###
+Assumption1: Candy implies sugar.
+Assumption2: Chocolate cake has sugar in it.
+Assumption3: There is candy or chocolate cake.
+Proof: There is sugar
+###

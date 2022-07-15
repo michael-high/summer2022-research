@@ -1,0 +1,30 @@
+Assumption1: Joe hates all women.
+Proof: Joe hates his mother.
+###
+Assumption1: All animals are beautiful.
+Proof: Dogs are beautiful.
+###
+Assumption1: Computers with any CPU architecture are smart.
+Proof: ARM computers are smart.
+###
+Assumption1: People from all the countries are unique.
+Proof: Ukrainins are unique.
+###
+Assumption1: All continents are huge.
+Proof: Europe is huge.
+###
+Assumption1: Every US president is important.
+Proof: Nixon is important.
+###
+Assumption1: All the majors are hard.
+Proof: Computer science is hard.
+###
+Assumption1: All the tests are easy.
+Proof: SAT is easy.
+###
+Assumption1: All the actions have a pattern.
+Proof: Running has a pattern.
+###
+Assumption1: All the ttttts have asdfg.
+Proof: qwerty has asdfg.
+###

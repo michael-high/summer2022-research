@@ -1,0 +1,40 @@
+Assumption1: If clothes are washed, then clothes are clean
+Assumption2: If the season is summer, then the weather is hot.
+Assumption3: Clothes are washed or the season is summer.
+Proof: Clothes are clean or the weather is hot
+###
+Assumption1: If you eat bagels, you are cool.
+Assumption2: If you are rich, you can find a date.
+Assumption3: You eat bagels or you are rich.
+Proof: You are cool or you can find a date
+###
+Assumption1: If one likes ice cream, then he is fat.
+Assumption2: If one can fly, one has wings.
+Assumption3: One likes ice cream or one can fly.
+Proof: One is fat or one has wings
+###
+Assumption1: If one can fly, one has wings.
+Assumption2: If thinking is a crime, you would go free.
+Assumption3: One can fly or thinking is a crime.
+Proof: One has wings or you are free
+###
+Assumption1: Power outages are caused by storms.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There are power outages or you eat bagels.
+Proof: There are storms or you are cool
+###
+Assumption1: Tinnitis is caused by loud music.
+Assumption2: If you are rich, you can find a date.
+Assumption3: One listens to loud music or you are rich.
+Proof: One has tinnitis or you can find a date
+###
+Assumption1: Candy implies sugar.
+Assumption2: If you eat bagels, you are cool.
+Assumption3: There is candy or you eat bagels.
+Proof: There is sugar or you are cool
+###
+Assumption1: Assassination implies murder.
+Assumption2: Power outages are caused by storms.
+Assumption3: There is assassination or there are power outages.
+Proof: There is murder or there are storms
+###

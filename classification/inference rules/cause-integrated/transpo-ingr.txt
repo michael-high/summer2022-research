@@ -1,0 +1,81 @@
+Assumption 1: The sun causes cancer.
+Proof: If there is not cancer, then there is not sun
+###
+Assumption 1: Hunger causes irritation.
+Proof: If there is not irritation, then there is not hunger
+###
+Assumption 1: Mushrooms cause hallucinations.
+Proof: If one doesn't have hallucinations, the one didn't eat mushrooms.
+###
+Assumption 1: Hair loss is caused by age.
+Proof: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Floods are caused by excess water.
+Proof: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Lung cancer is caused by smoking.
+Proof: If one doesn't have lung cancer, then one doesn't smoke 
+###
+Assumption 1: Fire causes smoke. 
+Proof:  If there isn't smoke, then there isn't fire
+###
+Assumption 1: The passage of time causes death.
+Proof: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Callousness is caused by greed.
+Proof: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: Fermentation is caused by kimchi.
+Proof: If there isn't fermentation, then there isn't kimchi
+###
+Assumption1: If one likes ice cream, then one is fat.
+Proof: If one is not fat, one doesn't like ice cream.
+###
+Assumption1: If one can fly, one has wings.
+Proof: If one doesn't have wings, one can't fly.
+###
+Assumption1: If you are rich, you can find a date.
+Proof: If you can't find a date you aren't rich.
+###
+Assumption1: If you eat bagels, you are cool.
+Proof: If you aren't cool, you don't eat bagels
+###
+Assumption1: If thinking is a crime, you would go free.
+Proof: If you aren't free, thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+Proof: If there are no power outages, then there are no storms
+###
+Assumption1: Tinnitis is caused by loud music.
+Proof: If one doesn't have tinnitis, one didn't listen to loud music
+###
+Assumption1: Smoke implies a fire.
+Proof: If there is no fire, there is no smoke
+###
+Assumption1: Warnings imply danger.
+Proof: If there is no danger. there are no warnings
+###
+Assumption1: Trees imply leaves.
+Proof: If there are no leaves, there are no trees.
+###
+Assumption1: Assassination implies murder.
+Proof: If there is no murder, there is no assassination
+###
+Assumption1: Threats imply tension.
+Proof: If there is no tension there are no threats
+###
+Assumption1: Candy implies sugar.
+Proof: No sugar, no candy
+###
+Assumption1: There will be mistrust if there is lying.
+Proof: If there is trust, there is no lying
+###
+Assumption1: If one breathes, one is alive.
+Proof: If one is dead then one is not breathing
+###
+Assumption1: If the food is hot, it is ready to eat.
+Proof: If the food is not ready to eat then is cold
+###
+Assumption1: If the lamp is off, it is dark.
+Proof: If it is light then the lamp is on
+###

@@ -1,0 +1,30 @@
+Assumption1: If you eat bagels, you are cool, and if you are rich, you can find a date.
+Proof: If you are rich, you can find a date
+###
+Assumption1: If one likes ice cream, then he is fat, and if one can fly, one has wings.
+Proof: If one can fly, one has wings
+###
+Assumption1: If one can fly, one has wings, and if thinking is a crime, you would go free.
+Proof: If thinking is a crime, you would go free
+###
+Assumption1: Power outages are caused by storms, and if you eat bagels, you are cool.
+Proof:  Power outages are caused by storms
+###
+Assumption1: Tinnitis is caused by loud music, and if you are rich, you can find a date.
+Proof: Tinnitis is caused by loud music
+###
+Assumption1: Candy implies sugar, and if you eat bagels, you are cool.
+Proof: If you eat bagels, you are cool
+###
+Assumption1: Assassination implies murder, and power outages are caused by storms.
+Proof: Assassination implies murder
+###
+Assumption1: Power outages are caused by storms, and sinking occurs if and only if there isn't adequate buoyancy.
+Proof: There are storms or there is inadequate buoyancy
+###
+Assumption1: Breakfast occurs if and only if there is food, and there will be mistrust if there is lying.
+Proof: There will be mistrust if there is lying
+###
+Assumption1: There are clouds if and only if there is moisture, and threats imply tension.
+Proof: There are clouds if and only if there is moisture
+###

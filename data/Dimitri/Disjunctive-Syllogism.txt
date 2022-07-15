@@ -1,0 +1,40 @@
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: I am from France.
+###
+Assumption1: Joe's favourite animals are dogs or cats.
+Assumption2: Joe's favourite animals are not cats.
+Proof: Joe's favourite animals are dogs.
+###
+Assumption1: It is raining or there is a volcano eruption.
+Assumption2: The volcano is dormant.
+Proof: It is raining.
+###
+Assumption1: There is a volcano eruption or it is raining.
+Assumption2: There is no volcano eruption.
+Proof: It is raining.
+###
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: These people are scientists.
+###
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: People who speak French are from Canada.
+###
+Assumption1: Wabash College has men or women.
+Assumption2: Wabash College has no women.
+Proof: Wabash college has men.
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: There are cats at the exposition.
+###
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: Bobby is a world chess champion.
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: I can not jump at all.
+###

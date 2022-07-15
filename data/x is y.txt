@@ -1,0 +1,3 @@
+vector spaces are sets                                                                   #For all x; if x is a vector space then x is a set
+mat-impl: x is not a vector space or x is a set
+transpo: if x is not a set, then x is not a vector space
