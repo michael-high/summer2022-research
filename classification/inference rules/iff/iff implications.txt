@@ -18,3 +18,5 @@ Assumption1: Goals are helpful if and only if there is committment to the goals.
 Assumption1: Today is Tuesday if and only if yesterday was Monday. 
 Assumption1: Eggs are edible if and only if eggs are unfertilized. 
 Assumption1: One can think if and only if one exists. 
+
+#use "whenever" for 1/4 of iff

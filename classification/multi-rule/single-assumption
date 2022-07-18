@@ -1,0 +1,405 @@
+Assumption 1: The sun causes cancer.
+mat-impl: There is no sun or there is cancer
+Addition: The sun causes cancer or a good joke is funny
+Universal: N/A
+Simplification: N/A
+transpo: If there is not cancer, then there is not sun
+###
+Assumption 1: Hunger causes irritation.
+mat-impl: There isn't hunger or there is irritation
+Addition: Hunger causes irritation or laughing is healthy
+Universal: N/A
+Simplification: N/A
+transpo: If there is not irritation, then there is not hunger
+###
+Assumption 1: Mushrooms cause hallucinations.
+mat-impl: One didn't eat mushrooms or one has hallucinations
+Addition:  Mushrooms cause hallucinations or the sky is blue
+Universal: N/A
+Simplification: N/A
+transpo: If one doesn't have hallucinations, then one didn't eat mushrooms
+###
+Assumption 1: Hair loss is caused by age.
+mat-impl: One isn't old or one has hair loss
+Addition: Hair loss is caused by age or there are ants
+Universal: N/A
+Simplification: N/A
+transpo: If one doesn't have hair loss, then one isn't old.
+###
+Assumption 1: Floods are caused by excess water.
+mat-impl: There isn't excess water or there are floods
+Addition: Floods are caused by excess water or funnel cake is good
+Universal: N/A
+Simplification: N/A
+transpo: If there aren't floods, then there isn't excess water 
+###
+Assumption 1: Lung cancer is caused by smoking.
+mat-impl: One doesn't smoke or one has lung cancer
+Addition: Lung cancer is caused by smoking or there are hurricanes
+Universal: N/A
+Simplification: N/A
+transpo: If one doesn't have lung cancer, then one doesn't smoke
+###
+Assumption 1: The passage of time causes death.
+mat-impl: Time doesn't pass or there is death
+Addition: The passage of time causes death or poker is risky
+Universal: N/A
+Simplification: N/A
+transpo: If there isn't death, then time doesn't pass 
+###
+Assumption 1: Callousness is caused by greed.
+mat-impl: One isn't greedy or one is callous
+Addition: Callousness is caused by greed or there are hurricanes
+Universal: N/A
+Simplification: N/A
+transpo: If one isn't callous, then one isn't greedy 
+###
+Assumption 1: Fermentation is caused by kimchi.
+mat-impl: There is fermentation or there isn't kimchi
+Addition: Fermentation is caused by kimchi or grass grows
+Universal: N/A
+Simplification: N/A
+transpo: If there isn't fermentation, then there isn't kimchi
+###
+Assumption1: If one likes ice cream, then one is fat.
+mat-impl: One doesn't like ice cream or one is fat.
+Addition: If one likes ice cream, then one is fat or leaves are green
+Universal: N/A
+Simplification: N/A
+transpo: If one is not fat, one doesn't like ice cream.
+###
+Assumption1: If one can fly, one has wings.
+mat-impl: One can't fly or one has wings
+Addition: If one can fly, one has wings or llamas are cute
+Universal: N/A
+Simplification: N/A
+transpo: If one doesn't have wings, one can't fly.
+###
+Assumption1: If you are rich, you can find a date.
+mat-impl: You aren't rich or you can find a date
+Addition: If you are rich, you can find a date or raccoons are bad pets
+Universal: N/A
+Simplification: N/A
+transpo: If you can't find a date you aren't rich.
+###
+Assumption1: If you eat bagels, you are cool.
+mat-impl: You don't eat bagels or you are cool
+Addition: If you eat bagels, you are cool or the moon is reflective
+Universal: N/A
+Simplification: N/A
+transpo: If you aren't cool, you don't eat bagels
+###
+Assumption1: If thinking is a crime, you would go free.
+mat-impl: Thinking is not a crime or you are free
+Addition: If thinking is a crime, you would go free or the tide goes out
+Universal: N/A
+Simplification: N/A
+transpo: If you aren't free, thinking isn't a crime
+###
+Assumption1: Power outages are caused by storms.
+mat-impl: There are not power outages or there are storms
+Addition: Power outages are caused by storms or books store knowledge
+Universal: N/A
+Simplification: N/A
+transpo: If there are no power outages, then there are no storms
+###
+Assumption1: Tinnitis is caused by loud music.
+mat-impl: One doesn't listen to loud music or one has tinnitis
+Addition: Tinnitis is caused by loud music or imagination promotes a healthy mind
+Universal: N/A
+Simplification: N/A
+transpo: If one doesn't have tinnitis, one didn't listen to loud music
+###
+Assumption1: Smoke implies a fire.
+mat-impl: There isn't smoke or there is a fire
+Addition: Smoke implies a fire or the government is corrupt
+Universal: N/A
+Simplification: N/A
+transpo: If there is no fire, there is no smoke
+###
+Assumption1: Warnings imply danger.
+mat-impl: There aren't warnings or there is danger
+Addition: Warnings imply danger or there are clouds
+Universal: N/A
+Simplification: N/A
+transpo: If there is no danger. there are no warnings
+###
+Assumption1: Trees imply leaves.
+mat-impl: There aren't trees or there are leaves
+Addition: Trees imply leaves or one has hot cinnamon rolls
+Universal: N/A
+Simplification: N/A
+transpo: If there are no leaves, there are no trees.
+###
+Assumption1: Assassination implies murder.
+mat-impl: There isn't assassination or there is murder
+Addition: Assassination implies murder or street food is cheap
+Universal: N/A
+Simplification: N/A
+transpo: If there is no murder, there is no assassination
+###
+Assumption1: Threats imply tension.
+mat-impl: There aren't threats or there is tension
+Addition: Threats imply tension or there are corndogs
+Universal: N/A
+Simplification: N/A
+transpo: If there is no tension there are no threats
+###
+Assumption1: Candy implies sugar.
+mat-impl: There isn't candy or there is sugar
+Addition: Candy implies sugar or funnelcakes are the best
+Universal: N/A
+Simplification: N/A
+transpo: No sugar, no candy
+###
+Assumption1: There will be mistrust if there is lying.
+mat-impl: There is not lying or there is mistrust
+Addition: There will be mistrust if there is lying or pasta comes from Italy
+Universal: N/A
+Simplification: N/A
+transpo: If there is trust, there is no lying
+###
+Assumption1: If one breathes, one is alive.
+mat-impl: One is not breathing or one is alive
+Addition: If one breathes, one is alive or pandas eat bamboo
+Universal: N/A
+Simplification: N/A
+transpo: If one is dead then one is not breathing
+###
+Assumption1: If the food is hot, it is ready to eat.
+mat-impl: The food is cold or it is ready to eat
+Addition: If the food is hot, it is ready to eat or cocaine is snorted
+Universal: N/A
+Simplification: N/A
+transpo: If the food is not ready to eat then is cold
+###
+Assumption1: If the lamp is off, it is dark.
+mat-impl: The lamp is on or it is dark
+Addition:  If the lamp is off, it is dark or koalas eat eucalyptus
+Universal: N/A
+Simplification: N/A
+transpo: If it is light then the lamp is on
+###
+Assumption1: It is raining.
+mat-impl: N/A
+Addition: It is raining or it is sunny
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: I have an engineering degree.
+mat-impl: N/A
+Addition: I have an engineering degree or a mathematics degree
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: My name is Joe.
+mat-impl: N/A
+Addition: My name is Joe or Bill
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: I am from Georgia.
+mat-impl: N/A
+Addition: I am from Georgia or from the USA
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: I like coffee.
+mat-impl: N/A
+Addition: I like coffee or I like tea
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: Bobby is tall.
+mat-impl: N/A
+Addition: Bobby is tall or short
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: Jumping is hard.
+mat-impl: N/A
+Addition: Jumping is easy or hard
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: My computer has Intel CPU.
+mat-impl: N/A
+Addition: My computer has Intel or AMD CPU
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: ttttt is asdfg.
+mat-impl: N/A
+Addition: ttttt is asdfg or dog
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: Cats have four legs.
+mat-impl: N/A
+Addition: Cats have four or eight legs
+Universal: N/A
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: One hates all women.
+mat-impl: N/A
+Addition: One hates all women or Guinness beer is good 
+Universal: One hates his mother
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: All animals are beautiful.
+mat-impl: N/A
+Addition: All animals are beautiful or there is a shortage of flour
+Universal: Dogs are beautiful
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: Computers with any CPU architecture are smart.
+mat-impl: N/A
+Addition: Computers with any CPU architecture are smart or there is corn
+Universal: ARM computers are smart
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: People from all the countries are unique.
+mat-impl: N/A
+Addition: People from all the countries are unique or there is soda
+Universal: Ukrainins are unique
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: All continents are huge.
+mat-impl: N/A
+Addition: All continents are huge or space is small
+Universal: Europe is huge
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: Every US president is important.
+mat-impl: N/A
+Addition: Every US president is important or stars explode
+Universal: Nixon is important
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: All the majors are hard.
+mat-impl: N/A
+Addition: All the majors are hard or sleeping is easy
+Universal: Computer science is hard
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: All the tests are easy.
+mat-impl: N/A
+Addition: All the tests are easy or worms eat dirt
+Universal: SAT is easy
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: All the actions have a pattern.
+mat-impl: N/A
+Addition: All the actions have a pattern or China is a threat
+Universal: Running has a pattern
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: All the ttttts have asdfg.
+mat-impl: N/A
+Addition: All the ttttts have asdfg or asteroids are expensive
+Universal: qwerty has asdfg
+Simplification: N/A
+transpo: N/A
+###
+Assumption1: The sky is blue and pain hurts.
+mat-impl: N/A
+Addition: The sky is blue and pain hurts or cheating is unfair
+Universal: N/A
+Simplification: The sky is blue
+transpo: N/A
+###
+Assumption1: Cheetos are carcinogenous and birds fly.
+mat-impl: N/A
+Addition: Cheetos are carcinogenous and birds fly or pillows are soft
+Universal: N/A
+Simplification: Cheetos are carcinogenous
+transpo: N/A
+###
+Assumption1: Drugs alter reality and driving is dangerous.
+mat-impl: N/A
+Addition: Drugs alter reality and driving is dangerous or climbing rocks is hard
+Universal: N/A
+Simplification: Drugs alter reality
+###
+Assumption1: Perception is reality and the internet holds all knowledge.
+mat-impl: N/A
+Addition: Perception is reality and the internet holds all knowledge or branches break
+Universal: N/A
+Simplification: Perception is reality
+transpo: N/A
+###
+Assumption1: Truth is relative and fire is hot.
+mat-impl: N/A
+Addition: Truth is relative and fire is hot or water sustains life
+Universal: N/A
+Simplification: Truth is relative
+transpo: N/A
+###
+Assumption1: Thinking is difficult and fevers are unhealthy.
+mat-impl: N/A
+Addition: Thinking is difficult and fevers are unhealthy or solar panels wear out
+Universal: N/A
+Simplification: Thinking is difficult
+transpo: N/A
+###
+Assumption1: Boats float and dogs bark.
+mat-impl: N/A
+Addition: Boats float and dogs bark or grass is green
+Universal: N/A
+Simplification: Boats float
+transpo: N/A
+###
+Assumption1: Electricity is essential and nature is dying.
+mat-impl: N/A
+Addition: Electricity is essential and nature is dying or money is most important
+Universal: N/A
+Simplification: Electricity is essential
+transpo: N/A
+###
+Assumption1: The space station is falling and concrete is heavy.
+mat-impl: N/A
+Addition: The space station is falling and concrete is heavy or graphs are useful
+Universal: N/A
+Simplification: The space station is falling
+transpo: N/A
+###
+Assumption1: Housing is expensive and food is a luxury.
+mat-impl: N/A
+Addition: Housing is expensive and food is a luxury or user interfaces are the most important
+Universal: N/A
+Simplification: Housing is expensive
+transpo: N/A
+###
+Assumption1: Death is natural and mushrooms are unnatural.
+mat-impl: N/A
+Addition: Death is natural and mushrooms are unnatural or geese are aggressive
+Universal: N/A
+Simplification: Death is natural
+transpo: N/A
+###
+Assumption1: Exercise is healthy and bikes are useful.
+mat-impl: N/A
+Addition: Exercise is healthy and bikes are useful or paint has to dry
+Universal: N/A
+Simplification: Exercise is healthy
+transpo: N/A
+###

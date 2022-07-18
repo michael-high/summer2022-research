@@ -1,0 +1,36 @@
+Assumption1: The sky is blue and pain hurts.
+Proof: The sky is blue
+###
+Assumption1: Cheetos are carcinogenous and birds fly.
+Proof: Cheetos are carcinogenous
+###
+Assumption1: Drugs alter reality and driving is dangerous.
+Proof: Drugs alter reality
+###
+Assumption1: Perception is reality and the internet holds all knowledge.
+Proof: Perception is reality
+###
+Assumption1: Truth is relative and fire is hot.
+Proof: Truth is relative
+###
+Assumption1: Thinking is difficult and fevers are unhealthy.
+Proof: Thinking is difficult
+###
+Assumption1: Boats float and dogs bark.
+Proof: Boats float
+###
+Assumption1: Electricity is essential and nature is dying.
+Proof: Electricity is essential
+###
+Assumption1: The space station is falling and concrete is heavy.
+Proof: The space station is falling
+###
+Assumption1: Housing is expensive and food is a luxury.
+Proof: Housing is expensive
+###
+Assumption1: Death is natural and mushrooms are unnatural.
+Proof: Death is natural
+###
+Assumption1: Exercise is healthy and bikes are useful.
+Proof: Exercise is healthy
+###

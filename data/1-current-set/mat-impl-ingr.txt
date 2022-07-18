@@ -14,10 +14,7 @@ Assumption 1: Floods are caused by excess water.
 Proof: There isn't excess water or there are floods
 ###
 Assumption 1: Lung cancer is caused by smoking.
-Proof: One doesn't smoke or one has lung cancer 
-###
-Assumption 1: Fire causes smoke. 
-Proof: There isn't fire or there is smoke
+Proof: One doesn't smoke or one has lung cancer
 ###
 Assumption 1: The passage of time causes death.
 Proof: Time doesn't pass or there is death
