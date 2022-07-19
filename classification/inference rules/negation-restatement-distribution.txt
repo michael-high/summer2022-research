@@ -1,0 +1,24 @@
+/*
+    Notes:
+        ***NEGATION DOES NOT EXIST- at least not the way we were talking about it.
+            we had transposition hididng behind an iff, and a de morgans law example
+            obv it would be difficult to group different rules together--test all/none
+            --are any rules more important than others?
+        RESTATEMENT--technically all the "replacement rules" from ubc are RESTATEMENT
+            -can't find examples in the muddy dog problemn
+        DISTRIBUTION--has it's own rule already, in the table, again asks "is this rule necessary to include"
+
+
+    moving forward:
+        do we include more rules, like de morgan's? --> 6 ubc rules for restatement/replacement that we haven't really touched
+    
+    # of assumptions
+        1: de morgans, commutation, double negation
+        2: association, distribution, exportation
+
+    Related topics:
+        material equivalence
+            -this rule closely relates to the conversion of iff statements that we discussed testing already
+            -add/replace/ignore?
+
+*/

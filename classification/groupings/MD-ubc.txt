@@ -165,11 +165,14 @@ Addition: p -> p||q
 
 
 Negation
-    [q <-> (p||r)] -> (!q<->(!p&&!r))
-    [(q->p)||(q->r)] -> (!q<->(!p&&!r))
-        R:"A dog is wet if and only if it went in the pond or it went in the swamp"
-        A:"Dogs that are not wet did not go in the pond or swamp"
 
+                    actually transposition:
+                        [q <-> (p||r)] -> (!q<->(!p&&!r))
+                        [(q->p)||(q->r)] -> (!q<->(!p&&!r))
+                            R:"A dog is wet if and only if it went in the pond or it went in the swamp"
+                            A:"Dogs that are not wet did not go in the pond or swamp"
+
+        (de morgans)
     !(a&&b&&c) -> (!a || !b || !c)
         R:"Biscuit is a dog" ; "Cardie is a dog" ; "Duncan is a dog" ; "Not all of the three dogs are wet"
         A:"At least one of the three dogs, Duncan, Cardie or Biscuit, is not wet"
