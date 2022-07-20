@@ -101,7 +101,7 @@ Simplification: (p&&q)-> p
         R:"Duncan is a dog" ; "Every muddy dog went in the swamp, and every dog who went in the pond is not muddy"
         A:"If Duncan went in the pond, then Duncan is not muddy"
     
-    Bijection:
+    Bijection:          
     [(p||r) <-> q] ->    p->q
         R:"Cardie is a dog" ; "A dog is wet if and only if it went in the pond or it went in the swamp"
         A:"If Cardie went in the pond, then Cardie is wet"

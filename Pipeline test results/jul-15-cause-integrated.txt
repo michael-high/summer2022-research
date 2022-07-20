@@ -1831,7 +1831,7 @@ Proof: One isn't old or one has hair loss
 Assumption 1: Mushrooms cause hallucinations.
 Proof: One doesn't eat mushrooms or one has hallucinations
 Troof: One didn't eat mushrooms or one has hallucinations
-                                                              /3
+                                                              2/3
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption1: Smoke implies a fire.
 Proof: There isn't smoke or there is a fire
@@ -1887,7 +1887,7 @@ Proof: The sun doesn't shine or there is cancer
 Assumption 1: Hair loss is caused by age.
 Proof: One isn't old or one has hair loss
 Troof: One isn't old or one has hair loss
-                                                              /4
+                                                              3/4
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: The passage of time causes death.
 Proof: Time doesn't pass or there is death
@@ -1943,7 +1943,7 @@ Proof: There is no hunger or there is irritation
 Assumption 1: Floods are caused by excess water.
 Proof: There is no excess water or there is flood
 Troof: There isn't excess water or there are floods
-                                                              /5
+                                                              4/5
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption1: Power outages are caused by storms.
 Proof: There are not power outages or there are storms
@@ -1999,7 +1999,7 @@ Proof: One doesn't like ice cream or one is fat.
 Assumption 1: Lung cancer is caused by smoking.
 Proof: One doesn't smoke or one has lung cancer
 Troof: One doesn't smoke or one has lung cancer 
-                                                              /6
+                                                              5/6
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Proof: There isn't excess water or there are floods
@@ -2055,7 +2055,7 @@ Proof: Time doesn't pass or there is death
 Assumption 1: Fire causes smoke. 
 Proof: There isn't fire or there is smoke
 Troof: There isn't fire or there is smoke
-                                                              /7
+                                                              6/7
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption1: If the food is hot, it is ready to eat.
 Proof: The food is cold or it is ready to eat
@@ -2111,7 +2111,7 @@ Proof: The lamp is on or it is dark
 Assumption 1: The passage of time causes death.
 Proof: Time doesn't pass or there is death
 Troof: Time doesn't pass or there is death
-                                                              /8
+                                                              7/8
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption1: If one likes ice cream, then he is fat.
 Proof: One doesn't like ice cream or one is fat.
@@ -2167,7 +2167,7 @@ Proof: There are not power outages or there are storms
 Assumption 1: Callousness is caused by greed.
 Proof: There is no greed or there is callousness
 Troof: One isn't greedy or one is callous
-                                                              /9
+                                                             8/9
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption1: If the lamp is off, it is dark.
 Proof: The lamp is on or it is dark
@@ -2223,7 +2223,7 @@ Proof: One didn't eat mushrooms or one has hallucinations
 Assumption 1: Fermentation is caused by kimchi.
 Proof: One didn't eat kimchi or there is fermentation
 Troof: There is fermentation or there isn't kimchi
-                                                              /10
+                                                              8/10
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by kimchi.
 Proof: There is fermentation or there isn't kimchi
@@ -2279,7 +2279,7 @@ Proof: You aren't rich or you can find a date
 Assumption1: If one likes ice cream, then he is fat.
 Proof: One doesn't like ice cream or he is fat
 Troof: One doesn't like ice cream or one is fat.
-                                                              /11
+                                                              9/11
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Proof: One didn't eat mushrooms or one has hallucinations
@@ -2335,7 +2335,7 @@ Proof: One is not breathing or one is alive
 Assumption1: If one can fly, one has wings.
 Proof: One can't fly or one has wings
 Troof: One can't fly or one has wings
-                                                              /12
+                                                              10/12
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
 Assumption1: If one breathes, one is alive.
 Proof: One is not breathing or one is alive
@@ -2391,7 +2391,7 @@ Proof: There isn't smoke or there is a fire
 Assumption1: If you are rich, you can find a date.
 Proof: You are poor or you can't find a date
 Troof: You aren't rich or you can find a date
-                                                              /13
+                                                              10/13
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Proof: One didn't eat mushrooms or one has hallucinations
@@ -2447,7 +2447,7 @@ Proof: Thinking is not a crime or you are free
 Assumption1: If you eat bagels, you are cool.
 Proof: You don't eat bagels or you are cool
 Troof: You don't eat bagels or you are cool.
-                                                              /14
+                                                              11/14
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
 Assumption 1: The passage of time causes death.
 Proof: Time doesn't pass or there is death
@@ -2503,7 +2503,7 @@ Proof: One isn't old or one has hair loss
 Assumption1: If thinking is a crime, you would go free.
 Proof: One isn't thinking or one would go free
 Troof: Thinking is not a crime or you are free
-                                                              /15
+                                                              11/15
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 16--------------MODEL j1-jumbo--------------------
 Assumption 1: Hair loss is caused by age.
 Proof: One isn't old or one has hair loss
@@ -2559,7 +2559,7 @@ Proof: Time doesn't pass or there is death
 Assumption1: Power outages are caused by storms.
 Proof: There aren't power outages or there are storms
 Troof: There are not power outages or there are storms
-                                                              /16
+                                                              12/16
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 17--------------MODEL j1-jumbo--------------------
 Assumption1: If thinking is a crime, you would go free.
 Proof: Thinking is not a crime or you are free
@@ -2615,7 +2615,7 @@ Proof: Time doesn't pass or there is death
 Assumption1: Tinnitis is caused by loud music.
 Proof: One didn't listen to loud music or one has tinnitis
 Troof: One doesn't listen to loud music or one has tinnitis
-                                                              /17
+                                                              13/17
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 18--------------MODEL j1-jumbo--------------------
 Assumption1: Candy implies sugar.
 Proof: There isn't candy or there is sugar
@@ -2671,7 +2671,7 @@ Proof: There aren't threats or there is tension
 Assumption1: Smoke implies a fire.
 Proof: There isn't smoke or there is a fire
 Troof: There isn't smoke or there is a fire
-                                                              /18
+                                                              14/18
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 19--------------MODEL j1-jumbo--------------------
 Assumption 1: Fire causes smoke. 
 Proof: There isn't fire or there is smoke
@@ -2727,7 +2727,7 @@ Proof: The sun doesn't shine or there is cancer
 Assumption1: Warnings imply danger.
 Proof: There aren't warnings or there is danger
 Troof: There aren't warnings or there is danger
-                                                              /19
+                                                              15/19
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 20--------------MODEL j1-jumbo--------------------
 Assumption1: If one breathes, one is alive.
 Proof: One is not breathing or one is alive
@@ -2783,7 +2783,7 @@ Proof: The lamp is on or it is dark
 Assumption1: Trees imply leaves.
 Proof: There aren't trees or there are leaves
 Troof: There aren't trees or there are leaves
-                                                              /20
+                                                              16/20
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 21--------------MODEL j1-jumbo--------------------
 Assumption 1: Lung cancer is caused by smoking.
 Proof: One doesn't smoke or one has lung cancer 
@@ -2839,7 +2839,7 @@ Proof: One is not breathing or one is alive
 Assumption1: Assassination implies murder.
 Proof: Assassination is not murder or there is murder
 Troof: There isn't assassination or there is murder
-                                                              /21
+                                                              16/21
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 22--------------MODEL j1-jumbo--------------------
 Assumption1: Assassination implies murder.
 Proof: There isn't assassination or there is murder
@@ -2895,7 +2895,7 @@ Proof: There aren't warnings or there is danger
 Assumption1: Threats imply tension.
 Proof: There aren't threats or there is tension
 Troof: There aren't threats or there is tension
-                                                              /22
+                                                              17/22
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 23--------------MODEL j1-jumbo--------------------
 Assumption1: Trees imply leaves.
 Proof: There aren't trees or there are leaves
@@ -2951,7 +2951,7 @@ Proof: You aren't rich or you can find a date
 Assumption1: Candy implies sugar.
 Proof: There isn't candy or there is sugar
 Troof: There isn't candy or there is sugar
-                                                              /23
+                                                              18/23
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 24--------------MODEL j1-jumbo--------------------
 Assumption1: Candy implies sugar.
 Proof: There isn't candy or there is sugar
@@ -3007,7 +3007,7 @@ Proof: One isn't greedy or one is callous
 Assumption1: If one breathes, one is alive.
 Proof: One doesn't breathe or one is alive
 Troof: One is not breathing or one is alive
-                                                              /24
+                                                              19/24
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 25--------------MODEL j1-jumbo--------------------
 Assumption1: Assassination implies murder.
 Proof: There isn't assassination or there is murder
@@ -3063,7 +3063,7 @@ Proof: You don't eat bagels or you are cool.
 Assumption1: If the food is hot, it is ready to eat.
 Proof: The food is not hot or it is ready to eat
 Troof: The food is cold or it is ready to eat
-                                                              /25
+                                                              20/25
 ----------------IT: mat-impl------------------EXPERIMENT NUMBER 26--------------MODEL j1-jumbo--------------------
 Assumption 1: Lung cancer is caused by smoking.
 Proof: One doesn't smoke or one has lung cancer 
@@ -3119,7 +3119,7 @@ Proof: The food is cold or it is ready to eat
 Assumption1: If the lamp is off, it is dark.
 Proof: The lamp is on or it is dark
 Troof: The lamp is on or it is dark
-                                                              /26
+                                                              21/26
 
 ___________________________________________________________________________________________________
 
@@ -3198,7 +3198,7 @@ Assumption 1: The sun causes cancer.
 Assumption 2: The sun shines.
 Proof: Cancer occurs
 Troof: There is cancer
-elapsed:1.2790043354034424                                                             /1
+elapsed:1.2790043354034424                                                             1/1
 ----------------IT: ponens------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There is excess water.
@@ -3272,7 +3272,7 @@ Assumption 1: Hunger causes irritation.
 Assumption 2: There is hunger.
 Proof: There is irritation
 Troof: There is irritation
-elapsed:0.8173778057098389                                                             /2
+elapsed:0.8173778057098389                                                             2/2
 ----------------IT: ponens------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption1: Smoke implies a fire.
 Assumption2: There is smoke.
@@ -3346,7 +3346,7 @@ Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One ate mushrooms.
 Proof: One has hallucinations
 Troof: One has hallucinations
-elapsed:1.1760573387145996                                                             /3
+elapsed:1.1760573387145996                                                             3/3
 ----------------IT: ponens------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption 1: Lung cancer is caused by smoking.
 Assumption 2: One smokes.
@@ -3420,7 +3420,7 @@ Assumption 1: Hair loss is caused by age.
 Assumption 2: One is old.
 Proof: There is hair loss
 Troof: One has hair loss
-elapsed:0.7214956283569336                                                             /4
+elapsed:0.7214956283569336                                                             4/4
 ----------------IT: ponens------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption1: If you eat bagels, you are cool.
 Assumption2: You eat bagels.
@@ -3494,7 +3494,7 @@ Assumption 1: Floods are caused by excess water.
 Assumption 2: There is excess water.
 Proof: There is flooding
 Troof: There are floods
-elapsed:0.8149235248565674                                                             /5
+elapsed:0.8149235248565674                                                             5/5
 ----------------IT: ponens------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption1: Tinnitis is caused by loud music.
 Assumption2: One listens to loud music.
@@ -3568,7 +3568,7 @@ Assumption 1: Lung cancer is caused by smoking.
 Assumption 2: One smokes.
 Proof: One has lung cancer
 Troof: One has lung cancer
-elapsed:1.0642921924591064                                                             /6
+elapsed:1.0642921924591064                                                             6/6
 ----------------IT: ponens------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption 1: Mushrooms cause hallucinations.
 Assumption 2: One ate mushrooms.
@@ -3642,7 +3642,7 @@ Assumption 1: Fire causes smoke.
 Assumption 2: There is fire.
 Proof: There is smoke
 Troof: There is smoke
-elapsed:0.9772894382476807                                                             /7
+elapsed:0.9772894382476807                                                             7/7
 ----------------IT: ponens------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption1: If thinking is a crime, you would go free.
 Assumption2: Thinking is a crime.
@@ -3716,7 +3716,7 @@ Assumption 1: The passage of time causes death.
 Assumption 2: Time passes.
 Proof: There is death
 Troof: Death occurs
-elapsed:0.8136870861053467                                                             /8
+elapsed:0.8136870861053467                                                             8/8
 ----------------IT: ponens------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption1: Tinnitis is caused by loud music.
 Assumption2: One listens to loud music.
@@ -3790,7 +3790,7 @@ Assumption 1: Callousness is caused by greed.
 Assumption 2: One is greedy.
 Proof: One has callousness
 Troof: One is callous
-elapsed:0.8012979030609131                                                             /9
+elapsed:0.8012979030609131                                                             9/9
 ----------------IT: ponens------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption1: Tinnitis is caused by loud music.
 Assumption2: One listens to loud music.
@@ -3864,7 +3864,7 @@ Assumption 1: Fermentation is caused by kimchi.
 Assumption 2: There is kimchi.
 Proof: There is fermentation
 Troof: There is fermentation
-elapsed:1.2441155910491943                                                             /10
+elapsed:1.2441155910491943                                                             10/10
 ----------------IT: ponens------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
 Assumption1: If you eat bagels, you are cool.
 Assumption2: You eat bagels.
@@ -3938,7 +3938,7 @@ Assumption1: If one likes ice cream, then he is fat.
 Assumption2: One likes ice cream.
 Proof: One is fat
 Troof: One is fat
-elapsed:0.9883697032928467                                                             /11
+elapsed:0.9883697032928467                                                             11/11
 ----------------IT: ponens------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
 Assumption1: If one likes ice cream, then he is fat.
 Assumption2: One likes ice cream.
@@ -4012,7 +4012,7 @@ Assumption1: If one can fly, one has wings.
 Assumption2: One can fly.
 Proof: One has wings
 Troof: One has wings
-elapsed:0.9799003601074219                                                             /12
+elapsed:0.9799003601074219                                                             12/12
 ----------------IT: ponens------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
 Assumption1: If one can fly, one has wings.
 Assumption2: One can fly.
@@ -4086,7 +4086,7 @@ Assumption1: If you are rich, you can find a date.
 Assumption2: You are rich.
 Proof: You can find a date
 Troof: You can find a date
-elapsed:0.9631381034851074                                                             /13
+elapsed:0.9631381034851074                                                             13/13
 ----------------IT: ponens------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
 Assumption1: Trees imply leaves.
 Assumption2: There are trees.
@@ -4160,7 +4160,7 @@ Assumption1: If you eat bagels, you are cool.
 Assumption2: You eat bagels.
 Proof: You are cool
 Troof: You are cool
-elapsed:0.8654029369354248                                                             /14
+elapsed:0.8654029369354248                                                             14/14
 ----------------IT: ponens------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
 Assumption 1: Hunger causes irritation.
 Assumption 2: There is hunger.
@@ -4234,7 +4234,7 @@ Assumption1: If thinking is a crime, you would go free.
 Assumption2: Thinking is a crime.
 Proof: You would go free
 Troof: You are free
-elapsed:1.088343858718872                                                             /15
+elapsed:1.088343858718872                                                             15/15
 ----------------IT: ponens------------------EXPERIMENT NUMBER 16--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by kimchi.
 Assumption 2: There is kimchi.
@@ -4308,7 +4308,7 @@ Assumption1: Power outages are caused by storms.
 Assumption2: There are power outages.
 Proof: There are storms
 Troof: There are storms
-elapsed:0.7610433101654053                                                             /16
+elapsed:0.7610433101654053                                                             16/16
 ----------------IT: ponens------------------EXPERIMENT NUMBER 17--------------MODEL j1-jumbo--------------------
 Assumption 1: The passage of time causes death.
 Assumption 2: Time passes.
@@ -4382,7 +4382,7 @@ Assumption1: Tinnitis is caused by loud music.
 Assumption2: One listens to loud music.
 Proof: One has tinnitis
 Troof: One has tinnitis
-elapsed:1.0900511741638184                                                             /17
+elapsed:1.0900511741638184                                                             17/17
 ----------------IT: ponens------------------EXPERIMENT NUMBER 18--------------MODEL j1-jumbo--------------------
 Assumption1: If you are rich, you can find a date.
 Assumption2: You are rich.
@@ -4456,7 +4456,7 @@ Assumption1: Smoke implies a fire.
 Assumption2: There is smoke.
 Proof: There is a fire
 Troof: There is fire
-elapsed:0.8682501316070557                                                             /18
+elapsed:0.8682501316070557                                                             18/18
 ----------------IT: ponens------------------EXPERIMENT NUMBER 19--------------MODEL j1-jumbo--------------------
 Assumption1: If you are rich, you can find a date.
 Assumption2: You are rich.
@@ -4530,7 +4530,7 @@ Assumption1: Warnings imply danger.
 Assumption2: There are warnings.
 Proof: There is danger
 Troof: There is danger
-elapsed:1.0809807777404785                                                             /19
+elapsed:1.0809807777404785                                                             19/19
 ----------------IT: ponens------------------EXPERIMENT NUMBER 20--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: There is excess water.
@@ -4604,7 +4604,7 @@ Assumption1: Trees imply leaves.
 Assumption2: There are trees.
 Proof: There are leaves
 Troof: There are leaves
-elapsed:1.2209620475769043                                                             /20
+elapsed:1.2209620475769043                                                             20/20
 ----------------IT: ponens------------------EXPERIMENT NUMBER 21--------------MODEL j1-jumbo--------------------
 Assumption 1: The passage of time causes death.
 Assumption 2: Time passes.
@@ -4678,7 +4678,7 @@ Assumption1: Assassination implies murder.
 Assumption2: There is assassination.
 Proof: There is murder
 Troof: There is murder
-elapsed:0.8154764175415039                                                             /21
+elapsed:0.8154764175415039                                                             21/21
 ----------------IT: ponens------------------EXPERIMENT NUMBER 22--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by kimchi.
 Assumption 2: There is kimchi.
@@ -4752,7 +4752,7 @@ Assumption1: Threats imply tension.
 Assumption2: There are threats.
 Proof: There is tension
 Troof: There is tension
-elapsed:0.7598104476928711                                                             /22
+elapsed:0.7598104476928711                                                             22/22
 ----------------IT: ponens------------------EXPERIMENT NUMBER 23--------------MODEL j1-jumbo--------------------
 Assumption1: Threats imply tension.
 Assumption2: There are threats.
@@ -4826,7 +4826,7 @@ Assumption1: Candy implies sugar.
 Assumption2: There is candy.
 Proof: There is sugar
 Troof: There is sugar
-elapsed:0.9147803783416748                                                             /23
+elapsed:0.9147803783416748                                                             23/23
 
 ___________________________________________________________________________________________________
 
@@ -4923,7 +4923,7 @@ Assumption 2: Hunger causes cancer.
 Assumption 3: There is sun or there is hunger.
 Proof: There is cancer
 Troof: There is cancer
-elapsed:1.1566767692565918                                                             /1
+elapsed:1.1566767692565918                                                             1/1
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption1: Tinnitis is caused by loud music.
 Assumption2: If you stand at the stage of a concert you'll get tinnitis.
@@ -5015,7 +5015,7 @@ Assumption 2: Hallucinations are caused by age.
 Assumption 3: One ate mushrooms or one is old.
 Proof: One hallucinates
 Troof: One has hallucinations
-elapsed:0.9159355163574219                                                             /2
+elapsed:0.9159355163574219                                                             2/2
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption1: Smoke implies a fire.
 Assumption2: If something is burning, there is a fire.
@@ -5107,7 +5107,7 @@ Assumption 2: Floods are caused by smoking.
 Assumption 3: There is excess water or one smokes.
 Proof: There is flooding
 Troof: There are floods
-elapsed:1.8937838077545166                                                             /3
+elapsed:1.8937838077545166                                                             3/3
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption1: Tinnitis is caused by loud music.
 Assumption2: If you stand at the stage of a concert you'll get tinnitis.
@@ -5199,7 +5199,7 @@ Assumption 2: The passage of time causes death.
 Assumption 3: There is fire or time passes.
 Proof: There is death
 Troof: There is death
-elapsed:0.7479596138000488                                                             /4
+elapsed:0.7479596138000488                                                             4/4
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption 1: Stress causes anxiety.
 Assumption 2: Stress is caused by cold weather.
@@ -5291,7 +5291,7 @@ Assumption 2: Fermentation is caused by kimchi.
 Assumption 3: One is greedy or there is kimchi.
 Proof: There is fermentation
 Troof: There is fermentation
-elapsed:0.9583630561828613                                                             /5
+elapsed:0.9583630561828613                                                             5/5
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption 1: Sleep causes rejuvenation.
 Assumption 2: Rejuvenation is caused by processed food.
@@ -5383,7 +5383,7 @@ Assumption 2: Stress is caused by cold weather.
 Assumption 3: One is stressed or there is cold weather.
 Proof: There is anxiety
 Troof: One has anxiety
-elapsed:1.405785083770752                                                             /6
+elapsed:1.405785083770752                                                             6/6
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption1: Warnings imply danger.
 Assumption2: If a caged animal gets loose, it is dangerous.
@@ -5475,7 +5475,7 @@ Assumption 2: Clouds are caused by cows.
 Assumption 3: There is rain or there are cows.
 Proof: There are clouds
 Troof: There are clouds
-elapsed:1.4796977043151855                                                             /7
+elapsed:1.4796977043151855                                                             7/7
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption1: Assassination implies murder.
 Assumption2: If you are watching British TV, there is murder.
@@ -5567,7 +5567,7 @@ Assumption 2: Sound is caused by alcohol.
 Assumption 3: There is music or there is alcohol.
 Proof: There is sound
 Troof: There is sound
-elapsed:0.9940648078918457                                                             /8
+elapsed:0.9940648078918457                                                             8/8
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption1: If you are rich, you can find a date.
 Assumption2: Attractive people can find dates.
@@ -5659,7 +5659,7 @@ Assumption 2: Rejuvenation is caused by processed food.
 Assumption 3: There is sleep or there is processed food.
 Proof: There is rejuvenation
 Troof: There is rejuvenation
-elapsed:0.7979755401611328                                                             /9
+elapsed:0.7979755401611328                                                             9/9
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption 1: Stress causes anxiety.
 Assumption 2: Stress is caused by cold weather.
@@ -5751,7 +5751,7 @@ Assumption 2: Widespread poverty is caused by bees.
 Assumption 3: There is big business or there are bees.
 Proof: There is widespread poverty
 Troof: There is widespread poverty
-elapsed:0.7410626411437988                                                             /10
+elapsed:0.7410626411437988                                                             10/10
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
 Assumption1: If one can fly, one has wings.
 Assumption2: If one is a penguin, one has wings
@@ -5843,7 +5843,7 @@ Assumption2: If one doesn't exercise one is fat
 Assumption3: One likes ice cream or one doesn't exercise.
 Proof: One is fat
 Troof: One is fat
-elapsed:0.7431974411010742                                                             /11
+elapsed:0.7431974411010742                                                             11/11
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
 Assumption 1: Fermentation is caused by greed.
 Assumption 2: Fermentation is caused by kimchi.
@@ -5935,7 +5935,7 @@ Assumption2: If one is a penguin, one has wings
 Assumption3: One can fly or one is a penguin.
 Proof: One has wings
 Troof: One has wings
-elapsed:0.8575441837310791                                                             /12
+elapsed:0.8575441837310791                                                             12/12
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
 Assumption 1: Big business causes widespread poverty. 
 Assumption 2: Widespread poverty is caused by bees.
@@ -6027,7 +6027,7 @@ Assumption2: Attractive people can find dates.
 Assumption3: You are rich or you are attractive.
 Proof: You can find a date
 Troof: You can find a date
-elapsed:0.7219870090484619                                                             /13
+elapsed:0.7219870090484619                                                             13/13
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
 Assumption1: Power outages are caused by storms.
 Assumption2: Climate change causes storms
@@ -6119,7 +6119,7 @@ Assumption2: People who live in the antarctic are cool.
 Assumption3: You eat bagels are you live in the antarctic.
 Proof: You are cool
 Troof: You are cool
-elapsed:0.9167211055755615                                                             /14
+elapsed:0.9167211055755615                                                             14/14
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
 Assumption1: There will be mistrust if there is lying.
 Assumption2: Failure destroys trust
@@ -6211,7 +6211,7 @@ Assumption2: If you have paid off all your debt, you are free.
 Assumption3: Thinking is a crime or you have paid off all your debt.
 Proof: You would go free
 Troof: You are free
-elapsed:1.4174160957336426                                                             /15
+elapsed:1.4174160957336426                                                             15/15
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 16--------------MODEL j1-jumbo--------------------
 Assumption1: Assassination implies murder.
 Assumption2: If you are watching British TV, there is murder.
@@ -6303,7 +6303,7 @@ Assumption2: Climate change causes storms
 Assumption3: There are power outages or there is climate change.
 Proof: There are storms
 Troof: There are storms
-elapsed:1.0117161273956299                                                             /16
+elapsed:1.0117161273956299                                                             16/16
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 17--------------MODEL j1-jumbo--------------------
 Assumption1: There are clouds if there is moisture.
 Assumption2: If Cloudcorp makes clouds then there are clouds.
@@ -6395,7 +6395,7 @@ Assumption2: If you stand at the stage of a concert you'll get tinnitis.
 Assumption3: One listens to loud music or one stands at the stage of a concert.
 Proof: One has tinnitis
 Troof: One has tinnitis
-elapsed:1.179246187210083                                                             /17
+elapsed:1.179246187210083                                                             17/17
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 18--------------MODEL j1-jumbo--------------------
 Assumption1: If you eat bagels, you are cool.
 Assumption2: People who live in the antarctic are cool.
@@ -6487,7 +6487,7 @@ Assumption2: If something is burning, there is a fire.
 Assumption3: There is smoke or something is burning.
 Proof: There is a fire
 Troof: There is a fire
-elapsed:1.0783569812774658                                                             /18
+elapsed:1.0783569812774658                                                             18/18
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 19--------------MODEL j1-jumbo--------------------
 Assumption 1: Music causes sound.
 Assumption 2: Sound is caused by alcohol.
@@ -6579,7 +6579,7 @@ Assumption2: If a caged animal gets loose, it is dangerous.
 Assumption3: There are warnings or a caged animal is loose.
 Proof: There is danger
 Troof: There is danger
-elapsed:0.8796341419219971                                                             /19
+elapsed:0.8796341419219971                                                             19/19
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 20--------------MODEL j1-jumbo--------------------
 Assumption1: Tinnitis is caused by loud music.
 Assumption2: If you stand at the stage of a concert you'll get tinnitis.
@@ -6671,7 +6671,7 @@ Assumption2: Bushes have leaves
 Assumption3: There is a tree or there is a bush.
 Proof: There are leaves
 Troof: There are leaves.
-elapsed:0.949127197265625                                                             /20
+elapsed:0.949127197265625                                                             20/20
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 21--------------MODEL j1-jumbo--------------------
 Assumption 1: Stress causes anxiety.
 Assumption 2: Stress is caused by cold weather.
@@ -6763,7 +6763,7 @@ Assumption2: If Cloudcorp makes clouds then there are clouds.
 Assumption3: There is moisture or cloudcorp makes clouds
 Proof: There are clouds
 Troof: There are clouds
-elapsed:2.1042706966400146                                                             /21
+elapsed:2.1042706966400146                                                             21/21
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 22--------------MODEL j1-jumbo--------------------
 Assumption 1: Floods are caused by excess water.
 Assumption 2: Floods are caused by smoking.
@@ -6855,7 +6855,7 @@ Assumption2: Failure destroys trust
 Assumption3: There is lying or there is failure.
 Proof: There is mistrust
 Troof: There is mistrust
-elapsed:0.8611202239990234                                                             /22
+elapsed:0.8611202239990234                                                             22/22
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 23--------------MODEL j1-jumbo--------------------
 Assumption1: Tinnitis is caused by loud music.
 Assumption2: If you stand at the stage of a concert you'll get tinnitis.
@@ -6947,7 +6947,7 @@ Assumption2: If you are watching British TV, there is murder.
 Assumption3: There is an assassination or you are watching British TV.
 Proof: There is murder
 Troof: There is murder
-elapsed:0.8611252307891846                                                             /23
+elapsed:0.8611252307891846                                                             23/23
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 24--------------MODEL j1-jumbo--------------------
 Assumption 1: Fire causes death. 
 Assumption 2: The passage of time causes death.
@@ -7039,7 +7039,7 @@ Assumption2: There is a tension if a rock hangs from a ceiling.
 Assumption3: There are threats or a rock hangs from the ceiling.
 Proof: There is a tension
 Troof: There is tension
-elapsed:0.7907390594482422                                                             /24
+elapsed:0.7907390594482422                                                             24/24
 ----------------IT: sudo-con-dil------------------EXPERIMENT NUMBER 25--------------MODEL j1-jumbo--------------------
 Assumption 1: Stress causes anxiety.
 Assumption 2: Stress is caused by cold weather.
@@ -7131,4 +7131,4 @@ Assumption2: Chocolate cake has sugar in it.
 Assumption3: There is candy or chocolate cake.
 Proof: There is sugar
 Troof: There is sugar
-elapsed:1.0152406692504883                                                             /25
+elapsed:1.0152406692504883                                                             25/25

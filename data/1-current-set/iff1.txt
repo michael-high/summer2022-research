@@ -1,0 +1,60 @@
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###

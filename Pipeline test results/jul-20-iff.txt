@@ -1,0 +1,1586 @@
+
+___________________________________________________________________________________________________
+
+                -----------------  iff1     -------------------
+___________________________________________________________________________________________________
+----------------IT: iff1------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+Troof: If chairs fly, then gravity is fake
+elapsed:1.065077781677246                                                             /1
+----------------IT: iff1------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof:
+    ---broke? idk y --internet
+
+___________________________________________________________________________________________________
+
+                -----------------  iff1     -------------------
+___________________________________________________________________________________________________
+----------------IT: iff1------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+Troof: If chairs fly, then gravity is fake
+elapsed:0.9159059524536133                                                             /1
+----------------IT: iff1------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof:
+-------broke
+
+___________________________________________________________________________________________________
+
+                -----------------  iff1     -------------------
+___________________________________________________________________________________________________
+----------------IT: iff1------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+Troof: If chairs fly, then gravity is fake
+elapsed:1.1470346450805664                                                             1/1
+----------------IT: iff1------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+Troof: If dancing is cool, then one can do the worm
+elapsed:2.272238254547119                                                             2/2
+----------------IT: iff1------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+Troof: If volcanoes are safe, then there are no dragons around
+elapsed:1.0753848552703857                                                             3/3
+----------------IT: iff1------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+Troof: If sleeping is beneficial, then one sleeps well
+elapsed:2.4916014671325684                                                             4/4
+----------------IT: iff1------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+Troof: If water is cold, then there are ice cubes
+elapsed:2.015296459197998                                                             5/5
+----------------IT: iff1------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+Troof: If leaves are dead, then leaves are brown
+elapsed:1.3171184062957764                                                             6/6
+----------------IT: iff1------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+Troof: If beer is harmful, then one drinks a lot of beer
+elapsed:1.0451998710632324                                                             7/7
+----------------IT: iff1------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+Troof: If socks are helpful, then socks are dry
+elapsed:1.0377593040466309                                                             8/8
+----------------IT: iff1------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the bana peel is yellow
+Troof: If bananas are safe to eat, then the banana peel is yellow
+elapsed:1.1033520698547363                                                             9/9
+----------------IT: iff1------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+Troof: If swimming is dangerous, then there is lightning
+elapsed:0.905775785446167                                                             10/10
+----------------IT: iff1------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+Troof: If tornadoes are fun, then tornadoes do not pose a threat
+elapsed:1.349733829498291                                                             11/11
+----------------IT: iff1------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+Troof: If tacos are tasty, then one is a human
+elapsed:0.973963737487793                                                             12/12
+----------------IT: iff1------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+Troof: If keyboards are cool, then keyboards have lights
+elapsed:1.1269605159759521                                                             13/13
+----------------IT: iff1------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive, then one has a license
+Troof: If one can drive a car, then one has a license
+elapsed:0.9361271858215332                                                             14/14
+----------------IT: iff1------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof:
+-----broke
+___________________________________________________________________________________________________
+
+                -----------------  iff1     -------------------
+___________________________________________________________________________________________________
+----------------IT: iff1------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+Troof: If chairs fly, then gravity is fake
+elapsed:1.0812315940856934                                                             /1
+----------------IT: iff1------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If today is Tuesday, then yesterday was Monday
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are dead, then leaves are brown
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If volcanoes are safe, then there are no dragons around
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+Troof: If dancing is cool, then one can do the worm
+elapsed:0.9519820213317871                                                             /2
+----------------IT: iff1------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If chairs fly, then gravity is fake
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If swimming is dangerous, then there is lightning
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If beer is harmful, then one drinks a lot of beer
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If sleeping is beneficial, then one sleeps well
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If bananas are safe to eat, then the banana peel is yellow
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one can procrastinate, then one has superpowers
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If tacos are tasty, then one is a human
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes are fun, then tornadoes do not pose a threat
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If dancing is cool, then one can do the worm
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one can think, then one exists
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are edible, then eggs are unfertilized
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one has insomnia, then one cannot sleep
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one can drive a car, then one has a license
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If water is cold, then there are ice cubes
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are helpful, then socks are dry
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards are cool, then keyboards have lights
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If goals are helpful, then there is committment to the goals
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof:
+___________________________________________________________________________________________________
+
+                -----------------  iff2     -------------------
+___________________________________________________________________________________________________
+----------------IT: iff2------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: One can think if and only if one exists.
+Proof: If one exists, then one can think
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are dry, then socks are helpful
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If the banana peel is yellow, then bananas are safe to eat
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards have lights, then keyboards are cool
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one cannot sleep, then one has insomnia
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If there is committment to the goals, then goals are helpful
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If there are no dragons around, then volcanoes are safe
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If one sleeps well, then sleeping is beneficial
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If yesterday was Monday, then today is Tuesday
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one has a license, then one can drive a car
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If then one is a human, tacos are tasty
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are unfertilized, then eggs are edible
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If one can do the worm, then dancing is cool
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If there are ice cubes, then water is cold
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If there is lightning, then swimming is dangerous
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one has superpowers, then one can procrastinate
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes do not pose a threat, then tornadoes are fun
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If gravity is fake, then chairs fly
+Troof: If gravity is fake, then chairs fly
+elapsed:0.9913730621337891                                                             1/1
+----------------IT: iff2------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If the banana peel is yellow, then bananas are safe to eat
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards have lights, then keyboards are cool
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If then one is a human, tacos are tasty
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If there are ice cubes, then water is cold
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one cannot sleep, then one has insomnia
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If one sleeps well, then sleeping is beneficial
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are brown, then leaves are dead
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If one drinks a lot of beer, then beer is harmful
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If there is lightning, then swimming is dangerous
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one has superpowers, then one can procrastinate
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If there is committment to the goals, then goals are helpful
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If there are no dragons around, then volcanoes are safe
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one has a license, then one can drive a car
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are dry, then socks are helpful
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are unfertilized, then eggs are edible
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes do not pose a threat, then tornadoes are fun
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one exists, then one can think
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof:
+___________________________________________________________________________________________________
+
+                -----------------  iff2     -------------------
+___________________________________________________________________________________________________
+----------------IT: iff2------------------EXPERIMENT NUMBER 1--------------MODEL j1-jumbo--------------------
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are dry, then socks are helpful
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If the banana peel is yellow, then bananas are safe to eat
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one cannot sleep, then one has insomnia
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If there are no dragons around, then volcanoes are safe
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one has a license, then one can drive a car
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If one drinks a lot of beer, then beer is harmful
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If there is lightning, then swimming is dangerous
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If there are ice cubes, then water is cold
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If then one is a human, tacos are tasty
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards have lights, then keyboards are cool
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If one can do the worm, then dancing is cool
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes do not pose a threat, then tornadoes are fun
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one has superpowers, then one can procrastinate
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are unfertilized, then eggs are edible
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If yesterday was Monday, then today is Tuesday
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If there is committment to the goals, then goals are helpful
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are brown, then leaves are dead
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If gravity is fake, then chairs fly
+Troof: If gravity is fake, then chairs fly
+elapsed:1.039222240447998                                                             1/1
+----------------IT: iff2------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards have lights, then keyboards are cool
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If gravity is fake, then chairs fly
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If then one is a human, tacos are tasty
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one has a license, then one can drive a car
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If the banana peel is yellow, then bananas are safe to eat
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If there is lightning, then swimming is dangerous
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one exists, then one can think
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If there is committment to the goals, then goals are helpful
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are unfertilized, then eggs are edible
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If one drinks a lot of beer, then beer is harmful
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If one sleeps well, then sleeping is beneficial
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one has superpowers, then one can procrastinate
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If there are no dragons around, then volcanoes are safe
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes do not pose a threat, then tornadoes are fun
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If there are ice cubes, then water is cold
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are brown, then leaves are dead
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one cannot sleep, then one has insomnia
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If one can do the worm, then dancing is cool
+Troof: If one can do the worm, then dancing is cool
+elapsed:0.8717641830444336                                                             2/2
+----------------IT: iff2------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If gravity is fake, then chairs fly
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof: If one sleeps well, then sleeping is beneficial
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are unfertilized, then eggs are edible
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards have lights, then keyboards are cool
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If then one is a human, tacos are tasty
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one exists, then one can think
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If there are ice cubes, then water is cold
+###
+Assumption1: Dancing is cool if and only if one can do the worm.
+Proof: If one can do the worm, then dancing is cool
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If one drinks a lot of beer, then beer is harmful
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes do not pose a threat, then tornadoes are fun
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one cannot sleep, then one has insomnia
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one has superpowers, then one can procrastinate
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one has a license, then one can drive a car
+###
+Assumption1: Leaves are dead if and only if leaves are brown.
+Proof: If leaves are brown, then leaves are dead
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If there is committment to the goals, then goals are helpful
+###
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are dry, then socks are helpful
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If yesterday was Monday, then today is Tuesday
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If there are no dragons around, then volcanoes are safe
+Troof: If there are no dragons around, then volcanoes are safe
+elapsed:1.1455943584442139                                                             3/3
+----------------IT: iff2------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
+Assumption1: Socks are helpful if and only if socks are dry.
+Proof: If socks are dry, then socks are helpful
+###
+Assumption1: Beer is harmful if and only if one drinks a lot of beer.
+Proof: If one drinks a lot of beer, then beer is harmful
+###
+Assumption1: One can drive a car if and only if one has a license. 
+Proof: If one has a license, then one can drive a car
+###
+Assumption1: One can procrastinate if and only if one has superpowers. 
+Proof: If one has superpowers, then one can procrastinate
+###
+Assumption1: Swimming is dangerous whenever there is lightning.
+Proof: If there is lightning, then swimming is dangerous
+###
+Assumption1: Eggs are edible if and only if eggs are unfertilized. 
+Proof: If eggs are unfertilized, then eggs are edible
+###
+Assumption1: Keyboards are cool whenever keyboards have lights. 
+Proof: If keyboards have lights, then keyboards are cool
+###
+Assumption1: One can think if and only if one exists.
+Proof: If one exists, then one can think
+###
+Assumption1: One has insomnia if and only if one cannot sleep.
+Proof: If one cannot sleep, then one has insomnia
+###
+Assumption1: Today is Tuesday whenever yesterday was Monday. 
+Proof: If yesterday was Monday, then today is Tuesday
+###
+Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
+Proof: If tornadoes do not pose a threat, then tornadoes are fun
+###
+Assumption1: Chairs fly whenever gravity is fake.
+Proof: If gravity is fake, then chairs fly
+###
+Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Proof: If the banana peel is yellow, then bananas are safe to eat
+###
+Assumption1: Water is cold if and only if there are ice cubes. 
+Proof: If there are ice cubes, then water is cold
+###
+Assumption1: Volcanoes are safe if and only if there are no dragons around.
+Proof: If there are no dragons around, then volcanoes are safe
+###
+Assumption1: Tacos are tasty if and only if one is a human.
+Proof: If then one is a human, tacos are tasty
+###
+Assumption1: Goals are helpful if and only if there is committment to the goals. 
+Proof: If there is committment to the goals, then goals are helpful
+###
+Assumption1: Sleeping is beneficial whenever one sleeps well.
+Proof:
