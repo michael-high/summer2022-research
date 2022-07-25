@@ -6,7 +6,7 @@ Assumption1: Water is cold if and only if there are ice cubes.
 Assumption1: Leaves are dead if and only if leaves are brown.
 Assumption1: Beer is harmful if and only if one drinks a lot of beer.
 Assumption1: Socks are helpful if and only if socks are dry.
-Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Assumption1: Bananas are safe to eat if and only if the banana peel is yellow.
 Assumption1: Swimming is dangerous whenever there is lightning.
 Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
 Assumption1: Tacos are tasty if and only if one is a human.

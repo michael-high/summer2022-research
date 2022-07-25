@@ -21,6 +21,6 @@ Assumption 1: Pollination is caused by bees.
 
 
 
-
-
+Assumption1: Tinnitis is caused by loud music.
+Assumption1: Power outages are caused by storms.
 Assumption 1: Attraction is caused by beauty.

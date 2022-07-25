@@ -1,20 +1,20 @@
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
+Assumption1: Smoke implies a fire.
+Assumption1: Warnings imply danger.
+Assumption1: Trees imply leaves.
+Assumption1: Assassination implies murder.
+Assumption1: Threats imply tension.
+Assumption1: Candy implies sugar.
+Assumption1: Ice cubes imply cold water.
+Assumption1: Committment to goals implies that goals are helpful.
+Assumption1: Cool keyboards implies that keyboards have lights.
+Assumption1: Helpful socks implies dry socks.
+Assumption1: Bananas that are safe to eat implies bananas with yellow peels. 
+Assumption1: Dead leaves are implied by brown leaves.
+Assumption1: Cows are implied by cowbells.
+Assumption1: Bread is implied by sandwiches.
+Assumption1: Kindness is implied by generosity.
+Assumption1: Glaciers are implied by polar bears.
+Assumption1: Electricity is implied by solar panels.
+Assumption1: Coffee mugs are implied by coffee.
+Assumption1: Paper is implied by origami.
+Assumption1: Light is implied by lanterns.

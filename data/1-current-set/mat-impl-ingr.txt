@@ -28,16 +28,16 @@ Proof: There is fermentation or there isn't kimchi
 Assumption1: If one likes ice cream, then he is fat.
 Proof: One doesn't like ice cream or one is fat.
 ###
-Assumption1: If one can fly, one has wings.
+Assumption1: If one can fly, then one has wings.
 Proof: One can't fly or one has wings
 ###
-Assumption1: If you are rich, you can find a date.
+Assumption1: If you are rich, then you can find a date.
 Proof: You aren't rich or you can find a date
 ###
-Assumption1: If you eat bagels, you are cool.
+Assumption1: If you eat bagels, then you are cool.
 Proof: You don't eat bagels or you are cool.
 ###
-Assumption1: If thinking is a crime, you would go free.
+Assumption1: If thinking is a crime, then you would go free.
 Proof: Thinking is not a crime or you are free
 ###
 Assumption1: Power outages are caused by storms.
@@ -64,12 +64,12 @@ Proof: There aren't threats or there is tension
 Assumption1: Candy implies sugar.
 Proof: There isn't candy or there is sugar
 ###
-Assumption1: If one breathes, one is alive.
+Assumption1: If one breathes, then one is alive.
 Proof: One is not breathing or one is alive
 ###
-Assumption1: If the food is hot, it is ready to eat.
+Assumption1: If the food is hot, then it is ready to eat.
 Proof: The food is cold or it is ready to eat
 ###
-Assumption1: If the lamp is off, it is dark.
+Assumption1: If the lamp is off, then it is dark.
 Proof: The lamp is on or it is dark
 ###

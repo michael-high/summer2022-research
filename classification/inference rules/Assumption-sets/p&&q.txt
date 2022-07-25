@@ -10,11 +10,11 @@ Assumption1: The space station is falling and concrete is heavy.
 Assumption1: Housing is expensive and food is a luxury.
 Assumption1: Death is natural and mushrooms are unnatural.
 Assumption1: Exercise is healthy and bikes are useful.
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
-Assumption1:
+Assumption1: There are tigers and there are mosquitoes.
+Assumption1: There are squirrels and there are dogs.
+Assumption1: Stars twinkle and water flows.
+Assumption1: The sun rises and the wind blows.
+Assumption1: Watermelons are juicy and the desert is dry.
+Assumption1: There are beetles and there are flowers.
+Assumption1: There is ice cream and there is music.
+Assumption1: There are doors and there are bells.
