@@ -38,3 +38,43 @@ Assumption1: ttttt is asdfg.
 Assumption2: bsdasd is qwerty.
 Proof: ttttt is asdfg and bsdasd is qwerty.
 ###
+Assumption1: I will study discrete math.
+Assumption2: I will stidy English literature.
+Proof: I will study discrete math and English literature.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: My name is Joe Biden.
+Proof: qwertyu is caused by ttttt and my name is Joe Biden.
+###
+Assumption1: Strength implies power.
+Assumption2: Dogs hate cats.
+Proof: Strength implies power and dogs hate cats.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: My name is Dima.
+Proof: Bobby is happy if and only if he ate ice cream and my name is Dima.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies cleverness and Cleverness implies sadness.
+###
+Assumption1: CEOs have a big salary.
+Assumption2: Bobby has a horse.
+Proof: CEOs have a big salary and Bobby has a horse.
+###
+Assumption1: If you run fast you are fit.
+Assumption2: He is a good swimmer.
+Proof: If you run fast you are fit and he is a good swimmer.
+###
+Assumption1: Volcanos are scary.
+Assumption2: Mary is pretty.
+Proof: Volcanos are scare and Mary is pretty.
+###
+Assumption1: qwerty is caused by dogs.
+Assumption2: Cleverness is caused by ttttt.
+Proof: qwerty is caused by dogs and cleverness is caused by ttttt.
+###
+Assumption1: Angels are real.
+Assumption2: Hell has many circles.
+Proof: Angels are real and hell has many circles.
+###

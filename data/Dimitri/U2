@@ -1,60 +1,80 @@
 Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
 Proof: Joe hates his mother.
 ###
 Assumption1: All animals are beautiful.
-Proof: Dogs are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: Duncan the dog is beautiful.
 ###
 Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
 Proof: ARM computers are smart.
 ###
 Assumption1: People from all the countries are unique.
-Proof: Ukrainins are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: Dimitri from Ukraine is unique.
 ###
 Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
 Proof: Europe is huge.
 ###
 Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
 Proof: Nixon is important.
 ###
 Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
 Proof: Computer science is hard.
 ###
 Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
 Proof: SAT is easy.
 ###
 Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
 Proof: Running has a pattern.
 ###
 Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
 Proof: qwerty has asdfg.
 ###
 Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
 Proof: Iphone has camera.
 ###
 Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
 Proof: McCartin-Lim is smart.
 ###
 Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
 Proof: Wabash is a great place for education.
 ###
 Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
 Proof: Lisp is useful.
 ###
 Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
 Proof: qwerty has great culture.
 ###
 Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
 Proof: hhhhhh is pretty.
 ###
 Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
 Proof: jhgfs has beautiful architecture.
 ###
 Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
 Proof: Bobby is important.
 ###
 Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
 Proof: Bitcoin is useful.
 ###
 Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
 Proof: Meta OPT is sentient.
 ###

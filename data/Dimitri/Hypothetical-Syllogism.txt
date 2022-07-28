@@ -42,3 +42,79 @@ Assumption1: If someone is from Mars, then he is foreign.
 Assumption2: If someone is foreign, then he is scary.
 Proof: If someone is from Mars, then he is scary.
 ###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: If it rains, then it is cloudy.
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: High IQ implies sadness.
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: Bob is happy if it is cloudy.
+###
+Assumption1: Cloudiness is caused by rain.
+Assumption2: Joe's sadness is caused by cloudiness.
+Proof: If it rains, Joe is sad.
+###
+Assumption1: Rain causes clouds.
+Assumption2: Dollar rises in value if it is cloudy.
+Proof: Rain causes Dollar to rise.
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: asdf implies high salaries.
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: If it is sunny, tttttt.
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: ttttt implies asddfg.
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: asdfg is caused by qwertyu.
+Proof: asdfg is caused by ttttt.
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: If bobby is happy, he is doing his homework.
+###
+Assumption1: I am from USA if and only if I know the anthem.
+Assumption2: Loving McDonalds is caused by knowing the anthem of the USA.
+Proof: If I am from the USA, I love McDonalds.
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: Having Iphone implies Fed stealing all your data.
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: If you wany to get rich, then you are anonymous.
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: If strength, then speed.
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: If you have a big brain, you have a high salary.
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: asdfg is implied by connections.
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: If you have a happy marriage, you have a lot of children.
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: High profits are implied by high energy costs.
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: If X, then Z
+###

@@ -1,0 +1,834 @@
+Assumption: If one likes ice cream, then one is fat.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: One doesn't like ice cream or one is fat
+Transposition: If one isn't fat, then one doesn't like ice cream.
+Addition: If one likes ice cream, then one is fat, and Henry breeds dogs.
+Universal Elimination: N/A
+###
+Assumption: If one can fly, then one has wings.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: One can't fly or one has wings.
+Transposition: If one doesn't have wings, then one can't fly.
+Addition:  If one can fly, then one has wings, and surviving is difficult.
+Universal Elimination: N/A
+###
+Assumption: If you are rich, then you can find a date.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: You aren't rich or you can find a date.
+Transposition: If you can't find a date, then you aren't rich.
+Addition:  If you are rich, then you can find a date, and Zia is emotional.
+Universal Elimination: N/A
+###
+Assumption: If you eat bagels, then you are cool.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: You don't eat bagels or you are cool.
+Transposition: If you aren't cool, then you don't eat bagels.
+Addition:  If you eat bagels, then you are cool, and beef is nutritious.
+Universal Elimination: N/A
+###
+Assumption: If thinking is a crime, then you would go free.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: Thinking isn't a crime or you would go free.
+Transposition: If you wouldn't go free, then thinking isn't a crime.
+Addition: If thinking is a crime, then you would go free, and free range chickens are healthy.
+Universal Elimination: N/A
+###
+Assumption: If the food is hot, then it is ready to eat.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: The food is cold or it is ready to eat.
+Transposition: If the food is not ready to eat then the food is cold.
+Addition: If the food is hot, then it is ready to eat, and frozen vegetables are cheap.
+Universal Elimination: N/A
+###
+Assumption: If one breathes, then one is alive.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: One doesn't breathe or one is alive.
+Transposition: If one isn't alive then one doesn't breathe.
+Addition: If one breathes, then one is alive, and shoes are expensive.
+Universal Elimination: N/A
+###
+Assumption: If the lamp is off, then it is dark.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: The lamp is on or it is dark.
+Transposition: If it is light, then the lamp is on.
+Addition: If the lamp is off, then it is dark, and aquariums are cool.
+Universal Elimination: N/A
+###
+Assumption: There is corn if there is plastic.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: There isn't plastic or there is corn.
+Transposition: If there isn't corn, then there isn't plastic.
+Addition: There is corn if there is plastic, and fried potatoes are unhealthy.
+Universal Elimination: N/A
+###
+Assumption: There is money if there is cash.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: There isn't cash or there is money.
+Transposition: If there isn't money, then there is cash.
+Addition: There is money if there is cash, and mirrors show a reflection.
+Universal Elimination: N/A
+###
+Assumption: If there are lights, then there is electricity.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: There aren't lights or there is electricity.
+Transposition: If there isn't electricity, then there aren't lights.
+Addition: If there are lights, then there is electricity, and sharks are friendly.
+Universal Elimination: N/A
+###
+Assumption: There are trees if there is a forest.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: There isn't a forest, or there are trees.
+Transposition: If there aren't trees, then there isn't a forest.
+Addition: There are trees if there is a forest, and pigs like mud.
+Universal Elimination: N/A
+###
+Assumption: If one has fun, then one is happy.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: One doesn't have fun or one is happy.
+Transposition: If one isn't happy, then one doesn't have fun.
+Addition: If one has fun, then one is happy, and pink is white mixed with red.
+Universal Elimination: N/A
+###
+Assumption: One is unhappy is one is lonely.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: One has a teacup if one drinks tea.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: If one has a mattress, then one sleeps well.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: One is cold if one has air conditioning.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: It is hot if a furnce is on.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: There are tractors if there is a farm.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: There is rubber if there are tires.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Smoke implies a fire.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Warnings imply danger.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Trees imply leaves.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Assassination implies murder.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Threats imply tension.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Candy implies sugar.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Ice cubes imply cold water.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Committment to goals implies that goals are helpful.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: There is not committment to goals or goals are helpful. 
+Transposition: If goals are not helpful, then there is not committment to goals.
+Addition: Llamas are cute or committment to goals implies that goals are helpful.
+Universal Elimination: N/A
+###
+Assumption: Cool keyboards implies that keyboards have lights.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Helpful socks implies dry socks.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Bananas that are safe to eat implies bananas with yellow peels. 
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Dead leaves are implied by brown leaves.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Cows are implied by cowbells.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Bread is implied by sandwiches.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Kindness is implied by generosity.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Glaciers are implied by polar bears.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Electricity is implied by solar panels.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Coffee mugs are implied by coffee.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Paper is implied by origami.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Light is implied by lanterns.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: The sky is blue and pain hurts.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Cheetos are carcinogenous and birds fly.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Drugs alter reality and driving is dangerous.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Perception is reality and the internet holds all knowledge.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Truth is relative and fire is hot.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Thinking is difficult and fevers are unhealthy.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Boats float and dogs bark.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Electricity is essential and nature is dying.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: The space station is falling and concrete is heavy.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Housing is expensive and food is a luxury.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Death is natural and mushrooms are unnatural.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Exercise is healthy and bikes are useful.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: There are tigers and there are mosquitoes.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: There are squirrels and there are dogs.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Stars twinkle and water flows.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: The sun rises and the wind blows.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Watermelons are juicy and the desert is dry.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: There are beetles and there are flowers.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: There is ice cream and there is music.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: There are doors and there are bells.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: It is raining.
+Addition: It is raining or it is sunny.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: I have an engineering degree.
+Addition: I have an engineering degree or a mathematics degree.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: My name is Joe.
+Addition: My name is Joe or Bill.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: I am from Georgia.
+Addition: I am from Georgia or from the USA.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: I like coffee.
+Addition: I like coffee or I like tea.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Bobby is tall.
+Addition: Bobby is tall or short.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Jumping is hard.
+Addition: Jumping is easy or hard.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: My computer has Intel CPU.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: My computer has Intel or AMD CPU.
+Universal Elimination: N/A
+###
+Assumption: ttttt is asdfg.
+Addition: ttttt is asdfg or dog.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Cats have four legs.
+Addition: Cats have four or eight legs.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: qwerty is asdfggg222.
+Addition: qwerty is asdfggg222 or president of the USA.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Russia is big.
+Addition: Russia is big or small.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Fish are fast.
+Addition: Fish are fast or slow.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: qwerty is funny.
+Addition: qwerty is funny or Bobby is scary.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Soldiers are strong.
+Addition: Soldiers are strong or dogs are fast.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Bob is simple.
+Addition: Bob is simple or advanced.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Reddit is helpful.
+Addition: Reddit is helpful or facebook is scary.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Wolf is grey.
+Addition: Wolf is grey or red.
+###
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: N/A
+###
+Assumption: Mom loves me.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: Mom loves me or dogs run fast.
+Universal Elimination: N/A
+###
+Assumption: Cryptocurrency is useful.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: Cryptocurrency is useful or fiat is useful.
+Universal Elimination: N/A
+###
+Assumption: Joe hates all women.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Joe hates his mother.
+###
+Assumption: All animals are beautiful.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Dogs are beautiful.
+###
+Assumption: Computers with any CPU architecture are smart.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: ARM computers are smart.
+###
+Assumption: People from all the countries are unique.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Ukrainians are unique.
+###
+Assumption: All continents are huge.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Europe is huge.
+###
+Assumption: Every US president is important.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Nixon is important.
+###
+Assumption: All the majors are hard.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Computer science is hard.
+###
+Assumption: All the tests are easy.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: SAT is easy.
+###
+Assumption: All the actions have a pattern.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Running has a pattern.
+###
+Assumption: All the ttttts have asdfg.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: qwerty has asdfg.
+###
+Assumption: All phones have camera.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Iphone has camera.
+###
+Assumption: All the Professors are smart.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: McCartin-Lim is smart.
+###
+Assumption: Every college is a great place for education.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Wabash is a great place for education.
+###
+Assumption: All programming languages are useful.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Lisp is useful.
+###
+Assumption: All countries have great culture.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: qwerty has great culture.
+###
+Assumption: All the cat breeds are pretty.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: hhhhhh is pretty.
+###
+Assumption: Every city has beautiful architecture.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: jhgfs has beautiful architecture.
+###
+Assumption: Every person named Joe is important.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Bobby is important.
+###
+Assumption: Every cryptocurrency is useful.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Bitcoin is useful.
+###
+Assumption: All the machine learning models are sentient.
+Simplification-1: N/A
+Simplification-2: N/A
+Material Implication: N/A
+Transposition: N/A
+Addition: 
+Universal Elimination: Meta OPT is sentient.
+###

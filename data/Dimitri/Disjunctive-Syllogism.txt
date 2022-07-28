@@ -38,3 +38,43 @@ Assumption1: I can jump high or I can not jump at all.
 Assumption2: I have no legs.
 Proof: I can not jump at all.
 ###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: I can play table tennis.
+###
+Assumption1: Cryptocurrency is good or bad.
+Assumption2: Cryptocurrency is not bad.
+Proof: Cryptocurrency is good.
+###
+Assumption1: 2Pac is a great artist or a bad artist.
+Assumption2: 2Pac is not a great artist.
+Proof: 2Pac is a bad artist.
+###
+Assumption1: Dollar is deflatory or inflatory.
+Assumption2: Dollar is not inflatory.
+Proof: Dollar is deflatory.
+###
+Assumption1: Joe is the fastest human on the planet or not the fastest.
+Assumption2: Dima is faster than Joe.
+Proof: Joe is not the fastest human on the planet.
+###
+Assumption1: I am the smartest human on the planet or dumbest.
+Assumption2: Bernie is smarter than I am.
+Proof: I am the dumbest human on the planet.
+###
+Assumption1: qwerty is ttttt or asdfg.
+Assumption2: qwerty is not asdfg.
+Proof: qwerty is ttttt.
+###
+Assumption1: Unknown is scary or not scary.
+Assumption2: Unknown is not not scary.
+Proof: Unknown is scary.
+###
+Assumption1: You can get rich in a casino or lose all your money.
+Assumption2: You can not lose all your money in a casino.
+Proof: You can get rich in a casino.
+###
+Assumption1: I am the best tic-tac-toe player in the world or not the best.
+Assumption2: Bob is the best tic-tac-toe player in the world.
+Proof: I am not the best player in the world.
+###

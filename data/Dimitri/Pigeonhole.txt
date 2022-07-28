@@ -1,0 +1,80 @@
+Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni.
+Assumption2: Catherine's pizza does not have pepperoni.
+Proof: Emily's pizza has pepperoni
+###
+Assumption1: Either Dima, Mike, or both, have computer science degree.
+Assumption2: Dima does not have computer science degree.
+Proof: Mike has computer science degree.
+###
+Assumption1: At least one of the three dogs: Duncan, Cardie or Biscuit is not wet.
+Assumption2: Cardie and Biscuit are wet.
+Proof: Duncan is not wet.
+###
+Assumption1: Either Indiana or Illinois, or both, have Democracy.
+Assumption2: Indiana does not have democracy.
+Proof: Illinois has democracy.
+###
+Assumption1: Either Wabash or Purdue, or both, have women.
+Assumption2: Wabash does not have women.
+Proof: Purdue has women.
+###
+Assumption1: At least one of Joe or Bobby is a US president.
+Assumption2: Bobby is not a US president.
+Proof: Joe is the US president.
+###
+Assumption1: At least two out of Mary, Jill and Joe have a Biology degree.
+Assumption2: Jill does not have a Biology degree.
+Proof: Mary and Joe have Biology degrees.
+###
+Assumption1: Three out of four people: Bobby, Joe, Mary and John go to Wabash college.
+Assumption2: John does not go to Wabash college.
+Proof: Bobby, Joe and Mary go to Wabash college.
+###
+Assumption1: Either Intel or AMD CPU's have 100 cores.
+Assumption2: Intel CPU's do not have 100 cores.
+Proof: AMD CPU's have 100 cores.
+###
+Assumption1: One out of two countries: USA and Canada has cold weather.
+Assumption2: USA does not have cold weather.
+Proof: Canada has cold weather.
+###
+Assumption1: Two out of three trees: A, B or C have green bark.
+Assumption2: Tree C does not have green bark.
+Proof: Trees A and B have green bark.
+###
+Assumption1: One of the two friends: Joe and Mary, know Tom.
+Assumption2: Joe does not know Tom.
+Proof: Mary knows Tom.
+###
+Assumption1: Either Greenland or Greece has salads in its cuisine.
+Assumption2: Greece does not have salads in its cuisine.
+Proof: Greenland has salads in its cuisine.
+###
+Assumption1: Either ttttt or qwerty have asdfg.
+Assumption2: ttttt does not have asdfg.
+Proof: qwerty has asdfg.
+###
+Assumption1: Joe or qwerty run fast.
+Assumption2: Joe does not run fast.
+Proof: qwerty does run fast.
+###
+Assumption1: Either Dima or Mike or Both go to Wabash.
+Assumption2: Mike does not go to Wabash.
+Proof: Dima goes to Wabash.
+###
+Assumption1: Either Russia or China or both have communist regime.
+Assumption2: China does not have communist regime.
+Proof: Russia has communist regime.
+###
+Assumption1: One out of two qwertys: asdfg or ttttt has a dog.
+Assumption2: ttttt does not have a dog.
+Proof: asdfg has a dog.
+###
+Assumption1: Two out of three phones: Iphone, Samsung Galaxy or gggggmobile has a camera.
+Assumption2: Iphone does not have a camera.
+Proof: Samsung Galaxy and gggggmobile have cameras.
+###
+Assumption1: Either Ukraine or Russia will win the war.
+Assumption2: Russia will lose the war.
+Proof: Ukraine will win the war.
+###
