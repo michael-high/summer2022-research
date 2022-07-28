@@ -22,7 +22,7 @@ Proof: If beer is harmful, then one drinks a lot of beer
 Assumption1: Socks are helpful if and only if socks are dry.
 Proof: If socks are helpful, then socks are dry
 ###
-Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Assumption1: Bananas are safe to eat if and only if the banana peel is yellow.
 Proof: If bananas are safe to eat, then the banana peel is yellow
 ###
 Assumption1: Swimming is dangerous whenever there is lightning.

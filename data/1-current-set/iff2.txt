@@ -22,7 +22,7 @@ Proof: If one drinks a lot of beer, then beer is harmful
 Assumption1: Socks are helpful if and only if socks are dry.
 Proof: If socks are dry, then socks are helpful
 ###
-Assumption1: Bananas are safe to eat if and only if the bana peel is yellow.
+Assumption1: Bananas are safe to eat if and only if the banana peel is yellow.
 Proof: If the banana peel is yellow, then bananas are safe to eat
 ###
 Assumption1: Swimming is dangerous whenever there is lightning.
@@ -32,7 +32,7 @@ Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
 Proof: If tornadoes do not pose a threat, then tornadoes are fun
 ###
 Assumption1: Tacos are tasty if and only if one is a human.
-Proof: If then one is a human, tacos are tasty
+Proof: If one is a human, then tacos are tasty
 ###
 Assumption1: Keyboards are cool whenever keyboards have lights. 
 Proof: If keyboards have lights, then keyboards are cool
