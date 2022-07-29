@@ -1,0 +1,20 @@
+Assumption1: A charging cord implies a battery.
+Assumption1: A lamp implies a lightbulb.
+Assumption1: Speakers imply sound.
+Assumption1: A painting implies an artist.
+Assumption1: Velocity implies speed.
+Assumption1: Dress clothes imply undress clothes.
+Assumption1: Hard disk drives imply soft disk drives.
+Assumption1: A keyboard implies a language system.
+Assumption1: A watch implies a time system.
+Assumption1: Nail trimmers imply nails.
+Assumption1: Rain is implied by umbrellas.
+Assumption1: Rest is implied by sleep.
+Assumption1: Travel is implied by roads.
+Assumption1: Learning is implied by studying.
+Assumption1: Hunger is implied by starvation.
+Assumption1: Staples are implied by a staple gun.
+Assumption1: Conflict is implied by war.
+Assumption1: Disease is implied by pandemic.
+Assumption1: Snow is implied by blizzards.
+Assumption1: Water is implied by beaches.

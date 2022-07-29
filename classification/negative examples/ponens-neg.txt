@@ -1,0 +1,196 @@
+Assumption1: If one likes ice cream, then one is fat.
+Assumption2: One likes ice cream.
+Proof: One is fat.
+###
+Assumption1: If one can fly, then one has wings.
+Assumption2: One can fly.
+Proof: One has wings.
+###
+Assumption1: If you are rich, then you can find a date.
+Assumption2: You are rich.
+Proof: You can find a date.
+###
+Assumption1: If you eat bagels, then you are cool.
+Assumption2: You eat bagels.
+Proof: You are cool.
+###
+Assumption1: If thinking is a crime, then you would go free.
+Assumption2: Thinking is a crime.
+Proof: You would go free.
+###
+Assumption1: If the food is hot, then it is ready to eat.
+Assumption2: The food is hot.
+Proof: The food is ready to eat.
+###
+Assumption1: If one breathes, then one is alive.
+Assumption2: One breathes.
+Proof: One is alive.
+###
+Assumption1: If the lamp is off, then it is dark.
+Assumption2: The lamp is off.
+Proof: It is dark.
+###
+Assumption1: There is corn if there is plastic.
+Assumption2: There is plastic.
+Proof: There is corn.
+###
+Assumption1: There is money if there is cash.
+Assumption2: There is cash.
+Proof: There is money.
+###
+Assumption1: If there are lights, then there is electricity.
+Assumption2: There are lights.
+Proof: There is electricity.
+###
+Assumption1: There are trees if there is a forest.
+Assumption2: There is a forest.
+Proof: There are trees.
+###
+Assumption1: If one has fun, then one is happy.
+Assumption2: One has fun.
+Proof: One is happy.
+###
+Assumption1: One is unhappy if one is lonely.
+Assumption2: One is lonely.
+Proof: One is unhappy.
+###
+Assumption1: One has a teacup if one drinks tea.
+Assumption2: One drinks tea.
+Proof: One has a teacup.
+###
+Assumption1: If one has a mattress, then one sleeps well.
+Assumption2: One has a mattress.
+Proof: One sleeps well.
+###
+Assumption1: One is cold if one has air conditioning.
+Assumption2: One has air conditioning.
+Proof: One is cold
+###
+Assumption1: It is hot if a furnace is on.
+Assumption2: A furnace is on.
+Proof: It is hot.
+###
+Assumption1: There are tractors if there is a farm.
+Assumption2: There is a farm.
+Proof: There are tractors.
+###
+Assumption1: There is rubber if there are tires.
+Assumption2: There are tires.
+Proof: There is rubber.
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: There is fire.
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: There is danger.
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: There are  leaves.
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: There is murder.
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: There is tension.
+###
+Assumption1: Candy implies sugar.
+Assumption2: There is candy.
+Proof: There is sugar.
+###
+Assumption1: Ice cubes imply cold water.
+Assumption2: There are ice cubes.
+Proof: There is cold water.
+###
+Assumption1: Committment to goals implies that goals are helpful.
+Assumption2: There is committment to goals.
+Proof: Goals are helpful.
+###
+Assumption1: Cool keyboards implies that keyboards have lights.
+Assumption2: There are cool keyboards.
+Proof: Keyboards have lights.
+###
+Assumption1: Helpful socks implies dry socks.
+Assumption2: There are helpful socks.
+Proof: There are dry socks.
+###
+Assumption1: Bananas that are safe to eat implies bananas with yellow peels. 
+Assumption2: There are bananas that are safe to eat.
+Proof: There are bananas with yellow peels.
+###
+Assumption1: Dead leaves are implied by brown leaves.
+Assumption2: There are brown leaves.
+Proof: THere are dead leaves.
+###
+Assumption1: Cows are implied by cowbells.
+Assumption2: There are cowbells.
+Proof: There are cows.
+###
+Assumption1: Bread is implied by sandwiches.
+Assumption2: There are sandwiches.
+Proof: There is bread.
+###
+Assumption1: Kindness is implied by generosity.
+Assumption2: There is generosity.
+Proof: There is kindness.
+###
+Assumption1: Glaciers are implied by polar bears.
+Assumption2: There are polar bears.
+Proof: There are glaciers.
+###
+Assumption1: Electricity is implied by solar panels.
+Assumption2: There are solar panels.
+Proof: There is electricity.
+###
+Assumption1: Coffee mugs are implied by coffee.
+Assumption2: There is coffee.
+Proof: There are coffee mugs.
+###
+Assumption1: Paper is implied by origami.
+Assumption2: There is origami.
+Proof: There is paper.
+###
+Assumption1: Light is implied by lanterns.
+Assumption2: There are lanterns.
+Proof: There is light.
+###
+Assumption1:
+Assumption2:
+Proof: N/A
+###
+Assumption1: 
+Assumption2: If it is against the law, then it is bad.
+Proof: N/A
+###
+Assumption1: CEOs have a big salary.
+Assumption2:
+Proof: N/A
+###
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: N/A
+###
+Assumption1: I love dogs.
+Assumption2: I love cats.
+Proof: N/A
+###
+Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni.
+Assumption2: Catherine's pizza does not have pepperoni.
+Proof: N/A
+###
+Assumption1: If one likes ice cream, then one is fat.
+Assumption2: One isn't fat.
+Proof: N/A
+###
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: N/A
+###
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: N/A
+###

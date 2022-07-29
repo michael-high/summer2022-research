@@ -1,0 +1,40 @@
+{"prompt": "Assumption1: If one is unconscious, then one does not want tea.\nAssumption2: One wants tea.\n", "completion": "Proof: One is conscious."}
+{"prompt": "Assumption1: If a candle is lit, then there is a flame.\nAssumption2: There isn't a flame.\n", "completion": "Proof: A candle isn't lit."}
+{"prompt": "Assumption1: If there are bees, then there is pollination.\nAssumption2: There isn't pollination.\n", "completion": "Proof: There aren't bees."}
+{"prompt": "Assumption1: If there are caterpilars, then there will be butterflies.\nAssumption2: There will not be butterflies.\n", "completion": "Proof: There are not caterpilars."}
+{"prompt": "Assumption1: If one has a toothbrush, then one has teeth.\nAssumption2: One does not have teeth.\n", "completion": "Proof: One does not have a toothbrush."}
+{"prompt": "Assumption1: If one needs glasses, then one has trouble seeing.\nAssumption2: One does not have trouble seeing.\n", "completion": "Proof: One doesn't need glasses."}
+{"prompt": "Assumption1: If one showers, then one is clean.\nAssumption2: One is unclean.\n", "completion": "Proof: One doesn't shower."}
+{"prompt": "Assumption1: If there are trees, then there are sticks.\nAssumption2: There aren't sticks.\n", "completion": "Proof: There aren't trees."}
+{"prompt": "Assumption1: If there is a bicycle, then there are two wheels.\nAssumption2: There aren't two wheels.\n", "completion": "Proof: There isn't a bicycle."}
+{"prompt": "Assumption1: If there are birds, then there are feathers.\nAssumption2: There aren't feathers.\n", "completion": "Proof: There aren't birds."}
+{"prompt": "Assumption1: There are missiles if there is war.\nAssumption2: There aren't missiles.\n", "completion": "Proof: There isn't war."}
+{"prompt": "Assumption1: There was clay if there is ceramic.\nAssumption2: There wasn't clay.\n", "completion": "Proof: There isn't ceramic."}
+{"prompt": "Assumption1: There were bees if there is honey.\nAssumption2: There weren't bees.\n", "completion": "Proof: There isn't honey."}
+{"prompt": "Assumption1: There is goat milk if there are goats.\nAssumption2: There isn't goat milk.\n", "completion": "Proof: There aren't goats."}
+{"prompt": "Assumption1: There is wool if there are sheep.\nAssumption2: There isn't wool.\n", "completion": "Proof: There aren't sheep."}
+{"prompt": "Assumption1: One is sick if one has covid.\nAssumption2: One isn't sick.\n", "completion": "Proof: One doesn't have covid."}
+{"prompt": "Assumption1: One is dangerous if one carries a gun.\nAssumption2: One isn't dangerous.\n", "completion": "Proof: One doesn't carry a gun."}
+{"prompt": "Assumption1: One is a nerd if one plays video games.\nAssumption2: One isn't a nerd.\n", "completion": "Proof: One doesn't play video games."}
+{"prompt": "Assumption1: One is athletic if one plays sports.\nAssumption2: One isn't athletic. \n", "completion": "Proof: One doesn't play sports."}
+{"prompt": "Assumption1: There was water if there are stalactites.\nAssumption2: There wasn't water.\n", "completion": "Proof: There aren't stalactites."}
+{"prompt": "Assumption1: A charging cord implies a battery.\nAssumption2: There isn't a battery.\n", "completion": "Proof: There isn't a charging cord."}
+{"prompt": "Assumption1: A lamp implies a lightbulb.\nAssumption2: There isn't a lightbulb.\n", "completion": "Proof: There isn't a lamp."}
+{"prompt": "Assumption1: Speakers imply sound.\nAssumption2: There isn't sound.\n", "completion": "Proof: There aren't speakers."}
+{"prompt": "Assumption1: A painting implies an artist.\nAssumption2: There isn't an artist.\n", "completion": "Proof: There isn't a painting."}
+{"prompt": "Assumption1: Velocity implies speed.\nAssumption2: There isn't speed.\n", "completion": "Proof: There isn't velocity."}
+{"prompt": "Assumption1: Dress clothes imply undress clothes.\nAssumption2: There aren't undress clothes.\n", "completion": "Proof: There aren't dress clothes."}
+{"prompt": "Assumption1: Hard disk drives imply soft disk drives.\nAssumption2: There aren't soft disk drives.\n", "completion": "Proof: There aren't hard disk drives."}
+{"prompt": "Assumption1: A keyboard implies a language system.\nAssumption2: There isn't a language system.\n", "completion": "Proof: There isn't a keyboard."}
+{"prompt": "Assumption1: A watch implies a time system.\nAssumption2: There isn't a time system.\n", "completion": "Proof: There isn't a watch."}
+{"prompt": "Assumption1: Nail trimmers imply nails.\nAssumption2: There aren't nails.\n", "completion": "Proof: There aren't nail trimmers."}
+{"prompt": "Assumption1: Rain is implied by umbrellas.\nAssumption2: There isn't rain.\n", "completion": "Proof: There aren't umbrellas."}
+{"prompt": "Assumption1: Rest is implied by sleep.\nAssumption2: There isn't rest.\n", "completion": "Proof: There isn't sleep."}
+{"prompt": "Assumption1: Travel is implied by roads.\nAssumption2: There isn't travel.\n", "completion": "Proof: There aren't roads."}
+{"prompt": "Assumption1: Learning is implied by studying.\nAssumption2: There isn't learning.\n", "completion": "Proof: There isn't studying."}
+{"prompt": "Assumption1: Hunger is implied by starvation.\nAssumption2: There isn't hunger.\n", "completion": "Proof: There isn't starvation."}
+{"prompt": "Assumption1: Staples are implied by a staple gun.\nAssumption2: There aren't staples.\n", "completion": "Proof: There isn't a staple gun."}
+{"prompt": "Assumption1: Conflict is implied by war.\nAssumption2: There isn't conflict.\n", "completion": "Proof: There isn't war."}
+{"prompt": "Assumption1: Disease is implied by a pandemic.\nAssumption2: There isn't disease.\n", "completion": "Proof: There isn't a pandemic."}
+{"prompt": "Assumption1: Snow is implied by blizzards.\nAssumption2: There isn't snow.\n", "completion": "Proof: There aren't blizzards."}
+{"prompt": "Assumption1: Water is implied by beaches.\nAssumption2: There isn't water.\n", "completion": "Proof: There aren't beaches."}

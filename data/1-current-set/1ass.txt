@@ -102,7 +102,7 @@ Transposition: If one isn't happy, then one doesn't have fun.
 Addition: If one has fun, then one is happy, and pink is white mixed with red.
 Universal Elimination: N/A
 ###
-Assumption: One is unhappy is one is lonely.
+Assumption: One is unhappy if one is lonely.
 Simplification-1: N/A
 Simplification-2: N/A
 Material Implication: N/A
@@ -134,7 +134,7 @@ Transposition: N/A
 Addition: 
 Universal Elimination: N/A
 ###
-Assumption: It is hot if a furnce is on.
+Assumption: It is hot if a furnace is on.
 Simplification-1: N/A
 Simplification-2: N/A
 Material Implication: N/A

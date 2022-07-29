@@ -1,0 +1,765 @@
+___________________________________________________________________________________________________
+                                        What dimitri used
+___________________________________________________________________________________________________
+Assumption1:
+Assumption2:
+Proof: N/A
+###
+Assumption1: 
+Assumption2: If it is against the law, then it is bad.
+Proof: N/A
+###
+Assumption1: CEOs have a big salary.
+Assumption2:
+Proof: N/A
+###
+___________________________________________________________________________________________________
+                                        hyp syl
+___________________________________________________________________________________________________
+
+Assumption1: If Joe has a degree, he went to school.
+Assumption2: If someone went to school, they studied a lot.
+Proof: N/A
+###
+Assumption1: If it is raining, the grass is wet.
+Assumption2: If the grass is wet, insects are happy.
+Proof: N/A
+###
+Assumption1: Having a job means you work a lot.
+Assumption2: If you have a job, you make money.
+Proof: N/A
+###
+Assumption1: Being an athlete gives you an ability to run fast.
+Assumption2: If you run fast you are fit.
+Proof: N/A
+###
+Assumption1: CEOs have a big salary.
+Assumption2: People with big salaries are happy.
+Proof: N/A
+###
+Assumption1: Being a ttttt means you own a ghjkl.
+Assumption2: If you own a ghjkl you automatically have a ttyyyy.
+Proof: N/A
+###
+Assumption1: Illegal things are against the law.
+Assumption2: If it is against the law, then it is bad.
+Proof: N/A
+###
+Assumption1: If Dima drinks coffee he feels satisfied.
+Assumption2: Being satisfied produces dopamine in the brain.
+Proof: N/A
+###
+Assumption1: If I do not wake up, then I cannot go to work.
+Assumption2: If I cannot go to work, then I will not get paid.
+Proof: N/A
+###
+Assumption1: If computer has a good CPU, then it is smart.
+Assumption2: If something is smart, then it can perform addition.
+Proof: N/A
+###
+Assumption1: If someone is from Mars, then he is foreign.
+Assumption2: If someone is foreign, then he is scary.
+Proof: N/A
+###
+Assumption1: It is cloudy if it rains.
+Assumption2: There is no sun if it is cloudy.
+Proof: N/A
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: N/A
+###
+Assumption1: It rains if and only if it is cloudy.
+Assumption2: Bob is happy if and only if it rains.
+Proof: N/A
+###
+Assumption1: asdf implies qwerty.
+Assumption2: qwerty implies high salaries.
+Proof: N/A
+###
+Assumption1: qwertyu if it is sunny.
+Assumption2: tttttt if it is qwertyu.
+Proof: N/A
+###
+Assumption1: It is ttttt if and only if qwertyu.
+Assumption2: qwertyu if and only if asddfg.
+Proof: N/A
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: Bobby eating ice cream implies him doing homework.
+Proof: N/A
+###
+Assumption1: Having Iphone implies having Icloud account.
+Assumption2: If you have an Icloud account, Fed steals all your data.
+Proof: N/A
+###
+Assumption1: Mining cryptocurrency if and only if you want to get rich.
+Assumption2: If you mine cryptocurrency, then you are anonymous.
+Proof: N/A
+###
+Assumption1: Strength implies power.
+Assumption2: Power if and only if speed.
+Proof: N/A
+###
+Assumption1: High IQ is implied by big brain.
+Assumption2: If you have a high IQ, then you have a high salary.
+Proof: N/A
+###
+Assumption1: Power is implied by connections.
+Assumption2: asdfg is implied by power.
+Proof: N/A
+###
+Assumption1: Happy family is implied by happy marriage.
+Assumption2: If you have a happy family, then you have a lot of children.
+Proof: N/A
+###
+Assumption1: Cryptocurrency mining is implied by high energy costs.
+Assumption2: High profits are implied by cryptocurrency mining.
+Proof: N/A
+###
+Assumption1: X implies Y.
+Assumption2: Z is implied by Y.
+Proof: N/A
+###
+___________________________________________________________________________________________________
+                ponens
+___________________________________________________________________________________________________
+Assumption1: If one likes ice cream, then he is fat.
+Assumption2: One likes ice cream.
+Proof: N/A
+###
+Assumption1: If one can fly, then one has wings.
+Assumption2: One can fly.
+Proof: N/A
+###
+Assumption1: If you are rich, then you can find a date.
+Assumption2: You are rich.
+Proof: N/A
+###
+Assumption1: If you eat bagels, then you are cool.
+Assumption2: You eat bagels.
+Proof: N/A
+###
+Assumption1: If thinking is a crime, then you would go free.
+Assumption2: Thinking is a crime.
+Proof: N/A
+###
+Assumption1: If the food is hot, then it is ready to eat.
+Assumption2: The food is hot.
+Proof: N/A
+###
+Assumption1: If one breathes, then one is alive.
+Assumption2: One breathes.
+Proof: N/A
+###
+Assumption1: If the lamp is off, then it is dark.
+Assumption2: The lamp is off.
+Proof: N/A
+###
+Assumption1: There is corn if there is plastic.
+Assumption2: There is plastic.
+Proof: N/A
+###
+Assumption1: There is money if there is cash.
+Assumption2: There is cash.
+Proof: N/A
+###
+Assumption1: If there are lights, then there is electricity.
+Assumption2: There are lights.
+Proof: N/A
+###
+Assumption1: There are trees if there is a forest.
+Assumption2: There is a forest.
+Proof: N/A
+###
+Assumption1: If one has fun, then one is happy.
+Assumption2: One has fun.
+Proof: N/A
+###
+Assumption1: One is unhappy if one is lonely.
+Assumption2: One is lonely.
+Proof: N/A
+###
+Assumption1: One has a teacup if one drinks tea.
+Assumption2: One drinks tea.
+Proof: N/A
+###
+Assumption1: If one has a mattress, then one sleeps well.
+Assumption2: One has a mattress.
+Proof: N/A
+###
+Assumption1: One is cold if one has air conditioning.
+Assumption2: One has air conditioning.
+Proof: N/A
+###
+Assumption1: It is hot if a furnace is on.
+Assumption2: A furnace is on.
+Proof: N/A
+###
+Assumption1: There are tractors if there is a farm.
+Assumption2: There is a farm.
+Proof: N/A
+###
+Assumption1: There is rubber if there are tires.
+Assumption2: There are tires.
+Proof: N/A
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There is smoke.
+Proof: N/A
+###
+Assumption1: Warnings imply danger.
+Assumption2: There are warnings.
+Proof: N/A
+###
+Assumption1: Trees imply leaves.
+Assumption2: There are trees.
+Proof: N/A
+###
+Assumption1: Assassination implies murder.
+Assumption2: There is assassination.
+Proof: N/A
+###
+Assumption1: Threats imply tension.
+Assumption2: There are threats.
+Proof: N/A
+###
+Assumption1: Candy implies sugar.
+Assumption2: There is candy.
+Proof: N/A
+###
+Assumption1: Ice cubes imply cold water.
+Assumption2: There are ice cubes.
+Proof: N/A
+###
+Assumption1: Committment to goals implies that goals are helpful.
+Assumption2: There is committment to goals.
+Proof: N/A
+###
+Assumption1: Cool keyboards implies that keyboards have lights.
+Assumption2: There are cool keyboards.
+Proof: N/A
+###
+Assumption1: Helpful socks implies dry socks.
+Assumption2: There are helpful socks.
+Proof: N/A
+###
+Assumption1: Bananas that are safe to eat implies bananas with yellow peels. 
+Assumption2: There are bananas that are safe to eat.
+Proof: N/A
+###
+Assumption1: Dead leaves are implied by brown leaves.
+Assumption2: There are brown leaves.
+Proof: N/A
+###
+Assumption1: Cows are implied by cowbells.
+Assumption2: There are cowbells.
+Proof: N/A
+###
+Assumption1: Bread is implied by sandwiches.
+Assumption2: There are sandwiches.
+Proof: N/A
+###
+Assumption1: Kindness is implied by generosity.
+Assumption2: There is generosity.
+Proof: N/A
+###
+Assumption1: Glaciers are implied by polar bears.
+Assumption2: There are polar bears.
+Proof: N/A
+###
+Assumption1: Electricity is implied by solar panels.
+Assumption2: There are solar panels.
+Proof: N/A
+###
+Assumption1: Coffee mugs are implied by coffee.
+Assumption2: There is coffee.
+Proof: N/A
+###
+Assumption1: Paper is implied by origami.
+Assumption2: There is origami.
+Proof: N/A
+###
+Assumption1: Light is implied by lanterns.
+Assumption2: There are lanterns.
+Proof: N/A
+###
+___________________________________________________________________________________________________
+                                    Conjunction
+___________________________________________________________________________________________________
+Assumption1: I love dogs.
+Assumption2: I love cats.
+Proof: N/A
+###
+Assumption1: I am a runner.
+Assumption2: I have a mathematics degree.
+Proof: N/A
+###
+Assumption1: Joe is from the USA.
+Assumption2: Joe is from NY.
+Proof: N/A
+###
+Assumption1: I go to Wabash.
+Assumption2: I love cats.
+Proof: N/A
+###
+Assumption1: Joe is the president.
+Assumption2: Joe is Biden.
+Proof: N/A
+###
+Assumption1: Dogs have two legs.
+Assumption2: Dogs have two hands.
+Proof: N/A
+###
+Assumption1: I am a human.
+Assumption2: I am a dog.
+Proof: N/A
+###
+Assumption1: It is raining.
+Assumption2: I am wet.
+Proof: N/A
+###
+Assumption1: Jumping is hard.
+Assumption2: Sleeping is easy.
+Proof: N/A
+###
+Assumption1: ttttt is asdfg.
+Assumption2: bsdasd is qwerty.       
+Proof: N/A
+###
+Assumption1: I will study discrete math.
+Assumption2: I will study English literature.
+Proof: N/A
+###
+Assumption1: Strength implies power.
+Assumption2: Dogs hate cats.
+Proof: N/A
+###
+Assumption1: CEOs have a big salary.
+Assumption2: Bobby has a horse.
+Proof: N/A
+###
+Assumption1: If you run fast you are fit.
+Assumption2: He is a good swimmer.
+Proof: N/A
+###
+Assumption1: Volcanos are scary.
+Assumption2: Mary is pretty.
+Proof: N/A
+###
+Assumption1: Angels are real.
+Assumption2: Hell has many circles.
+Proof: N/A
+###
+___________________________________________________________________________________________________
+                            Pigeons
+___________________________________________________________________________________________________
+Assumption1: Either Catherine's pizza or Emily's pizza, or both, has pepperoni.
+Assumption2: Catherine's pizza does not have pepperoni.
+Proof: N/A
+###
+Assumption1: Either Dima, Mike, or both, have computer science degree.
+Assumption2: Dima does not have computer science degree.
+Proof: N/A
+###
+Assumption1: At least one of the three dogs: Duncan, Cardie or Biscuit is not wet.
+Assumption2: Cardie and Biscuit are wet.
+Proof: N/A
+###
+Assumption1: Either Indiana or Illinois, or both, have Democracy.
+Assumption2: Indiana does not have democracy.
+Proof: N/A
+###
+Assumption1: Either Wabash or Purdue, or both, have women.
+Assumption2: Wabash does not have women.
+Proof: N/A
+###
+Assumption1: At least one of Joe or Bobby is a US president.
+Assumption2: Bobby is not a US president.
+Proof: N/A
+###
+Assumption1: At least two out of Mary, Jill and Joe have a Biology degree.
+Assumption2: Jill does not have a Biology degree.
+Proof: N/A
+###
+Assumption1: Three out of four people: Bobby, Joe, Mary and John go to Wabash college.
+Assumption2: John does not go to Wabash college.
+Proof: N/A
+###
+Assumption1: Either Intel or AMD CPU's have 100 cores.
+Assumption2: Intel CPU's do not have 100 cores.
+Proof: N/A
+###
+Assumption1: One out of two countries: USA and Canada has cold weather.
+Assumption2: USA does not have cold weather.
+Proof: N/A
+###
+Assumption1: Two out of three trees: A, B or C have green bark.
+Assumption2: Tree C does not have green bark.
+Proof: N/A
+###
+Assumption1: One of the two friends: Joe and Mary, know Tom.
+Assumption2: Joe does not know Tom.
+Proof: N/A
+###
+Assumption1: Either Greenland or Greece has salads in its cuisine.
+Assumption2: Greece does not have salads in its cuisine.
+Proof: N/A
+###
+Assumption1: Either ttttt or qwerty have asdfg.
+Assumption2: ttttt does not have asdfg.
+Proof: N/A
+###
+Assumption1: Joe or qwerty run fast.
+Assumption2: Joe does not run fast.
+Proof: N/A
+###
+Assumption1: Either Dima or Mike or Both go to Wabash.
+Assumption2: Mike does not go to Wabash.
+Proof: N/A
+###
+Assumption1: Either Russia or China or both have communist regime.
+Assumption2: China does not have communist regime.
+Proof: N/A
+###
+Assumption1: One out of two qwertys: asdfg or ttttt has a dog.
+Assumption2: ttttt does not have a dog.
+Proof: N/A
+###
+Assumption1: Two out of three phones: Iphone, Samsung Galaxy or gggggmobile has a camera.
+Assumption2: Iphone does not have a camera.
+Proof: N/A
+###
+Assumption1: Either Ukraine or Russia will win the war.
+Assumption2: Russia will lose the war.
+Proof: N/A
+###
+___________________________________________________________________________________________________
+                                        tollens
+___________________________________________________________________________________________________
+Assumption1: If one likes ice cream, then one is fat.
+Assumption2: One isn't fat.
+Proof: N/A
+###
+Assumption1: If one can fly, then one has wings.
+Assumption2: One doesn't have wings.
+Proof: N/A
+###
+Assumption1: If you are rich, then you can find a date.
+Assumption2: You can't find a date.
+Proof: N/A
+###
+Assumption1: If you eat bagels, then you are cool.
+Assumption2:  You aren't cool.
+Proof: N/A
+###
+Assumption1: If thinking is a crime, then you would go free.
+Assumption2: You wouldn't go free.
+Proof: N/A
+###
+Assumption1: If the food is hot, then it is ready to eat.
+Assumption2: The food is not ready to eat.
+Proof: N/A
+###
+Assumption1: If one breathes, then one is alive.
+Assumption2: One isn't alive.
+Proof: N/A
+###
+Assumption1: If the lamp is off, then it is dark.
+Assumption2: It is light.
+Proof: N/A
+###
+Assumption1: There is corn if there is plastic.
+Assumption2: There isn't corn.
+Proof: N/A
+###
+Assumption1: There is money if there is cash.
+Assumption2: There isn't money.
+Proof: N/A
+###
+Assumption1: If there are lights, then there is electricity.
+Assumption2: There isn't electricity.
+Proof: N/A
+###
+Assumption1: There are trees if there is a forest.
+Assumption2: There aren't trees.
+Proof: N/A
+###
+Assumption1: If one has fun, then one is happy.
+Assumption2: One isn't happy.
+Proof: N/A
+###
+Assumption1: One is unhappy if one is lonely.
+Assumption2: One isn't unhappy.
+Proof: N/A
+###
+Assumption1: One has a teacup if one drinks tea.
+Assumption2: One doesn't have a teacup.
+Proof: N/A
+###
+Assumption1: If one has a mattress, then one sleeps well.
+Assumption2: One doesn't sleep well.
+Proof: N/A
+###
+Assumption1: One is cold if one has air conditioning.
+Assumption2: One isn't cold.
+Proof: N/A
+###
+Assumption1: It is hot if a furnace is on.
+Assumption2: It isn't hot.
+Proof: N/A
+###
+Assumption1: There are tractors if there is a farm.
+Assumption2: There aren't tractors.
+Proof: N/A
+###
+Assumption1: There is rubber if there are tires.
+Assumption2: There isn't rubber.
+Proof: N/A
+###
+Assumption1: Smoke implies a fire.
+Assumption2: There isn't a fire.
+Proof: N/A
+###
+Assumption1: Warnings imply danger.
+Assumption2: There isn't danger.
+Proof: N/A
+###
+Assumption1: Trees imply leaves.
+Assumption2: There aren't leaves.
+Proof: N/A
+###
+Assumption1: Assassination implies murder.
+Assumption2: There isn't murder.
+Proof: N/A
+###
+Assumption1: Threats imply tension.
+Assumption2: There isn't tension.
+Proof: N/A
+###
+Assumption1: Candy implies sugar.
+Assumption2: There isn't sugar.
+Proof: N/A
+###
+Assumption1: Ice cubes imply cold water.
+Assumption2: There isn't cold water.
+Proof: N/A
+###
+Assumption1: Committment to goals implies that goals are helpful.
+Assumption2: Goals aren't helpful.
+Proof: N/A
+###
+Assumption1: Cool keyboards implies that keyboards have lights.
+Assumption2: Keyboards don't have lights.
+Proof: N/A
+###
+Assumption1: Helpful socks implies dry socks.
+Assumption2: There aren't dry socks.
+Proof: N/A
+###
+Assumption1: Bananas that are safe to eat implies bananas with yellow peels. 
+Assumption2: There aren't bananas with yellow peels.
+Proof: N/A
+###
+Assumption1: Dead leaves are implied by brown leaves.
+Assumption2: There aren't dead leaves.
+Proof: N/A
+###
+Assumption1: Cows are implied by cowbells.
+Assumption2: There aren't cows.
+Proof: N/A
+###
+Assumption1: Bread is implied by sandwiches.
+Assumption2: There isn't bread.
+Proof: N/A
+###
+Assumption1: Kindness is implied by generosity.
+Assumption2: There isn't kindness.
+Proof: N/A
+###
+Assumption1: Glaciers are implied by polar bears.
+Assumption2: There aren't glaciers.
+Proof: N/A
+###
+Assumption1: Electricity is implied by solar panels.
+Assumption2: There isn't electricity.
+Proof: N/A
+###
+Assumption1: Coffee mugs are implied by coffee.
+Assumption2: There aren't coffee mugs.
+Proof: N/A
+###
+Assumption1: Paper is implied by origami.
+Assumption2: There isn't paper.
+Proof: N/A
+###
+Assumption1: Light is implied by lanterns.
+Assumption2: There isn't light.
+Proof: N/A
+###
+___________________________________________________________________________________________________
+                                    Dis Syl 
+___________________________________________________________________________________________________
+Assumption1: I am from the USA or from France.
+Assumption2: I am not from the USA.
+Proof: N/A
+###
+Assumption1: Joe's favourite animals are dogs or cats.
+Assumption2: Joe's favourite animals are not cats.
+Proof: N/A
+###
+Assumption1: It is raining or there is a volcano eruption.
+Assumption2: The volcano is dormant.
+Proof: N/A
+###
+Assumption1: There is a volcano eruption or it is raining.
+Assumption2: There is no volcano eruption.
+Proof: N/A
+###
+Assumption1: This group of people are athletes or scientists.
+Assumption2: These people are not athletes.
+Proof: N/A
+###
+Assumption1: People who speak French are from Canada or France.
+Assumption2: People who speak French are not from France.
+Proof: N/A
+###
+Assumption1: Wabash College has men or women.
+Assumption2: Wabash College has no women.
+Proof: N/A
+###
+Assumption1: There are dogs or cats at the exposition.
+Assumption2: There are no dogs at the exposition.
+Proof: N/A
+###
+Assumption1: Bobby is a world chess champion or bobby is the worst player there is.
+Assumption2: Joe is a worse chess player than Bobby.
+Proof: N/A
+###
+Assumption1: I can jump high or I can not jump at all.
+Assumption2: I have no legs.
+Proof: N/A
+###
+Assumption1: I can play table tennis or I can regular tennis.
+Assumption2: I can not run a lot, therefore I can not play regular tennis.
+Proof: N/A
+###
+Assumption1: Cryptocurrency is good or bad.
+Assumption2: Cryptocurrency is not bad.
+Proof: N/A
+###
+Assumption1: 2Pac is a great artist or a bad artist.
+Assumption2: 2Pac is not a great artist.
+Proof: N/A
+###
+Assumption1: Dollar is deflatory or inflatory.
+Assumption2: Dollar is not inflatory.
+Proof: N/A
+###
+Assumption1: Joe is the fastest human on the planet or not the fastest.
+Assumption2: Dima is faster than Joe.
+Proof: N/A
+###
+Assumption1: I am the smartest human on the planet or dumbest.
+Assumption2: Bernie is smarter than I am.
+Proof: N/A
+###
+Assumption1: qwerty is ttttt or asdfg.
+Assumption2: qwerty is not asdfg.
+Proof: N/A
+###
+Assumption1: Unknown is scary or not scary.
+Assumption2: Unknown is not not scary.
+Proof: N/A
+###
+Assumption1: You can get rich in a casino or lose all your money.
+Assumption2: You can not lose all your money in a casino.
+Proof: N/A
+###
+Assumption1: I am the best tic-tac-toe player in the world or not the best.
+Assumption2: Bob is the best tic-tac-toe player in the world.
+Proof: N/A
+###
+___________________________________________________________________________________________________
+                            U2
+___________________________________________________________________________________________________
+Assumption1: Joe hates all women.
+Assumption2: Joe's mother is a women.
+Proof: N/A
+###
+Assumption1: All animals are beautiful.
+Assumption2: Duncan the dog is an animal.
+Proof: N/A
+###
+Assumption1: Computers with any CPU architecture are smart.
+Assumption2: ARM is a CPU architecture.
+Proof: N/A
+###
+Assumption1: People from all the countries are unique.
+Assumption2: Dimitri is from the country Ukraine.
+Proof: N/A
+###
+Assumption1: All continents are huge.
+Assumption2: Europe is a continent.
+Proof: N/A
+###
+Assumption1: Every US president is important.
+Assumption2: Nixon is a US president.
+Proof: N/A
+###
+Assumption1: All the majors are hard.
+Assumption2: Computer Science is a major.
+Proof: N/A
+###
+Assumption1: All the tests are easy.
+Assumption2: SAT is a test.
+Proof: N/A
+###
+Assumption1: All the actions have a pattern.
+Assumption2: Running is an action.
+Proof: N/A
+###
+Assumption1: All the ttttts have asdfg.
+Assumption2: qwerty is a ttttt.
+Proof: N/A
+###
+Assumption1: All phones have camera.
+Assumption2: Iphone is a phone.
+Proof: N/A
+###
+Assumption1: All the Professors are smart.
+Assumption2: McCartin-Lim is a professor.
+Proof: N/A
+###
+Assumption1: Every collage is a great place for education.
+Assumption2: Wabash is a college.
+Proof: N/A
+###
+Assumption1: All programming languages are useful.
+Assumption2: Lisp is a programming language.
+Proof: N/A
+###
+Assumption1: All countries have great culture.
+Assumption2: qwerty is a country.
+Proof: N/A
+###
+Assumption1: All the cat breeds are pretty.
+Assumption2: hhhhhh is a cat breed.
+Proof: N/A
+###
+Assumption1: Every city has beautiful architecture.
+Assumption2: jhgfs is a city.
+Proof: N/A
+###
+Assumption1: Every person named Joe is important.
+Assumption2: Bobby is named Joe.
+Proof: N/A
+###
+Assumption1: Every cryptocurrency is useful.
+Assumption2: Bitcoin is a cryptocurrency.
+Proof: N/A
+###
+Assumption1: All the machine learning models are sentient.
+Assumption2: Meta OPT is a machine learning model.
+Proof: N/A
+###

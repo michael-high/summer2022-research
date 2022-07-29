@@ -1,0 +1,80 @@
+Assumption1: I love dogs.
+Assumption2: I love cats.
+Proof: N/A
+###
+Assumption1: I am a runner.
+Assumption2: I have a mathematics degree.
+Proof: N/A
+###
+Assumption1: Joe is from the USA.
+Assumption2: Joe is from NY.
+Proof: N/A
+###
+Assumption1: I go to Wabash.
+Assumption2: I love cats.
+Proof: N/A
+###
+Assumption1: Joe is the president.
+Assumption2: Joe is Biden.
+Proof: N/A
+###
+Assumption1: Dogs have two legs.
+Assumption2: Dogs have two hands.
+Proof: N/A
+###
+Assumption1: I am a human.
+Assumption2: I am a dog.
+Proof: N/A
+###
+Assumption1: It is raining.
+Assumption2: I am wet.
+Proof: N/A
+###
+Assumption1: Jumping is hard.
+Assumption2: Sleeping is easy.
+Proof: N/A
+###
+Assumption1: ttttt is asdfg.
+Assumption2: bsdasd is qwerty.
+Proof: N/A
+###
+Assumption1: I will study discrete math.
+Assumption2: I will stidy English literature.
+Proof: N/A
+###
+Assumption1: qwertyu is caused by ttttt.
+Assumption2: My name is Joe Biden.
+Proof: N/A
+###
+Assumption1: Strength implies power.
+Assumption2: Dogs hate cats.
+Proof: N/A
+###
+Assumption1: Bobby is happy if and only if he ate ice cream.
+Assumption2: My name is Dima.
+Proof: N/A
+###
+Assumption1: High IQ implies cleverness.
+Assumption2: Cleverness implies sadness.
+Proof: N/A
+###
+Assumption1: CEOs have a big salary.
+Assumption2: Bobby has a horse.
+Proof: N/A
+###
+Assumption1: If you run fast you are fit.
+Assumption2: He is a good swimmer.
+Proof: N/A
+###
+Assumption1: Volcanos are scary.
+Assumption2: Mary is pretty.
+Proof: N/A
+###
+Assumption1: qwerty is caused by dogs.
+Assumption2: Cleverness is caused by ttttt.
+Proof: N/A
+###
+Assumption1: Angels are real.
+Assumption2: Hell has many circles.
+Proof: N/A
+###

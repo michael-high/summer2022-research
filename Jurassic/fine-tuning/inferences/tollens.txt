@@ -1,0 +1,160 @@
+Assumption1: If one is unconscious, then one does not want tea.
+Assumption2: One wants tea.
+Proof: One is conscious.
+###
+Assumption1: If a candle is lit, then there is a flame.
+Assumption2: There isn't a flame.
+Proof: A candle isn't lit.
+###
+Assumption1: If there are bees, then there is pollination.
+Assumption2: There isn't pollination.
+Proof: There aren't bees.
+###
+Assumption1: If there are caterpilars, then there will be butterflies.
+Assumption2: There will not be butterflies.
+Proof: There are not caterpilars.
+###
+Assumption1: If one has a toothbrush, then one has teeth.
+Assumption2: One does not have teeth.
+Proof: One does not have a toothbrush.
+###
+Assumption1: If one needs glasses, then one has trouble seeing.
+Assumption2: One does not have trouble seeing.
+Proof: One doesn't need glasses.
+###
+Assumption1: If one showers, then one is clean.
+Assumption2: One is unclean.
+Proof: One doesn't shower.
+###
+Assumption1: If there are trees, then there are sticks.
+Assumption2: There aren't sticks.
+Proof: There aren't trees.
+###
+Assumption1: If there is a bicycle, then there are two wheels.
+Assumption2: There aren't two wheels.
+Proof: There isn't a bicycle.
+###
+Assumption1: If there are birds, then there are feathers.
+Assumption2: There aren't feathers.
+Proof: There aren't birds.
+###
+Assumption1: There are missiles if there is war.
+Assumption2: There aren't missiles.
+Proof: There isn't war.
+###
+Assumption1: There was clay if there is ceramic.
+Assumption2: There wasn't clay.
+Proof: There isn't ceramic.
+###
+Assumption1: There were bees if there is honey.
+Assumption2: There weren't bees.
+Proof: There isn't honey.
+###
+Assumption1: There is goat milk if there are goats.
+Assumption2: There isn't goat milk.
+Proof: There aren't goats.
+###
+Assumption1: There is wool if there are sheep.
+Assumption2: There isn't wool.
+Proof: There aren't sheep.
+###
+Assumption1: One is sick if one has covid.
+Assumption2: One isn't sick.
+Proof: One doesn't have covid.
+###
+Assumption1: One is dangerous if one carries a gun.
+Assumption2: One isn't dangerous.
+Proof: One doesn't carry a gun.
+###
+Assumption1: One is a nerd if one plays video games.
+Assumption2: One isn't a nerd.
+Proof: One doesn't play video games.
+###
+Assumption1: One is athletic if one plays sports.
+Assumption2: One isn't athletic. 
+Proof: One doesn't play sports.
+###
+Assumption1: There was water if there are stalactites.
+Assumption2: There wasn't water.
+Proof: There aren't stalactites.
+###
+Assumption1: A charging cord implies a battery.
+Assumption2: There isn't a battery.
+Proof: There isn't a charging cord.
+###
+Assumption1: A lamp implies a lightbulb.
+Assumption2: There isn't a lightbulb.
+Proof: There isn't a lamp.
+###
+Assumption1: Speakers imply sound.
+Assumption2: There isn't sound.
+Proof: There aren't speakers.
+###
+Assumption1: A painting implies an artist.
+Assumption2: There isn't an artist.
+Proof: There isn't a painting.
+###
+Assumption1: Velocity implies speed.
+Assumption2: There isn't speed.
+Proof: There isn't velocity.
+###
+Assumption1: Dress clothes imply undress clothes.
+Assumption2: There aren't undress clothes.
+Proof: There aren't dress clothes.
+###
+Assumption1: Hard disk drives imply soft disk drives.
+Assumption2: There aren't soft disk drives.
+Proof: There aren't hard disk drives.
+###
+Assumption1: A keyboard implies a language system.
+Assumption2: There isn't a language system.
+Proof: There isn't a keyboard.
+###
+Assumption1: A watch implies a time system.
+Assumption2: There isn't a time system.
+Proof: There isn't a watch.
+###
+Assumption1: Nail trimmers imply nails.
+Assumption2: There aren't nails.
+Proof: There aren't nail trimmers.
+###
+Assumption1: Rain is implied by umbrellas.
+Assumption2: There isn't rain.
+Proof: There aren't umbrellas.
+###
+Assumption1: Rest is implied by sleep.
+Assumption2: There isn't rest.
+Proof: There isn't sleep.
+###
+Assumption1: Travel is implied by roads.
+Assumption2: There isn't travel.
+Proof: There aren't roads.
+###
+Assumption1: Learning is implied by studying.
+Assumption2: There isn't learning.
+Proof: There isn't studying.
+###
+Assumption1: Hunger is implied by starvation.
+Assumption2: There isn't hunger.
+Proof: There isn't starvation.
+###
+Assumption1: Staples are implied by a staple gun.
+Assumption2: There aren't staples.
+Proof: There isn't a staple gun.
+###
+Assumption1: Conflict is implied by war.
+Assumption2: There isn't conflict.
+Proof: There isn't war.
+###
+Assumption1: Disease is implied by a pandemic.
+Assumption2: There isn't disease.
+Proof: There isn't a pandemic.
+###
+Assumption1: Snow is implied by blizzards.
+Assumption2: There isn't snow.
+Proof: There aren't blizzards.
+###
+Assumption1: Water is implied by beaches.
+Assumption2: There isn't water.
+Proof: There aren't beaches.
+###

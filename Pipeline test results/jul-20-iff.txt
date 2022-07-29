@@ -3106,7 +3106,7 @@ Proof: If one can think, then one exists
 Assumption1: Chairs fly whenever gravity is fake.
 Proof: If chairs fly, then gravity is fake
 Troof: If chairs fly, then gravity is fake
-elapsed:7.040045499801636                                                             /1
+elapsed:7.040045499801636                                                             1/1
 ----------------IT: iff1------------------EXPERIMENT NUMBER 2--------------MODEL j1-jumbo--------------------
 Assumption1: Leaves are dead if and only if leaves are brown.
 Proof: If leaves are dead, then leaves are brown
@@ -3162,7 +3162,7 @@ Proof: If today is Tuesday, then yesterday was Monday
 Assumption1: Dancing is cool if and only if one can do the worm.
 Proof: If dancing is cool, then one can do the worm
 Troof: If dancing is cool, then one can do the worm
-elapsed:1.958669662475586                                                             /2
+elapsed:1.958669662475586                                                             2/2
 ----------------IT: iff1------------------EXPERIMENT NUMBER 3--------------MODEL j1-jumbo--------------------
 Assumption1: Chairs fly whenever gravity is fake.
 Proof: If chairs fly, then gravity is fake
@@ -3218,7 +3218,7 @@ Proof: If one can think, then one exists
 Assumption1: Volcanoes are safe if and only if there are no dragons around.
 Proof: If volcanoes are safe, then there are no dragons around
 Troof: If volcanoes are safe, then there are no dragons around
-elapsed:2.0102498531341553                                                             /3
+elapsed:2.0102498531341553                                                             3/3
 ----------------IT: iff1------------------EXPERIMENT NUMBER 4--------------MODEL j1-jumbo--------------------
 Assumption1: Eggs are edible if and only if eggs are unfertilized. 
 Proof: If eggs are edible, then eggs are unfertilized
@@ -3274,7 +3274,7 @@ Proof: If one has insomnia, then one cannot sleep
 Assumption1: Sleeping is beneficial whenever one sleeps well.
 Proof: If sleeping is beneficial, then one sleeps well
 Troof: If sleeping is beneficial, then one sleeps well
-elapsed:2.031041145324707                                                             /4
+elapsed:2.031041145324707                                                             4/4
 ----------------IT: iff1------------------EXPERIMENT NUMBER 5--------------MODEL j1-jumbo--------------------
 Assumption1: Beer is harmful if and only if one drinks a lot of beer.
 Proof: If beer is harmful, then one drinks a lot of beer
@@ -3330,7 +3330,7 @@ Proof: If eggs are edible, then eggs are unfertilized
 Assumption1: Water is cold if and only if there are ice cubes. 
 Proof: If water is cold, then there are ice cubes
 Troof: If water is cold, then there are ice cubes
-elapsed:1.9617376327514648                                                             /5
+elapsed:1.9617376327514648                                                             5/5
 ----------------IT: iff1------------------EXPERIMENT NUMBER 6--------------MODEL j1-jumbo--------------------
 Assumption1: Beer is harmful if and only if one drinks a lot of beer.
 Proof: If beer is harmful, then one drinks a lot of beer
@@ -3386,7 +3386,7 @@ Proof: If one can procrastinate, then one has superpowers
 Assumption1: Leaves are dead if and only if leaves are brown.
 Proof: If leaves are dead, then leaves are brown
 Troof: If leaves are dead, then leaves are brown
-elapsed:1.9592792987823486                                                             /6
+elapsed:1.9592792987823486                                                             6/6
 ----------------IT: iff1------------------EXPERIMENT NUMBER 7--------------MODEL j1-jumbo--------------------
 Assumption1: Sleeping is beneficial whenever one sleeps well.
 Proof: If sleeping is beneficial, then one sleeps well
@@ -3442,7 +3442,7 @@ Proof: If tornadoes are fun, then tornadoes do not pose a threat
 Assumption1: Beer is harmful if and only if one drinks a lot of beer.
 Proof: If beer is harmful, then one drinks a lot of beer
 Troof: If beer is harmful, then one drinks a lot of beer
-elapsed:2.6116385459899902                                                             /7
+elapsed:2.6116385459899902                                                             7/7
 ----------------IT: iff1------------------EXPERIMENT NUMBER 8--------------MODEL j1-jumbo--------------------
 Assumption1: Leaves are dead if and only if leaves are brown.
 Proof: If leaves are dead, then leaves are brown
@@ -3498,7 +3498,7 @@ Proof: If bananas are safe to eat, then the banana peel is yellow
 Assumption1: Socks are helpful if and only if socks are dry.
 Proof: If socks are helpful, then socks are dry
 Troof: If socks are helpful, then socks are dry
-elapsed:1.9724838733673096                                                             /8
+elapsed:1.9724838733673096                                                             8/8
 ----------------IT: iff1------------------EXPERIMENT NUMBER 9--------------MODEL j1-jumbo--------------------
 Assumption1: Dancing is cool if and only if one can do the worm.
 Proof: If dancing is cool, then one can do the worm
@@ -3554,7 +3554,7 @@ Proof: If keyboards are cool, then keyboards have lights
 Assumption1: Bananas are safe to eat if and only if the banana peel is yellow.
 Proof: If bananas are safe to eat, then the banana peel is yellow
 Troof: If bananas are safe to eat, then the banana peel is yellow
-elapsed:5.350072145462036                                                             /9
+elapsed:5.350072145462036                                                             9/9
 ----------------IT: iff1------------------EXPERIMENT NUMBER 10--------------MODEL j1-jumbo--------------------
 Assumption1: Sleeping is beneficial whenever one sleeps well.
 Proof: If sleeping is beneficial, then one sleeps well
@@ -3610,7 +3610,7 @@ Proof: If one can think, then one exists
 Assumption1: Swimming is dangerous whenever there is lightning.
 Proof: If swimming is dangerous, then there is lightning
 Troof: If swimming is dangerous, then there is lightning
-elapsed:2.102349042892456                                                             /10
+elapsed:2.102349042892456                                                             10/10
 ----------------IT: iff1------------------EXPERIMENT NUMBER 11--------------MODEL j1-jumbo--------------------
 Assumption1: Sleeping is beneficial whenever one sleeps well.
 Proof: If sleeping is beneficial, then one sleeps well
@@ -3666,7 +3666,7 @@ Proof: If one has insomnia, then one cannot sleep
 Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
 Proof: If tornadoes are fun, then tornadoes do not pose a threat
 Troof: If tornadoes are fun, then tornadoes do not pose a threat
-elapsed:2.0966107845306396                                                             /11
+elapsed:2.0966107845306396                                                             11/11
 ----------------IT: iff1------------------EXPERIMENT NUMBER 12--------------MODEL j1-jumbo--------------------
 Assumption1: Eggs are edible if and only if eggs are unfertilized. 
 Proof: If eggs are edible, then eggs are unfertilized
@@ -3722,7 +3722,7 @@ Proof: If beer is harmful, then one drinks a lot of beer
 Assumption1: Tacos are tasty if and only if one is a human.
 Proof: If tacos are tasty, then one is a human
 Troof: If tacos are tasty, then one is a human
-elapsed:3.9222021102905273                                                             /12
+elapsed:3.9222021102905273                                                             12/12
 ----------------IT: iff1------------------EXPERIMENT NUMBER 13--------------MODEL j1-jumbo--------------------
 Assumption1: Water is cold if and only if there are ice cubes. 
 Proof: If water is cold, then there are ice cubes
@@ -3778,7 +3778,7 @@ Proof: If eggs are edible, then eggs are unfertilized
 Assumption1: Keyboards are cool whenever keyboards have lights. 
 Proof: If keyboards are cool, then keyboards have lights
 Troof: If keyboards are cool, then keyboards have lights
-elapsed:3.0906174182891846                                                             /13
+elapsed:3.0906174182891846                                                             13/13
 ----------------IT: iff1------------------EXPERIMENT NUMBER 14--------------MODEL j1-jumbo--------------------
 Assumption1: One can think if and only if one exists.
 Proof: If one can think, then one exists
@@ -3834,7 +3834,7 @@ Proof: If volcanoes are safe, then there are no dragons around
 Assumption1: One can drive a car if and only if one has a license. 
 Proof: If one can drive a car, then one has a license
 Troof: If one can drive a car, then one has a license
-elapsed:1.9722816944122314                                                             /14
+elapsed:1.9722816944122314                                                             14/14
 ----------------IT: iff1------------------EXPERIMENT NUMBER 15--------------MODEL j1-jumbo--------------------
 Assumption1: Chairs fly whenever gravity is fake.
 Proof: If chairs fly, then gravity is fake
@@ -3890,7 +3890,7 @@ Proof: If bananas are safe to eat, then the banana peel is yellow
 Assumption1: One has insomnia if and only if one cannot sleep.
 Proof: If one has insomnia, then one cannot sleep
 Troof: If one has insomnia, then one cannot sleep
-elapsed:1.9844117164611816                                                             /15
+elapsed:1.9844117164611816                                                             15/15
 ----------------IT: iff1------------------EXPERIMENT NUMBER 16--------------MODEL j1-jumbo--------------------
 Assumption1: Goals are helpful if and only if there is committment to the goals. 
 Proof: If goals are helpful, then there is committment to the goals
@@ -3946,7 +3946,7 @@ Proof: If sleeping is beneficial, then one sleeps well
 Assumption1: One can procrastinate if and only if one has superpowers. 
 Proof: If one can procrastinate, then one has superpowers
 Troof: If one can procrastinate, then one has superpowers
-elapsed:1.9106519222259521                                                             /16
+elapsed:1.9106519222259521                                                             16/16
 ----------------IT: iff1------------------EXPERIMENT NUMBER 17--------------MODEL j1-jumbo--------------------
 Assumption1: One has insomnia if and only if one cannot sleep.
 Proof: If one has insomnia, then one cannot sleep
@@ -4002,7 +4002,7 @@ Proof: If swimming is dangerous, then there is lightning
 Assumption1: Goals are helpful if and only if there is committment to the goals. 
 Proof: If goals are helpful, then there is committment to the goals
 Troof: If goals are helpful, then there is committment to the goals
-elapsed:2.071300745010376                                                             /17
+elapsed:2.071300745010376                                                             17/17
 ----------------IT: iff1------------------EXPERIMENT NUMBER 18--------------MODEL j1-jumbo--------------------
 Assumption1: Eggs are edible if and only if eggs are unfertilized. 
 Proof: If eggs are edible, then eggs are unfertilized
@@ -4058,7 +4058,7 @@ Proof: If swimming is dangerous, then there is lightning
 Assumption1: Today is Tuesday whenever yesterday was Monday. 
 Proof: If today is Tuesday, then yesterday was Monday
 Troof: If today is Tuesday, then yesterday was Monday
-elapsed:2.0404982566833496                                                             /18
+elapsed:2.0404982566833496                                                             18/18
 ----------------IT: iff1------------------EXPERIMENT NUMBER 19--------------MODEL j1-jumbo--------------------
 Assumption1: Volcanoes are safe if and only if there are no dragons around.
 Proof: If volcanoes are safe, then there are no dragons around
@@ -4114,7 +4114,7 @@ Proof: If socks are helpful, then socks are dry
 Assumption1: Eggs are edible if and only if eggs are unfertilized. 
 Proof: If eggs are edible, then eggs are unfertilized
 Troof: If eggs are edible, then eggs are unfertilized
-elapsed:2.5518388748168945                                                             /19
+elapsed:2.5518388748168945                                                             19/19
 ----------------IT: iff1------------------EXPERIMENT NUMBER 20--------------MODEL j1-jumbo--------------------
 Assumption1: Tornadoes are fun if and only if tornadoes do not pose a threat.
 Proof: If tornadoes are fun, then tornadoes do not pose a threat
@@ -4170,4 +4170,4 @@ Proof: If socks are helpful, then socks are dry
 Assumption1: One can think if and only if one exists.
 Proof: If one thinks, then one exists
 Troof: If one can think, then one exists
-elapsed:3.0894858837127686                                                             /20
+elapsed:3.0894858837127686                                                             20/20

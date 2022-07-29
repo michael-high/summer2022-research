@@ -1,0 +1,20 @@
+Assumption1: If one is unconscious, then one does not want tea.
+Assumption1: If a candle is lit, then there is a flame.
+Assumption1: If there are bees, then there is pollination.
+Assumption1: If there are caterpilars, then there will be butterflies.
+Assumption1: If one has a toothbrush, then one has teeth.
+Assumption1: If one needs glasses, then one has trouble seeing.
+Assumption1: If one showers, then one is clean.
+Assumption1: If there are trees, then there are sticks.
+Assumption1: If there is a bicycle, then there are two wheels.
+Assumption1: If there are birds, then there are feathers.
+Assumption1: There are missiles if there is war.
+Assumption1: There was clay if there is ceramic.
+Assumption1: There were bees if there is honey.
+Assumption1: There is goat milk if there are goats.
+Assumption1: There is wool if there are sheep.
+Assumption1: One is sick if one has covid.
+Assumption1: One is dangerous if one carries a gun.
+Assumption1: One is a nerd if one plays video games.
+Assumption1: One is athletic if one plays sports.
+Assumption1: There was water if there are stalactites.
