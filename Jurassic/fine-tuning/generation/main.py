@@ -11,7 +11,6 @@ def main(filename):
     experiments =a.makeAllExps(30)
     #experiments =a.makeTrials(10,5)
     #experiments = a.makeMultiExps(40)
-    print(experiments)
 
     u=uploader(experiments=experiments)
     u.convert()
